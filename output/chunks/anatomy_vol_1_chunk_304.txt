@@ -1,0 +1,13 @@
+Microtubules grow out from the centrioles by adding more tubulin subunits, like
+adding additional links to a chain.
+
+ In contrast with microtubules, the microfilament is a thinner type of cytoskeletal filament (see Figure 3.18b). Actin, a
+protein that forms chains, is the primary component of these microfilaments. Actin fibers, twisted chains of actin filaments,
+constitute a large component of muscle tissue and, along with the protein myosin, are responsible for muscle contraction.
+ Like microtubules, actin filaments are long chains of single subunits (called actin subunits). In muscle cells, these long actin
+strands, called thin filaments, are “pulled” by thick filaments of the myosin protein to contract the cell.
+
+ Actin also has an important role during cell division. When a cell is about to split in half during cell division, actin
+filaments work with myosin to create a cleavage furrow that eventually splits the cell down the middle, forming two new
+cells from the original cell.
+

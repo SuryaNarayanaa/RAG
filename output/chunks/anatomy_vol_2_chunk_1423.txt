@@ -1,0 +1,14 @@
+NK cells, however, can recognize virally infected class I-negative cells and destroy them. Thus, NK and cytotoxic
+T cells have complementary activities against virally infected cells.
+
+ Interferons have activity in slowing viral replication and are used in the treatment of certain viral diseases, such as
+hepatitis B and C, but their ability to eliminate the virus completely is limited. The cytotoxic T cell response, though, is
+key, as it eventually overwhelms the virus and kills infected cells before the virus can complete its replicative cycle. Clonal
+expansion and the ability of cytotoxic T cells to kill more than one target cell make these cells especially effective against
+viruses. In fact, without cytotoxic T cells, it is likely that humans would all die at some point from a viral infection (if no
+vaccine were available).
+
+ Evasion of the Immune System by Pathogens
+
+It is important to keep in mind that although the immune system has evolved to be able to control many pathogens,
+pathogens themselves have evolved ways to evade the immune response.

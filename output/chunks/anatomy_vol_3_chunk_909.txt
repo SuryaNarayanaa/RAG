@@ -1,0 +1,14 @@
+Foremilk quenches the infant’s thirst, whereas hindmilk satisfies the
+infant’s appetite.
+
+28.7 Patterns of Inheritance
+
+There are two aspects to a person’s genetic makeup. Their genotype refers to the genetic makeup of the chromosomes found
+in all their cells and the alleles that are passed down from their parents. Their phenotype is the expression of that genotype,
+based on the interaction of the paired alleles, as well as how environmental conditions affect that expression.
+
+ Working with pea plants, Mendel discovered that the factors that account for different traits in parents are discretely
+transmitted to offspring in pairs, one from each parent. He articulated the principles of random segregation and independent
+assortment to account for the inheritance patterns he observed. Mendel’s factors are genes, with differing variants being
+referred to as alleles and those alleles being dominant or recessive in expression. Each parent passes one allele for every
+gene on to offspring, and offspring are equally likely to inherit any combination of allele pairs.

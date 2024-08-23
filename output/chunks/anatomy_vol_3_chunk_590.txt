@@ -1,0 +1,13 @@
+Solute Movement between Compartments
+
+The movement of some solutes between compartments is active, which consumes energy and is an active transport process,
+whereas the movement of other solutes is passive, which does not require energy. Active transport allows cells to move a
+specific substance against its concentration gradient through a membrane protein, requiring energy in the form of ATP. For
+example, the sodium-potassium pump employs active transport to pump sodium out of cells and potassium into cells, with
+both substances moving against their concentration gradients.
+
+ Passive transport of a molecule or ion depends on its ability to pass through the membrane, as well as the existence
+of a concentration gradient that allows the molecules to diffuse from an area of higher concentration to an area of lower
+concentration. Some molecules, like gases, lipids, and water itself (which also utilizes water channels in the membrane
+called aquaporins), slip fairly easily through the cell membrane; others, including polar molecules like glucose, amino acids,
+and ions do not.

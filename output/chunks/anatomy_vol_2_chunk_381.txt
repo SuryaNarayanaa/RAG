@@ -1,0 +1,12 @@
+The thalamus is a collection of several nuclei that can be categorized into three anatomical groups. White matter
+running through the thalamus defines the three major regions of the thalamus, which are an anterior nucleus, a medial
+nucleus, and a lateral group of nuclei. The anterior nucleus serves as a relay between the hypothalamus and the emotion
+and memory-producing limbic system. The medial nuclei serve as a relay for information from the limbic system and basal
+ganglia to the cerebral cortex. This allows memory creation during learning, but also determines alertness. The special and
+somatic senses connect to the lateral nuclei, where their information is relayed to the appropriate sensory cortex of the
+cerebrum.
+
+ Cortical Processing
+
+As described earlier, many of the sensory axons are positioned in the same way as their corresponding receptor cells in the
+body. This allows identification of the position of a stimulus on the basis of which receptor cells are sending information.

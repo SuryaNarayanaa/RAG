@@ -1,0 +1,10 @@
+Recall that filtration occurs as pressure forces fluid and solutes through a semipermeable barrier with the
+solute movement constrained by particle size. Hydrostatic pressure is the pressure produced by a fluid against a surface. If
+you have a fluid on both sides of a barrier, both fluids exert a pressure in opposing directions. Net fluid movement will be in
+the direction of the lower pressure. Osmosis is the movement of solvent (water) across a membrane that is impermeable to
+a solute in the solution. This creates a pressure, osmotic pressure, which will exist until the solute concentration is the same
+on both sides of a semipermeable membrane. As long as the concentration differs, water will move. Glomerular filtration
+occurs when glomerular hydrostatic pressure exceeds the luminal hydrostatic pressure of Bowman’s capsule. There is also
+an opposing force, the osmotic pressure, which is typically higher in the glomerular capillary.
+
+To understand why this is so, look more closely at the microenvironment on either side of the filtration membrane.

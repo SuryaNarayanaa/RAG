@@ -1,0 +1,10 @@
+The nomenclature for these is very
+straightforward. SA nodal blocks occur within the SA node. AV nodal blocks occur within the AV node. Infra-Hisian blocks
+involve the bundle of His. Bundle branch blocks occur within either the left or right atrioventricular bundle branches.
+ Hemiblocks are partial and occur within one or more fascicles of the atrioventricular bundle branch. Clinically, the most
+common types are the AV nodal and infra-Hisian blocks.
+
+ AV blocks are often described by degrees. A first-degree or partial block indicates a delay in conduction between the
+SA and AV nodes. This can be recognized on the ECG as an abnormally long PR interval. A second-degree or incomplete
+block occurs when some impulses from the SA node reach the AV node and continue, while others do not. In this instance,
+the ECG would reveal some P waves not followed by a QRS complex, while others would appear normal.

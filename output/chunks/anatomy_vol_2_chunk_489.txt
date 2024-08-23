@@ -1,0 +1,14 @@
+Competing Neurotransmitters
+
+The postganglionic fibers of the sympathetic and parasympathetic divisions both release neurotransmitters that bind to
+receptors on their targets. Postganglionic sympathetic fibers release norepinephrine, with a minor exception, whereas
+postganglionic parasympathetic fibers release ACh. For any given target, the difference in which division of the autonomic
+nervous system is exerting control is just in what chemical binds to its receptors. The target cells will have adrenergic and
+muscarinic receptors. If norepinephrine is released, it will bind to the adrenergic receptors present on the target cell, and if
+ACh is released, it will bind to the muscarinic receptors on the target cell.
+
+ In the sympathetic system, there are exceptions to this pattern of dual innervation. The postganglionic sympathetic
+‘ibers that contact the blood vessels within skeletal muscle and that contact sweat glands do not release norepinephrine, they
+release ACh. This does not create any problem because there is no parasympathetic input to the sweat glands. Sweat glands
+have muscarinic receptors and produce and secrete sweat in response to the presence of ACh.
+

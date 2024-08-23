@@ -1,0 +1,12 @@
+The G protein is a guanosine triphosphate
+(GTP) hydrolase that physically moves from the receptor protein to the effector protein to activate the latter. An effector
+protein is an enzyme that catalyzes the generation of a new molecule, which acts as the intracellular mediator of the signal
+that binds to the receptor. This intracellular mediator is called the second messenger.
+
+ Different receptors use different second messengers. Two common examples of second messengers are cyclic
+adenosine monophosphate (cAMP) and inositol triphosphate (IP3). The enzyme adenylate cyclase (an example of an
+effector protein) makes cAMP, and phospholipase C is the enzyme that makes IP3. Second messengers, after they are
+produced by the effector protein, cause metabolic changes within the cell. These changes are most likely the activation
+of other enzymes in the cell. In neurons, they often modify ion channels, either opening or closing them. These enzymes
+can also cause changes in the cell, such as the activation of genes in the nucleus, and therefore the increased synthesis of
+proteins.

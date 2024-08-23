@@ -1,0 +1,31 @@
+Axon diameters can be
+as small as 1 to 20 micrometers. Because a micrometer is 1/1000 of a millimeter, this means that the length of a myelin
+sheath can be 100-1000 times the diameter of the axon. Figure 12.8, Figure 12.11, and Figure 12.12 show the myelin
+sheath surrounding an axon segment, but are not to scale. If the myelin sheath were drawn to scale, the neuron would have
+to be immense—possibly covering an entire wall of the room in which you are sitting.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE 483
+
+Nucleus Axon Node of Ranvier
+
+(a)
+
+054 - Peripheral nerve_001.svs
+7 aan
+
+Axon
+Axolemma
+
+Myelin sheath
+
+External lamina
+
+Endonerium
+(collagen)
+
+(b)
+
+Figure 12.13 The Process of Myelination Myelinating glia wrap several layers of cell membrane around the cell
+membrane of an axon segment.

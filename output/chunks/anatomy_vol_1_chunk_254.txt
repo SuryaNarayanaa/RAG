@@ -1,0 +1,9 @@
+Keep this theme in mind
+as you tour the inside of a cell and are introduced to the various types of cells in the body.
+
+ A primary responsibility of each cell is to contribute to homeostasis. Homeostasis is a term used in biology that refers
+to a dynamic state of balance within parameters that are compatible with life. For example, living cells require a water-based
+environment to survive in, and there are various physical (anatomical) and physiological mechanisms that keep all of the
+trillions of living cells in the human body moist. This is one aspect of homeostasis. When a particular parameter, such as
+blood pressure or blood oxygen content, moves far enough out of homeostasis (generally becoming too high or too low),
+illness or disease—and sometimes death—inevitably results.

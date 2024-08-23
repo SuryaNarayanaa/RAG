@@ -1,0 +1,19 @@
+This process continues until the final
+codon on the mRNA is reached which provides a “stop” message that signals termination of translation and triggers the
+release of the complete, newly synthesized protein. Thus, a gene within the DNA molecule is transcribed into mRNA, which
+is then translated into a protein product (Figure 3.29).
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 3 | THE CELLULAR LEVEL OF ORGANIZATION 113
+
+Translation
+
+Figure 3.29 From DNA to Protein: Transcription through Translation Transcription within the cell nucleus
+produces an mRNA molecule, which is modified and then sent into the cytoplasm for translation. The transcript is
+decoded into a protein with the help of a ribosome and tRNA molecules.
+
+ Commonly, an mRNA transcription will be translated simultaneously by several adjacent ribosomes. This increases
+the efficiency of protein synthesis. A single ribosome might translate an mRNA molecule in approximately one minute;
+so multiple ribosomes aboard a single transcript could produce multiple times the number of the same protein in the same
+minute.

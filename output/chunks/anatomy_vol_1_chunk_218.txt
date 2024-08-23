@@ -1,0 +1,23 @@
+Shape of Proteins
+
+Just as a fork cannot be used to eat soup and a spoon cannot be used to spear meat, a protein’s shape is essential to its
+function. A protein’s shape is determined, most fundamentally, by the sequence of amino acids of which it is made (Figure
+2.26a). The sequence is called the primary structure of the protein.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 2 | THE CHEMICAL LEVEL OF ORGANIZATION 75
+
+CGOCSCECCCOCCO
+
+(a) Primary structure Chain of amino acids
+
+Alpha-helix
+
+(b) Secondary structure (pleated sheet)
+
+(c) Tertiary structure
+
+(d) Quaternary structure Hemoglobin
+(globular protein)
+

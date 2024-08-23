@@ -1,0 +1,9 @@
+The cranial component of the parasympathetic system is based in particular nuclei of the brain stem. In the midbrain,
+the Eddinger—Westphal nucleus is part of the oculomotor complex, and axons from those neurons travel with the fibers
+in the oculomotor nerve (cranial nerve III) that innervate the extraocular muscles. The preganglionic parasympathetic
+fibers within cranial nerve III terminate in the ciliary ganglion, which is located in the posterior orbit. The postganglionic
+parasympathetic fibers then project to the smooth muscle of the iris to control pupillary size. In the upper medulla, the
+salivatory nuclei contain neurons with axons that project through the facial and glossopharyngeal nerves to ganglia that
+control salivary glands. Tear production is influenced by parasympathetic fibers in the facial nerve, which activate a
+ganglion, and ultimately the lacrimal (tear) gland. Neurons in the dorsal nucleus of the vagus nerve and the nucleus
+ambiguus project through the vagus nerve (cranial nerve X) to the terminal ganglia of the thoracic and abdominal cavities.

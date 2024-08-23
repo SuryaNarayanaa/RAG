@@ -1,0 +1,24 @@
+Pseudostratified columnar epithelium is a type of epithelium that appears to be stratified but instead consists of a
+single layer of irregularly shaped and differently sized columnar cells. In pseudostratified epithelium, nuclei of neighboring
+cells appear at different levels rather than clustered in the basal end. The arrangement gives the appearance of stratification;
+but in fact all the cells are in contact with the basal lamina, although some do not reach the apical surface. Pseudostratified
+columnar epithelium is found in the respiratory tract, where some of these cells have cilia.
+
+ Both simple and pseudostratified columnar epithelia are heterogeneous epithelia because they include additional types
+of cells interspersed among the epithelial cells. For example, a goblet cell is a mucous-secreting unicellular “gland”
+interspersed between the columnar epithelial cells of mucous membranes (Figure 4.7).
+
+ Microvilli
+
+Secretory vesicles
+containing mucin
+
+Rough ER
+
+Golgi apparatus
+
+Nucleus
+
+(a)
+Figure 4.7 Goblet Cell (a) In the lining of the small intestine, columnar epithelium cells are interspersed with goblet
+cells.

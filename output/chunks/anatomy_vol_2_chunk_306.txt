@@ -1,0 +1,13 @@
+Functional Receptor Types
+
+A third classification of receptors is by how the receptor transduces stimuli into membrane potential changes. Stimuli are
+of three general types. Some stimuli are ions and macromolecules that affect transmembrane receptor proteins when these
+chemicals diffuse across the cell membrane. Some stimuli are physical variations in the environment that affect receptor
+cell membrane potentials. Other stimuli include the electromagnetic radiation from visible light. For humans, the only
+electromagnetic energy that is perceived by our eyes is visible light. Some other organisms have receptors that humans lack,
+such as the heat sensors of snakes, the ultraviolet light sensors of bees, or magnetic receptors in migratory birds.
+
+ Receptor cells can be further categorized on the basis of the type of stimuli they transduce. Chemical stimuli can
+be interpreted by a chemoreceptor that interprets chemical stimuli, such as an object’s taste or smell. Osmoreceptors
+respond to solute concentrations of body fluids. Additionally, pain is primarily a chemical sense that interprets the presence
+of chemicals from tissue damage, or similar intense stimuli, through a nociceptor.

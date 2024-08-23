@@ -1,0 +1,14 @@
+This
+large difference in partial pressure creates a very strong pressure gradient that causes oxygen to rapidly cross the respiratory
+membrane from the alveoli into the blood.
+
+ The partial pressure of carbon dioxide is also different between the alveolar air and the blood of the capillary. However,
+the partial pressure difference is less than that of oxygen, about 5 mm Hg. The partial pressure of carbon dioxide in the blood
+of the capillary is about 45 mm Hg, whereas its partial pressure in the alveoli is about 40 mm Hg. However, the solubility of
+carbon dioxide is much greater than that of oxygen—by a factor of about 20—in both blood and alveolar fluids. As a result,
+the relative concentrations of oxygen and carbon dioxide that diffuse across the respiratory membrane are similar.
+
+ Internal Respiration
+
+Internal respiration is gas exchange that occurs at the level of body tissues (Figure 22.23). Similar to external respiration,
+internal respiration also occurs as simple diffusion due to a partial pressure gradient.

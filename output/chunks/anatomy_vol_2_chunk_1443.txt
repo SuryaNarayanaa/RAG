@@ -1,0 +1,9 @@
+An interesting consequence of Rh factor expression is seen in erythroblastosis fetalis, a hemolytic disease of the
+newborn (Figure 21.30). This disease occurs when mothers negative for Rh antigen have multiple Rh-positive children.
+ During the birth of a first Rh-positive child, the mother makes a primary anti-Rh antibody response to the fetal blood cells
+that enter the maternal bloodstream. If the mother has a second Rh-positive child, IgG antibodies against Rh-positive blood
+mounted during this secondary response cross the placenta and attack the fetal blood, causing anemia. This is a consequence
+of the fact that the fetus is not genetically identical to the mother, and thus the mother is capable of mounting an immune
+response against it. This disease is treated with antibodies specific for Rh factor. These are given to the mother during the
+subsequent births, destroying any fetal blood that might enter her system and preventing the immune response.
+

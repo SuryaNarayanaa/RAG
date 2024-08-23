@@ -1,0 +1,11 @@
+In the third-
+degree or complete block, there is no correlation between atrial activity (the P wave) and ventricular activity (the QRS
+complex). Even in the event of a total SA block, the AV node will assume the role of pacemaker and continue initiating
+contractions at 40-60 contractions per minute, which is adequate to maintain consciousness. Second- and third-degree
+blocks are demonstrated on the ECG presented in Figure 19.25.
+
+ When arrhythmias become a chronic problem, the heart maintains a junctional rhythm, which originates in the
+AV node. In order to speed up the heart rate and restore full sinus rhythm, a cardiologist can implant an artificial
+pacemaker, which delivers electrical impulses to the heart muscle to ensure that the heart continues to contract and pump
+blood effectively. These artificial pacemakers are programmable by the cardiologists and can either provide stimulation
+temporarily upon demand or on a continuous basis.

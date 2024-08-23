@@ -1,0 +1,20 @@
+Adenosine diphosphate (ADP)
+
+SS
+
+Adenosine triphosphate (ATP)
+
+Figure 2.30 Structure of Adenosine Triphosphate (ATP)
+
+When a phosphate group is cleaved from ATP, the products are adenosine diphosphate (ADP) and inorganic phosphate
+(Pi). This hydrolysis reaction can be written:
+ATP +H,O > ADP +P; + energy
+
+Removal of a second phosphate leaves adenosine monophosphate (AMP) and two phosphate groups. Again, these
+reactions also liberate the energy that had been stored in the phosphate-phosphate bonds. They are reversible, too, as when
+ADP undergoes phosphorylation. Phosphorylation is the addition of a phosphate group to an organic compound, in this
+case, resulting in ATP. In such cases, the same level of energy that had been released during hydrolysis must be reinvested
+to power dehydration synthesis.
+
+ Cells can also transfer a phosphate group from ATP to another organic compound. For example, when glucose first
+enters a cell, a phosphate group is transferred from ATP, forming glucose phosphate (CgH120g—P) and ADP.

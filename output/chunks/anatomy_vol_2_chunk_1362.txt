@@ -1,0 +1,44 @@
+The alternate
+
+pathway does not require an antibody to become activated.
+
+
+ 936 CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM
+
+Invading pathogen
+
+C1
+
+|-— C1 binds to an antigen-
+antibody complex on an
+
+— invading pathogen, causing
+/ | complement components C2
+
+and C4 to split in two.
+
+C3 convertase @§D Fragments from C2 and C4 combine to
+form an enzyme called C3 convertase.
+
+ C3 @GD C3 convertase splits in two, One of
+. the fragments from C3 joins C3
+Interaction with factors P, convertase to form C5 convertase.
+
+B, and D
+cab
+/ :
+C3b binds to the surface C5 C5 convertase splits C5 in two.
+
+of the pathogen. / \
+
+C5a GE a C5b
+
+|
+
+C8a attracts phagocytes
+
+@ C3a ¢ to infection site.
+
+ Afragment from C5 joins C6, C7, C8, and C9 to form
+the membrane attack complex, which makes a hole
+in the pathogen's plasma membrane.

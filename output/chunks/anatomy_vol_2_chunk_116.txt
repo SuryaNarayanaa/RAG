@@ -1,0 +1,8 @@
+Propagation, as described above, applies to unmyelinated axons. When myelination is present, the action potential
+propagates differently. Sodium ions that enter the cell at the initial segment start to spread along the length of the axon
+
+segment, but there are no voltage-gated Na” channels until the first node of Ranvier. Because there is not constant opening
+of these channels along the axon segment, the depolarization spreads at an optimal speed. The distance between nodes is
+the optimal distance to keep the membrane still depolarized above threshold at the next node. As Na® spreads along the
+inside of the membrane of the axon segment, the charge starts to dissipate. If the node were any farther down the axon, that
+depolarization would have fallen off too much for voltage-gated Na* channels to be activated at the next node of Ranvier.

@@ -1,0 +1,14 @@
+Insulin-like growth factor 1 (IGF-1) is activated by growth hormone and
+indirectly supports the formation of new proteins in muscle cells and bone.
+
+ A glucose-sparing effect occurs when GH stimulates lipolysis, or the breakdown of adipose tissue, releasing fatty acids
+into the blood. As a result, many tissues switch from glucose to fatty acids as their main energy source, which means that
+less glucose is taken up from the bloodstream.
+
+ GH also initiates the diabetogenic effect in which GH stimulates the liver to break down glycogen to glucose, which
+is then deposited into the blood. The name “diabetogenic” is derived from the similarity in elevated blood glucose levels
+observed between individuals with untreated diabetes mellitus and individuals experiencing GH excess. Blood glucose
+levels rise as the result of a combination of glucose-sparing and diabetogenic effects.
+
+ GH indirectly mediates growth and protein synthesis by triggering the liver and other tissues to produce a group of
+proteins called insulin-like growth factors (IGFs).

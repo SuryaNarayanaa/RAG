@@ -1,0 +1,13 @@
+This passage takes approximately 25 ms.
+
+The Purkinje fibers are additional myocardial conductive fibers that spread the impulse to the myocardial contractile
+cells in the ventricles. They extend throughout the myocardium from the apex of the heart toward the atrioventricular septum
+and the base of the heart. The Purkinje fibers have a fast inherent conduction rate, and the electrical impulse reaches all of
+the ventricular muscle cells in about 75 ms (see Figure 19.19, step 5). Since the electrical stimulus begins at the apex, the
+contraction also begins at the apex and travels toward the base of the heart, similar to squeezing a tube of toothpaste from
+the bottom. This allows the blood to be pumped out of the ventricles and into the aorta and pulmonary trunk. The total time
+elapsed from the initiation of the impulse in the SA node until depolarization of the ventricles is approximately 225 ms.
+
+Membrane Potentials and lon Movement in Cardiac Conductive Cells
+
+Action potentials are considerably different between cardiac conductive cells and cardiac contractive cells.

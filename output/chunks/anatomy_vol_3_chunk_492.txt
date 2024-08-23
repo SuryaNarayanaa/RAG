@@ -1,0 +1,9 @@
+Intuitively, you should realize that minor
+changes in osmolarity of the blood or changes in capillary blood pressure result in major changes in the amount of filtrate
+formed at any given point in time. The kidney is able to cope with a wide range of blood pressures. In large part, this is due
+to the autoregulatory nature of smooth muscle. When you stretch it, it contracts. Thus, when blood pressure goes up, smooth
+muscle in the afferent capillaries contracts to limit any increase in blood flow and filtration rate. When blood pressure drops,
+the same capillaries relax to maintain blood flow and filtration rate. The net result is a relatively steady flow of blood into
+the glomerulus and a relatively steady filtration rate in spite of significant systemic blood pressure changes. Mean arterial
+blood pressure is calculated by adding 1/3 of the difference between the systolic and diastolic pressures to the diastolic
+pressure. Therefore, if the blood pressure is 110/80, the difference between systolic and diastolic pressure is 30.

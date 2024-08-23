@@ -1,0 +1,62 @@
+The ciliated epithelium of your airway forms a mucociliary escalator that sweeps particles of dust and
+pathogens trapped in the secreted mucous toward the throat. It is called an escalator because it continuously pushes mucous
+with trapped particles upward. In contrast, nasal cilia sweep the mucous blanket down towards your throat. In both cases,
+the transported materials are usually swallowed, and end up in the acidic environment of your stomach.
+
+ Cell to Cell Junctions
+
+Cells of epithelia are closely connected and are not separated by intracellular material. Three basic types of connections
+allow varying degrees of interaction between the cells: tight junctions, anchoring junctions, and gap junctions (Figure 4.5).
+
+ Tight junction Gap junction
+
+Adjacent
+
+Adjacent plasma
+
+plasma membranes
+
+membranes
+Gap between
+cells
+
+Strands of
+
+transmembrane
+
+— Connexons
+(composed of
+connexins)
+
+Intercellular
+
+space
+
+Anchoring junctions
+
+Adjacent
+plasma
+membranes
+
+Adjacent
+plasma
+membranes
+
+Plaque Plaque
+
+Transmembrane Transmembrane
+glycoprotein glycoprotein
+(cadherin) (cadherin)
+Intermediate Actin filament
+filament
+
+(keratin)
+
+Intercellular Intercellullar
+space space
+
+Integrins
+Basal
+lamina
+
+Figure 4.5 Types of Cell Junctions

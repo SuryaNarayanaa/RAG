@@ -1,0 +1,13 @@
+For cells that will divide again, G1 is followed by replication
+of the DNA, during the S phase. The S phase (synthesis phase) is period during which a cell replicates its DNA.
+
+ actively
+dividing
+
+Figure 3.30 Cell Cycle The two major phases of the cell cycle include mitosis (cell division), and interphase, when
+the cell grows and performs all of its normal functions. Interphase is further subdivided into Gi, S, and G2 phases.
+
+ After the synthesis phase, the cell proceeds through the G2 phase. The G2 phase is a second gap phase, during which
+the cell continues to grow and makes the necessary preparations for mitosis. Between G1, S, and G2 phases, cells will vary
+the most in their duration of the G1 phase. It is here that a cell might spend a couple of hours, or many days. The S phase
+typically lasts between 8-10 hours and the G2 phase approximately 5 hours.

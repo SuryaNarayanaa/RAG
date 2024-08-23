@@ -1,0 +1,9 @@
+Neurotransmitters act locally and rapidly. When an electrical signal in the form of an action potential arrives
+at the synaptic terminal, they diffuse across the synaptic cleft (the gap between a sending neuron and a receiving neuron
+or muscle cell). Once the neurotransmitters interact (bind) with receptors on the receiving (post-synaptic) cell, the receptor
+stimulation is transduced into a response such as continued electrical signaling or modification of cellular response. The
+target cell responds within milliseconds of receiving the chemical “message”; this response then ceases very quickly once
+the neural signaling ends. In this way, neural communication enables body functions that involve quick, brief actions, such
+as movement, sensation, and cognition. In contrast, the endocrine system uses just one method of communication: chemical
+signaling. These signals are sent by the endocrine organs, which secrete chemicals—the hormone—into the extracellular
+fluid.

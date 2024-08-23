@@ -1,0 +1,11 @@
+Pathways Involving Cell Membrane Hormone Receptors
+
+Hydrophilic, or water-soluble, hormones are unable to diffuse through the lipid bilayer of the cell membrane and must
+therefore pass on their message to a receptor located at the surface of the cell. Except for thyroid hormones, which are
+lipid-soluble, all amino acid—derived hormones bind to cell membrane receptors that are located, at least in part, on the
+extracellular surface of the cell membrane. Therefore, they do not directly affect the transcription of target genes, but instead
+initiate a signaling cascade that is carried out by a molecule called a second messenger. In this case, the hormone is called
+a first messenger.
+
+ The second messenger used by most hormones is cyclic adenosine monophosphate (cAMP). In the cAMP second
+messenger system, a water-soluble hormone binds to its receptor in the cell membrane (Step 1 in Figure 17.5).

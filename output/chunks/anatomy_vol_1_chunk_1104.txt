@@ -1,0 +1,14 @@
+Skeletal muscle fibers are long, multinucleated cells. The membrane of the cell is the sarcolemma; the cytoplasm of the
+cell is the sarcoplasm. The sarcoplasmic reticulum (SR) is a form of endoplasmic reticulum. Muscle fibers are composed of
+myofibrils. The striations are created by the organization of actin and myosin resulting in the banding pattern of myofibrils.
+
+ 10.3 Muscle Fiber Contraction and Relaxation
+
+A sarcomere is the smallest contractile portion of a muscle. Myofibrils are composed of thick and thin filaments. Thick
+filaments are composed of the protein myosin; thin filaments are composed of the protein actin. Troponin and tropomyosin
+are regulatory proteins.
+
+ Muscle contraction is described by the sliding filament model of contraction. ACh is the neurotransmitter that binds at
+the neuromuscular junction (NMJ) to trigger depolarization, and an action potential travels along the sarcolemma to trigger
+
+calcium release from SR.

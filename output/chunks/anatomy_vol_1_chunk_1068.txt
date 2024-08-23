@@ -1,0 +1,10 @@
+Using these criteria, there are three main types of skeletal muscle fibers. Slow oxidative (SO)
+fibers contract relatively slowly and use aerobic respiration (oxygen and glucose) to produce ATP. Fast oxidative (FO)
+fibers have fast contractions and primarily use aerobic respiration, but because they may switch to anaerobic respiration
+(glycolysis), can fatigue more quickly than SO fibers. Lastly, fast glycolytic (FG) fibers have fast contractions and
+primarily use anaerobic glycolysis. The FG fibers fatigue more quickly than the others. Most skeletal muscles in a human
+contain(s) all three types, although in varying proportions.
+
+ The speed of contraction is dependent on how quickly myosin’s ATPase hydrolyzes ATP to produce cross-bridge
+action. Fast fibers hydrolyze ATP approximately twice as quickly as slow fibers, resulting in much quicker cross-bridge
+cycling (which pulls the thin filaments toward the center of the sarcomeres at a faster rate).

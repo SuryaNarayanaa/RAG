@@ -1,0 +1,12 @@
+External Respiration
+
+The pulmonary artery carries deoxygenated blood into the lungs from the heart, where it branches and eventually becomes
+the capillary network composed of pulmonary capillaries. These pulmonary capillaries create the respiratory membrane
+with the alveoli (Figure 22.22). As the blood is pumped through this capillary network, gas exchange occurs. Although a
+small amount of the oxygen is able to dissolve directly into plasma from the alveoli, most of the oxygen is picked up by
+erythrocytes (red blood cells) and binds to a protein called hemoglobin, a process described later in this chapter. Oxygenated
+hemoglobin is red, causing the overall appearance of bright red oxygenated blood, which returns to the heart through the
+pulmonary veins. Carbon dioxide is released in the opposite direction of oxygen, from the blood to the alveoli. Some of
+the carbon dioxide is returned on hemoglobin, but can also be dissolved in plasma or is present as a converted form, also
+explained in greater detail later in this chapter.
+

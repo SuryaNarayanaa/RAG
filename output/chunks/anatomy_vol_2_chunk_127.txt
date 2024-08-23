@@ -1,0 +1,28 @@
+Spatial and temporal summation can act together, as
+well.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE
+
+=e EPSPs
+
+= |PSPs
+
+Summation at axon hillock
+30
+
+Membrane potential (mV)
+
+Time >
+
+Figure 12.26 Postsynaptic Potential Summation The result of summation of postsynaptic potentials is the overall
+change in the membrane potential. At point A, several different excitatory postsynaptic potentials add up to a large
+
+depolarization. At point B, a mix of excitatory and inhibitory postsynaptic potentials result in a different end result for
+the membrane potential.
+
+ Watch this video (http://openstaxcollege.org/I/summation) to learn about summation. The process of converting
+electrical signals to chemical signals and back requires subtle changes that can result in transient increases or decreases
+in membrane voltage. To cause a lasting change in the target cell, multiple signals are usually added together, or
+summated.

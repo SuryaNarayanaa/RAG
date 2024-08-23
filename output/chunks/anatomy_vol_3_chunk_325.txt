@@ -1,0 +1,36 @@
+Structurally, ATP molecules consist of an adenine, a ribose, and three phosphate groups (Figure 24.2). The chemical
+bond between the second and third phosphate groups, termed a high-energy bond, represents the greatest source of energy
+in a cell. It is the first bond that catabolic enzymes break when cells require energy to do work. The products of this reaction
+are a molecule of adenosine diphosphate (ADP) and a lone phosphate group (Pj). ATP, ADP, and Pj are constantly being
+cycled through reactions that build ATP and store energy, and reactions that break down ATP and release energy.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-3/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 24 | METABOLISM AND NUTRITION
+
+ATP
+Adenosine triphosphate
+
+High-energy bond
+
+Adenine
+
+oe Energy
+required
+
+Catabolic reactions
+release energy to be
+used in an anabolic
+reaction
+
+Anabolic reactions
+store energy released
+from a catabolic
+reaction
+
+Adenine
+
+Energy 23 .
+released CL) Adenine group
+CI Ribose
+ADP CL)

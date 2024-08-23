@@ -1,0 +1,14 @@
+The concept of a cell started with microscopic observations of dead cork tissue by scientist Robert Hooke in 1665.
+Without realizing their function or importance, Hook coined the term “cell” based on the resemblance of the small
+subdivisions in the cork to the rooms that monks inhabited, called cells. About ten years later, Antonie van Leeuwenhoek
+became the first person to observe living and moving cells under a microscope. In the century that followed, the theory
+that cells represented the basic unit of life would develop. These tiny fluid-filled sacs house components responsible for the
+thousands of biochemical reactions necessary for an organism to grow and survive. In this chapter, you will learn about the
+major components and functions of a prototypical, generalized cell and discover some of the different types of cells in the
+human body.
+
+ 3.1 | The Cell Membrane
+
+By the end of this section, you will be able to:
+¢ Describe the molecular components that make up the cell membrane
+¢

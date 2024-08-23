@@ -1,0 +1,14 @@
+Maybe you have seen an advertisement
+on a website saying that there is a secret to unlocking the full potential of your mind—as if there were 90 percent of
+your brain sitting idle, just waiting for you to use it. If you see an ad like that, don’t click. It isn’t true.
+
+ An easy way to see how much of the brain a person uses is to take measurements of brain activity while
+performing a task. An example of this kind of measurement is functional magnetic resonance imaging (fMRI), which
+generates a map of the most active areas and can be generated and presented in three dimensions (Figure 12.7). This
+procedure is different from the standard MRI technique because it is measuring changes in the tissue in time with an
+experimental condition or event.
+
+ Figure 12.7 fMRI This fMRI shows activation of the visual cortex in response to visual stimuli. (credit:
+“Superborsuk”/Wikimedia Commons)
+
+The underlying assumption is that active nervous tissue will have greater blood flow.

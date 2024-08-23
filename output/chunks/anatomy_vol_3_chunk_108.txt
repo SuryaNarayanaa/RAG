@@ -1,0 +1,17 @@
+The following formula depicts this
+reaction:
+
+cA +
+CO, +H,0 H,CO3 << H™ +HCO3_
+
+Bicarbonate tends to build up in the erythrocytes, so that there is a greater concentration of bicarbonate in the
+erythrocytes than in the surrounding blood plasma. As a result, some of the bicarbonate will leave the erythrocytes and
+
+move down its concentration gradient into the plasma in exchange for chloride (CI) ions. This phenomenon is referred to as
+the chloride shift and occurs because by exchanging one negative ion for another negative ion, neither the electrical charge
+of the erythrocytes nor that of the blood is altered.
+
+ At the pulmonary capillaries, the chemical reaction that produced bicarbonate (shown above) is reversed, and carbon
+dioxide and water are the products. Much of the bicarbonate in the plasma re-enters the erythrocytes in exchange for
+chloride ions. Hydrogen ions and bicarbonate ions join to form carbonic acid, which is converted into carbon dioxide and
+water by carbonic anhydrase.

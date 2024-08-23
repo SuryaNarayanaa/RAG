@@ -1,0 +1,9 @@
+Although electrons do not follow rigid orbits a set distance away from the atom’s nucleus, they do tend to stay within
+certain regions of space called electron shells. An electron shell is a layer of electrons that encircle the nucleus at a distinct
+energy level.
+
+ The atoms of the elements found in the human body have from one to five electron shells, and all electron shells hold
+eight electrons except the first shell, which can only hold two. This configuration of electron shells is the same for all atoms.
+ The precise number of shells depends on the number of electrons in the atom. Hydrogen and helium have just one and two
+electrons, respectively. If you take a look at the periodic table of the elements, you will notice that hydrogen and helium
+are placed alone on either sides of the top row; they are the only elements that have just one electron shell (Figure 2.7).

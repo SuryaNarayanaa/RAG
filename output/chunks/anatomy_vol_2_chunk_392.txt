@@ -1,0 +1,16 @@
+If
+you take the glasses off, the image on the screen will have varying amounts of blur because both eyes are seeing both
+layers of information, and the third dimension will not be evident. Some optical illusions can take advantage of depth
+cues as well, though those are more often using monocular cues to fool the brain into seeing different parts of the scene
+as being at different depths.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 14 | THE BRAIN AND CRANIAL NERVES 591
+
+Fovea Fovea
+
+Figure 14.25 Retinal Disparity Because of the interocular distance, which results in objects of different distances
+falling on different spots of the two retinae, the brain can extract depth perception from the two-dimensional
+information of the visual field.
+

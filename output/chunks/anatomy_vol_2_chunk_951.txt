@@ -1,0 +1,10 @@
+Given the size difference between most members of the sexes, the weight of a female heart is approximately
+250-300 grams (9 to 11 ounces), and the weight of a male heart is approximately 300-350 grams (11 to 12 ounces).
+ The heart of a well-trained athlete, especially one specializing in aerobic sports, can be considerably larger than this.
+ Cardiac muscle responds to exercise in a manner similar to that of skeletal muscle. That is, exercise results in the addition
+of protein myofilaments that increase the size of the individual cells without increasing their numbers, a concept called
+hypertrophy. Hearts of athletes can pump blood more effectively at lower rates than those of nonathletes. Enlarged hearts
+are not always a result of exercise; they can result from pathologies, such as hypertrophic cardiomyopathy. The cause
+of an abnormally enlarged heart muscle is unknown, but the condition is often undiagnosed and can cause sudden death in
+apparently otherwise healthy young people.
+

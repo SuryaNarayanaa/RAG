@@ -1,0 +1,10 @@
+The trigeminal pathway carries somatosensory information from the face, head, mouth, and nasal cavity. As with the
+previously discussed nerve tracts, the sensory pathways of the trigeminal pathway each involve three successive neurons.
+ First, axons from the trigeminal ganglion enter the brain stem at the level of the pons. These axons project to one of
+three locations. The spinal trigeminal nucleus of the medulla receives information similar to that carried by spinothalamic
+tract, such as pain and temperature sensations. Other axons go to either the chief sensory nucleus in the pons or the
+mesencephalic nuclei in the midbrain. These nuclei receive information like that carried by the dorsal column system, such
+as touch, pressure, vibration, and proprioception. Axons from the second neuron decussate and ascend to the thalamus along
+the trigeminothalamic tract. In the thalamus, each axon synapses with the third neuron in its respective pathway. Axons
+from the third neuron then project from the thalamus to the primary somatosensory cortex of the cerebrum.
+

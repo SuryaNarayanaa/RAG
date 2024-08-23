@@ -1,0 +1,13 @@
+A stimulus starts the depolarization, but the action potential runs on its own once a threshold has been reached.
+ The question is now, “What flips the light switch on?” Temporary changes to the cell membrane voltage can result from
+neurons receiving information from the environment, or from the action of one neuron on another. These special types of
+potentials influence a neuron and determine whether an action potential will occur or not. Many of these transient signals
+originate at the synapse.
+
+ Graded Potentials
+
+Local changes in the membrane potential are called graded potentials and are usually associated with the dendrites of
+a neuron. The amount of change in the membrane potential is determined by the size of the stimulus that causes it.
+ In the example of testing the temperature of the shower, slightly warm water would only initiate a small change in a
+thermoreceptor, whereas hot water would cause a large amount of change in the membrane potential.
+

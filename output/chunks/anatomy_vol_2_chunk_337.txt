@@ -1,0 +1,14 @@
+The ampulla contains the hair cells that respond to
+rotational movement, such as turning the head while saying “no.” The stereocilia of these hair cells extend into the cupula,
+a membrane that attaches to the top of the ampulla. As the head rotates in a plane parallel to the semicircular canal, the
+fluid lags, deflecting the cupula in the direction opposite to the head movement. The semicircular canals contain several
+ampullae, with some oriented horizontally and others oriented vertically. By comparing the relative movements of both
+the horizontal and vertical ampullae, the vestibular system can detect the direction of most head movements within three-
+dimensional (3-D) space.
+
+ As the head rotates,
+Ampullary nerve Y cupula bends in opposite
+direction of the rotation
+
+Figure 14.12 Rotational Coding by Semicircular Canals Rotational movement of the head is encoded by the hair
+cells in the base of the semicircular canals.

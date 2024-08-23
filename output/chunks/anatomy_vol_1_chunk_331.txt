@@ -1,0 +1,17 @@
+A polyribosome is a string of ribosomes translating a single mRNA strand.
+
+ Watch this video (http://openstaxcollege.org/l/ribosome) to learn about ribosomes. The ribosome binds to the mRNA
+molecule to start translation of its code into a protein. What happens to the small and large ribosomal subunits at the
+end of translation?
+
+3.5 | Cell Growth and Division
+
+By the end of this section, you will be able to:
+¢ Describe the stages of the cell cycle
+ ¢ Discuss how the cell cycle is regulated
+¢ Describe the implications of losing control over the cell cycle
+¢ Describe the stages of mitosis and cytokinesis, in order
+
+So far in this chapter, you have read numerous times of the importance and prevalence of cell division. While there are a
+few cells in the body that do not undergo cell division (such as gametes, red blood cells, most neurons, and some muscle
+cells), most somatic cells divide regularly.

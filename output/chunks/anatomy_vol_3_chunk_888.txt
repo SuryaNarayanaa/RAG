@@ -1,0 +1,15 @@
+(credit: U.S. National Library of Medicine)
+
+1276 CHAPTER 28 | DEVELOPMENT AND INHERITANCE
+
+X-linked Dominant or Recessive Inheritance
+
+An X-linked transmission pattern involves genes located on the X chromosome of the 23rd pair (Figure 28.28). Recall
+that a male has one X and one Y chromosome. When a father transmits a Y chromosome, the child is male, and when
+he transmits an X chromosome, the child is female. A mother can transmit only an X chromosome, as both her sex
+chromosomes are X chromosomes.
+
+ When an abnormal allele for a gene that occurs on the X chromosome is dominant over the normal allele, the pattern
+is described as X-linked dominant. This is the case with vitamin D-resistant rickets: an affected father would pass the
+disease gene to all of his daughters, but none of his sons, because he donates only the Y chromosome to his sons (see
+Figure 28.28a).

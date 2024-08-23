@@ -1,0 +1,13 @@
+One of the features that make bone marrow transplants work as well as they do is the proliferative
+capability of hematopoietic stem cells of the bone marrow. Only a small amount of bone marrow from a healthy donor is
+given intravenously to the recipient. It finds its own way to the bone where it populates it, eventually reconstituting the
+patient’s immune system, which is usually destroyed beforehand by treatment with radiation or chemotherapeutic drugs.
+
+ New treatments for SCID using gene therapy, inserting nondefective genes into cells taken from the patient and giving
+them back, have the advantage of not needing the tissue match required for standard transplants. Although not a standard
+treatment, this approach holds promise, especially for those in whom standard bone marrow transplantation has failed.
+
+ Human Immunodeficiency Virus/AIDS
+
+ Although many viruses cause suppression of the immune system, only one wipes it out completely, and that is the previously
+mentioned HIV.

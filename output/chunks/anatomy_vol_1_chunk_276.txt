@@ -1,0 +1,9 @@
+The sodium-potassium pump, which is also called N*/K* ATPase, transports sodium out of a cell while moving
+
+potassium into the cell. The Na*/K* pump is an important ion pump found in the membranes of many types of cells. These
+pumps are particularly abundant in nerve cells, which are constantly pumping out sodium ions and pulling in potassium ions
+to maintain an electrical gradient across their cell membranes. An electrical gradient is a difference in electrical charge
+across a space. In the case of nerve cells, for example, the electrical gradient exists between the inside and outside of the
+cell, with the inside being negatively-charged (at around -70 mV) relative to the outside. The negative electrical gradient
+is maintained because each Na*/K* pump moves three Na’ ions out of the cell and two K* ions into the cell for each ATP
+molecule that is used (Figure 3.9).

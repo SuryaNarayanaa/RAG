@@ -1,0 +1,28 @@
+As the fluid waves move through the scala vestibuli and scala
+tympani, the basilar membrane moves at a specific spot, depending on the frequency of the waves. Higher frequency waves
+move the region of the basilar membrane that is close to the base of the cochlea. Lower frequency waves move the region
+of the basilar membrane that is near the tip of the cochlea.
+
+ \
+\
+
+Organ of Corti
+
+Bony cochlear wall
+
+ Scala vestibuli
+Cochlear duct
+Tectorial membrane
+Basilar membrane
+
+Scala tympani
+
+_ — Cochlear branch
+of N VIII
+
+Figure 14.7 Cross Section of the Cochlea The three major spaces within the cochlea are highlighted. The scala
+tympani and scala vestibuli lie on either side of the cochlear duct. The organ of Corti, containing the mechanoreceptor
+hair cells, is adjacent to the scala tympani, where it sits atop the basilar membrane.
+
+ The organs of Corti contain hair cells, which are named for the hair-like stereocilia extending from the cell’s apical
+surfaces (Figure 14.8).

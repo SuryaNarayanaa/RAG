@@ -1,0 +1,12 @@
+* Describe the location and structure of the pineal gland
+* Discuss the function of melatonin
+
+Recall that the hypothalamus, part of the diencephalon of the brain, sits inferior and somewhat anterior to the thalamus.
+ Inferior but somewhat posterior to the thalamus is the pineal gland, a tiny endocrine gland whose functions are not entirely
+clear. The pinealocyte cells that make up the pineal gland are known to produce and secrete the amine hormone melatonin,
+which is derived from serotonin.
+
+ The secretion of melatonin varies according to the level of light received from the environment. When photons of light
+stimulate the retinas of the eyes, a nerve impulse is sent to a region of the hypothalamus called the suprachiasmatic nucleus
+(SCN), which is important in regulating biological rhythms. From the SCN, the nerve signal is carried to the spinal cord and
+eventually to the pineal gland, where the production of melatonin is inhibited.

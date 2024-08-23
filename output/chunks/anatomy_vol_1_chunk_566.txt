@@ -1,0 +1,11 @@
+Osteoblasts, which do not divide, synthesize and secrete the collagen matrix and
+calcium salts. As the secreted matrix surrounding the osteoblast calcifies, the osteoblast become trapped within it; as a
+result, it changes in structure and becomes an osteocyte, the primary cell of mature bone and the most common type of
+bone cell. Each osteocyte is located in a space called a lacuna and is surrounded by bone tissue. Osteocytes maintain the
+mineral concentration of the matrix via the secretion of enzymes. Like osteoblasts, osteocytes lack mitotic activity. They can
+communicate with each other and receive nutrients via long cytoplasmic processes that extend through canaliculi (singular
+= canaliculus), channels within the bone matrix.
+
+ If osteoblasts and osteocytes are incapable of mitosis, then how are they replenished when old ones die? The answer
+lies in the properties of a third category of bone cells—the osteogenic cell. These osteogenic cells are undifferentiated with
+high mitotic activity and they are the only bone cells that divide.

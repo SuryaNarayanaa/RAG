@@ -1,0 +1,11 @@
+The pressure created by the concentration of colloidal proteins in the blood is called the blood colloidal osmotic
+pressure (BCOP). Its effect on capillary exchange accounts for the reabsorption of water. The plasma proteins suspended
+in blood cannot move across the semipermeable capillary cell membrane, and so they remain in the plasma. As a result,
+blood has a higher colloidal concentration and lower water concentration than tissue fluid. It therefore attracts water. We can
+also say that the BCOP is higher than the interstitial fluid colloidal osmotic pressure (IFCOP), which is always very low
+because interstitial fluid contains few proteins. Thus, water is drawn from the tissue fluid back into the capillary, carrying
+dissolved molecules with it. This difference in colloidal osmotic pressure accounts for reabsorption.
+
+ Interaction of Hydrostatic and Osmotic Pressures
+
+The normal unit used to express pressures within the cardiovascular system is millimeters of mercury (mm Hg).

@@ -1,0 +1,9 @@
+IgM is usually the first antibody made during a primary response. Its 10 antigen-binding sites and
+large shape allow it to bind well to many bacterial surfaces. It is excellent at binding complement proteins and activating
+the complement cascade, consistent with its role in promoting chemotaxis, opsonization, and cell lysis. Thus, it is a very
+effective antibody against bacteria at early stages of a primary antibody response. As the primary response proceeds, the
+antibody produced in a B cell can change to IgG, IgA, or IgE by the process known as class switching. Class switching
+is the change of one antibody class to another. While the class of antibody changes, the specificity and the antigen-binding
+sites do not. Thus, the antibodies made are still specific to the pathogen that stimulated the initial IgM response.
+
+ IgG is a major antibody of late primary responses and the main antibody of secondary responses in the blood.

@@ -1,0 +1,11 @@
+Metaphase is the second stage of mitosis. During this stage, the sister chromatids, with their attached microtubules,
+line up along a linear plane in the middle of the cell. A metaphase plate forms between the centrosomes that are now located
+at either end of the cell. The metaphase plate is the name for the plane through the center of the spindle on which the sister
+chromatids are positioned. The microtubules are now poised to pull apart the sister chromatids and bring one from each pair
+to each side of the cell.
+
+ Anaphase is the third stage of mitosis. Anaphase takes place over a few minutes, when the pairs of sister chromatids
+are separated from one another, forming individual chromosomes once again. These chromosomes are pulled to opposite
+ends of the cell by their kinetochores, as the microtubules shorten. Each end of the cell receives one partner from each pair
+of sister chromatids, ensuring that the two new daughter cells will contain identical genetic material.
+

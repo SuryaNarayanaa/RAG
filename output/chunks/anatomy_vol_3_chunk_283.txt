@@ -1,0 +1,37 @@
+enzymes Enteropeptidase intestine Trypsinogen Trypsin
+
+Table 23.8 *These enzymes have been activated by other substances.
+
+1061
+
+1062 CHAPTER 23| THE DIGESTIVE SYSTEM
+
+The Digestive Enzymes
+
+Sure LPAI Source Substrate Product
+Category Name
+Brush border Lactase sma - Lactose Glucose and galactose
+enzymes intestine
+Brush border Maltase Smal - Maltose Glucose
+enzymes intestine
+Brush border Nucleosidases Smal F Phosphates, nitrogenous bases,
+and : - Nucleotides
+enzymes intestine and pentoses
+phosphatases
+Brush border ; smal Aminopeptidase: amino acids Aminopeptidase: amino acids
+enzymes Peptidases intestine at the amino end of peptides | and peptides
+ y Dipeptidase: dipeptides Dipeptidase: amino acids
+Brush border Sucrase Smal - Sucrose Glucose and fructose
+enzymes intestine
+Pancreatic Carboxy- Pancreatic | Amino acids at the carboxyl - . -
+- * ; - Amino acids and peptides
+enzymes peptidase acinar cells | end of peptides
+5 , F
+ancrealic Chymotrypsin* Pancreatic Proteins Peptides
+enzymes acinar cells
+5 , F
+ancrealic Elastase* Pancreatic Proteins Peptides
+enzymes acinar cells
+Ribonuclease: ribonucleic
+Pancreatic Pancreatic | acids F
+Nucleases : .

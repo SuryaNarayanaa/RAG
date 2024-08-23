@@ -1,0 +1,30 @@
+Factors influencing CO are summarized in
+Figure 19.31.
+
+ Factors Affecting Heart Rate (HR) Factors Affecting Stroke Volume (SV)
+
+Autonomic innervation Heart size
+Hormones Fitness levels
+Fitness levels Gender
+
+Contractility
+
+Duration of contraction
+Preload (EDV)
+Afterload (resistance)
+
+Age
+
+Heart Rate (HR) Stroke Volume (SV) = EDV - ESV
+| Cardiac Output(CO) = HR xX sv
+
+Figure 19.31 Major Factors Influencing Cardiac Output Cardiac output is influenced by heart rate and stroke
+volume, both of which are also variable.
+
+ SVs are also used to calculate ejection fraction, which is the portion of the blood that is pumped or ejected from the
+heart with each contraction. To calculate ejection fraction, SV is divided by EDV. Despite the name, the ejection fraction is
+normally expressed as a percentage. Ejection fractions range from approximately 55-70 percent, with a mean of 58 percent.
+
+ Exercise and Maximum Cardiac Output
+
+In healthy young individuals, HR may increase to 150 bpm during exercise.

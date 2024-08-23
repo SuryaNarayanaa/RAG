@@ -1,0 +1,17 @@
+Graded potentials can be of two sorts, either they are depolarizing or hyperpolarizing (Figure 12.25). For a membrane
+at the resting potential, a graded potential represents a change in that voltage either above -70 mV or below -70 mV.
+Depolarizing graded potentials are often the result of Na‘ or Ca** entering the cell. Both of these ions have higher
+concentrations outside the cell than inside; because they have a positive charge, they will move into the cell causing it to
+become less negative relative to the outside. Hyperpolarizing graded potentials can be caused by K™ leaving the cell or Cl
+
+entering the cell. If a positive charge moves out of a cell, the cell becomes more negative; if a negative charge enters the
+cell, the same thing happens.
+
+ 496 CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE
+
+Asmall stimulus A larger stimulus
+causes a small causes more
+
+depolarization of depolarization
+the cell membrane
+

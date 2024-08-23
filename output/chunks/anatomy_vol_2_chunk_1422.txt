@@ -1,0 +1,16 @@
+Eosinophils are attracted to
+
+954 CHAPTER 21| THE LYMPHATIC AND IMMUNE SYSTEM
+
+the site by T cell cytokines, which release their granule contents upon their arrival. Mast cell degranulation also occurs, and
+the fluid leakage caused by the increase in local vascular permeability is thought to have a flushing action on the parasite,
+expelling its larvae from the body. Furthermore, if IgE labels the parasite, the eosinophils can bind to it by its Fc receptor.
+
+Defenses against Viruses
+
+The primary mechanisms against viruses are NK cells, interferons, and cytotoxic T cells. Antibodies are effective against
+viruses mostly during protection, where an immune individual can neutralize them based on a previous exposure.
+ Antibodies have no effect on viruses or other intracellular pathogens once they enter the cell, since antibodies are not able
+to penetrate the plasma membrane of the cell. Many cells respond to viral infections by downregulating their expression of
+MHC class I molecules. This is to the advantage of the virus, because without class I expression, cytotoxic T cells have no
+activity.

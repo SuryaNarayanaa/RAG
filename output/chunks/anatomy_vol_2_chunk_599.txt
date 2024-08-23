@@ -1,0 +1,7 @@
+Testing vision relies on the tests that are common in an optometry office. The Snellen chart (Figure 16.7)
+demonstrates visual acuity by presenting standard Roman letters in a variety of sizes. The result of this test is a rough
+generalization of the acuity of a person based on the normal accepted acuity, such that a letter that subtends a visual angle
+of 5 minutes of an arc at 20 feet can be seen. To have 20/60 vision, for example, means that the smallest letters that a person
+can see at a 20-foot distance could be seen by a person with normal acuity from 60 feet away. Testing the extent of the visual
+field means that the examiner can establish the boundaries of peripheral vision as simply as holding their hands out to either
+side and asking the patient when the fingers are no longer visible without moving the eyes to track them.

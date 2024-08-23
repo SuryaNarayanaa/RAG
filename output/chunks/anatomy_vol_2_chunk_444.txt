@@ -1,0 +1,10 @@
+Predict the response of a target effector to autonomic input on the basis of the released signaling molecule
+
+* Describe how the central nervous system coordinates and contributes to autonomic functions
+
+The autonomic nervous system is often associated with the “fight-or-flight response,” which refers to the preparation of the
+body to either run away from a threat or to stand and fight in the face of that threat. To suggest what this means, consider the
+(very unlikely) situation of seeing a lioness hunting out on the savannah. Though this is not a common threat that humans
+deal with in the modern world, it represents the type of environment in which the human species thrived and adapted. The
+spread of humans around the world to the present state of the modern age occurred much more quickly than any species
+would adapt to environmental pressures such as predators.

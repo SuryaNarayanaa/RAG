@@ -1,0 +1,16 @@
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-3/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 24 | METABOLISM AND NUTRITION 1101
+
+Ketogenesis
+
+If excessive acetyl CoA is created from the oxidation of fatty acids and the Krebs cycle is overloaded and cannot handle it,
+the acetyl CoA is diverted to create ketone bodies. These ketone bodies can serve as a fuel source if glucose levels are too
+low in the body. Ketones serve as fuel in times of prolonged starvation or when patients suffer from uncontrolled diabetes
+and cannot utilize most of the circulating glucose. In both cases, fat stores are liberated to generate energy through the Krebs
+cycle and will generate ketone bodies when too much acetyl CoA accumulates.
+
+ In this ketone synthesis reaction, excess acetyl CoA is converted into hydroxymethylglutaryl CoA (HMG CoA).
+ HMG CoA is a precursor of cholesterol and is an intermediate that is subsequently converted into B-hydroxybutyrate, the
+primary ketone body in the blood (Figure 24.14).
+

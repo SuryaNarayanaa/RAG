@@ -1,0 +1,23 @@
+Because the lipid tails are hydrophobic, they meet in the inner region of the membrane, excluding watery
+intracellular and extracellular fluid from this space. The cell membrane has many proteins, as well as other lipids (such as
+cholesterol), that are associated with the phospholipid bilayer. An important feature of the membrane is that it remains fluid;
+the lipids and proteins in the cell membrane are not rigidly locked in place.
+
+ Extracellular
+
+Phospholipid
+bilayer
+
+Intracellular Hydrophobic tail
+
+Hydrophilic head
+
+Figure 3.3 Phospolipid Bilayer The phospholipid bilayer consists of two adjacent sheets of phospholipids, arranged
+tail to tail, The hydrophobic tails associate with one another, forming the interior of the membrane. The polar heads
+contact the fluid inside and outside of the cell.
+
+ Membrane Proteins
+
+The lipid bilayer forms the basis of the cell membrane, but it is peppered throughout with various proteins. Two different
+types of proteins that are commonly associated with the cell membrane are the integral proteins and peripheral protein
+(Figure 3.4).

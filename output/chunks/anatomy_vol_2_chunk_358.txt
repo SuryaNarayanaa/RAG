@@ -1,0 +1,11 @@
+The retinal molecule has two isomers, (a) one before a photon interacts with it and (b)
+one that is altered through photoisomerization.
+
+ The opsins are sensitive to limited wavelengths of light. Rhodopsin, the photopigment in rods, is most sensitive to light
+at a wavelength of 498 nm. The three color opsins have peak sensitivities of 564 nm, 534 nm, and 420 nm corresponding
+roughly to the primary colors of red, green, and blue (Figure 14.18). The absorbance of rhodopsin in the rods is much more
+sensitive than in the cone opsins; specifically, rods are sensitive to vision in low light conditions, and cones are sensitive
+to brighter conditions. In normal sunlight, rhodopsin will be constantly bleached while the cones are active. In a darkened
+room, there is not enough light to activate cone opsins, and vision is entirely dependent on rods. Rods are so sensitive to
+light that a single photon can result in an action potential from a rod’s corresponding RGC.
+

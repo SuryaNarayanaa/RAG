@@ -1,0 +1,21 @@
+The
+action potential reaches the end of the axon, called the axon terminal, and a chemical signal is released to tell the
+target cell to do something—either to initiate a new action potential, or to suppress that activity. In a very short space,
+the electrical signal of the action potential is changed into the chemical signal of a neurotransmitter and then back to
+electrical changes in the target cell membrane. What is the importance of voltage-gated calcium channels in the release
+of neurotransmitters?
+
+Characteristics of Neurotransmitter Systems
+
+System Cholinergic Amino acids Biogenic amines Neuropeptides
+Serotonin (5-HT), Met-enkephalin,
+. x Glutamate, dopamine, beta-endorphin,
+Neurotransmitters | Acetylcholine glycine, GABA norepinephrine, VIP, Substance P,
+(epinephrine) etc.
+5-HT receptors, D1 and Receptors are too
+era Glu receptors, gly :
+Nicotinic and D2 receptors, a- numerous to list,
+Receptors receptors, GABA - ae
+muscarinic receptors adrenergic and B- but are specific to
+receptors ‘ °
+adrenergic receptors the peptides.

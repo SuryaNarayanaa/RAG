@@ -1,0 +1,16 @@
+* The antagonistic effect, in which two hormones have opposing effects. A familiar example is the effect of two
+pancreatic hormones, insulin and glucagon. Insulin increases the liver’s storage of glucose as glycogen, decreasing
+blood glucose, whereas glucagon stimulates the breakdown of glycogen stores, increasing blood glucose.
+
+ Regulation of Hormone Secretion
+
+To prevent abnormal hormone levels and a potential disease state, hormone levels must be tightly controlled. The body
+maintains this control by balancing hormone production and degradation. Feedback loops govern the initiation and
+maintenance of most hormone secretion in response to various stimuli.
+
+ Role of Feedback Loops
+
+The contribution of feedback loops to homeostasis will only be briefly reviewed here. Positive feedback loops are
+characterized by the release of additional hormone in response to an original hormone release. The release of oxytocin
+during childbirth is a positive feedback loop. The initial release of oxytocin begins to signal the uterine muscles to contract,
+which pushes the fetus toward the cervix, causing it to stretch.

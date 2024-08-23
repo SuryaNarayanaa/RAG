@@ -1,0 +1,11 @@
+Hemoglobin is partially saturated
+when only some heme units are bound to oxygen. An oxygen—hemoglobin saturation/dissociation curve is a common way to
+depict the relationship of how easily oxygen binds to or dissociates from hemoglobin as a function of the partial pressure of
+oxygen. As the partial pressure of oxygen increases, the more readily hemoglobin binds to oxygen. At the same time, once
+one molecule of oxygen is bound by hemoglobin, additional oxygen molecules more readily bind to hemoglobin. Other
+factors such as temperature, pH, the partial pressure of carbon dioxide, and the concentration of 2,3-bisphosphoglycerate
+can enhance or inhibit the binding of hemoglobin and oxygen as well. Fetal hemoglobin has a different structure than adult
+hemoglobin, which results in fetal hemoglobin having a greater affinity for oxygen than adult hemoglobin.
+
+ Carbon dioxide is transported in blood by three different mechanisms: as dissolved carbon dioxide, as bicarbonate,
+or as carbaminohemoglobin.

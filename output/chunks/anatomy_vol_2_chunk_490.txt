@@ -1,0 +1,10 @@
+At most of the other targets of the autonomic system, the effector response is based on which neurotransmitter
+is released and what receptor is present. For example, regions of the heart that establish heart rate are contacted by
+postganglionic fibers from both systems. If norepinephrine is released onto those cells, it binds to an adrenergic receptor that
+causes the cells to depolarize faster, and the heart rate increases. If ACh is released onto those cells, it binds to a muscarinic
+receptor that causes the cells to hyperpolarize so that they cannot reach threshold as easily, and the heart rate slows. Without
+this parasympathetic input, the heart would work at a rate of approximately 100 beats per minute (bpm). The sympathetic
+system speeds that up, as it would during exercise, to 120-140 bpm, for example. The parasympathetic system slows it
+down to the resting heart rate of 60-80 bpm.
+
+ Another example is in the control of pupillary size (Figure 15.9).

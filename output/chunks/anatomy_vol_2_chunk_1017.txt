@@ -1,0 +1,15 @@
+The internodal pathways consist of three bands
+(anterior, middle, and posterior) that lead directly from the SA node to the next node in the conduction system, the
+atrioventricular node (see Figure 19.18). The impulse takes approximately 50 ms (milliseconds) to travel between these two
+
+a
+
+
+802 CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART
+
+nodes. The relative importance of this pathway has been debated since the impulse would reach the atrioventricular node
+simply following the cell-by-cell pathway through the contractile cells of the myocardium in the atria. In addition, there
+is a specialized pathway called Bachmann’s bundle or the interatrial band that conducts the impulse directly from the
+right atrium to the left atrium. Regardless of the pathway, as the impulse reaches the atrioventricular septum, the connective
+tissue of the cardiac skeleton prevents the impulse from spreading into the myocardial cells in the ventricles except at the
+atrioventricular node.

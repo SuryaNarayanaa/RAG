@@ -1,0 +1,12 @@
+In the process of clonal anergy,
+however, B cells exposed to soluble antigen in the bone marrow are not physically deleted, but become unable to function.
+
+ Another mechanism called peripheral tolerance is a direct result of T cell tolerance. In peripheral tolerance,
+functional, mature B cells leave the bone marrow but have yet to be exposed to self-antigen. Most protein antigens require
+signals from helper T cells (Th2) to proceed to make antibody. When a B cell binds to a self-antigen but receives no signals
+from a nearby Th2 cell to produce antibody, the cell is signaled to undergo apoptosis and is destroyed. This is yet another
+example of the control that T cells have over the adaptive immune response.
+
+ After B cells are activated by their binding to antigen, they differentiate into plasma cells. Plasma cells often leave
+the secondary lymphoid organs, where the response is generated, and migrate back to the bone marrow, where the whole
+differentiation process started.

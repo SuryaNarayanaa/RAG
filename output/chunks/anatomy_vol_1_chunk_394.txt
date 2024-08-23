@@ -1,0 +1,14 @@
+The three basic types of cell-to-cell junctions are tight junctions, gap junctions,
+and anchoring junctions.
+
+ At one end of the spectrum is the tight junction, which separates the cells into apical and basal compartments. An
+anchoring junction includes several types of cell junctions that help stabilize epithelial tissues. Anchoring junctions are
+common on the lateral and basal surfaces of cells where they provide strong and flexible connections. There are three types
+
+138 CHAPTER 4 | THE TISSUE LEVEL OF ORGANIZATION
+
+of anchoring junctions: desmosomes, hemidesmosomes, and adherens. Desmosomes occur in patches on the membranes of
+cells. The patches are structural proteins on the inner surface of the cell’s membrane. The adhesion molecule, cadherin, is
+embedded in these patches and projects through the cell membrane to link with the cadherin molecules of adjacent cells.
+ These connections are especially important in holding cells together. Hemidesmosomes, which look like half a desmosome,
+link cells to the extracellular matrix, for example, the basal lamina.

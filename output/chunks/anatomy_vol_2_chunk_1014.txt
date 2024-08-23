@@ -1,0 +1,14 @@
+Recent evidence indicates that at least some stem cells remain within the heart that continue to divide and
+at least potentially replace these dead cells. However, newly formed or repaired cells are rarely as functional as the
+original cells, and cardiac function is reduced. In the event of a heart attack or MI, dead cells are often replaced
+by patches of scar tissue. Autopsies performed on individuals who had successfully received heart transplants show
+some proliferation of original cells. If researchers can unlock the mechanism that generates new cells and restore
+full mitotic capabilities to heart muscle, the prognosis for heart attack survivors will be greatly enhanced. To date,
+myocardial cells produced within the patient (in situ) by cardiac stem cells seem to be nonfunctional, although those
+grown in Petri dishes (in vitro) do beat. Perhaps soon this mystery will be solved, and new advances in treatment will
+be commonplace.
+
+ Conduction System of the Heart
+
+If embryonic heart cells are separated into a Petri dish and kept alive, each is capable of generating its own electrical
+impulse followed by contraction.

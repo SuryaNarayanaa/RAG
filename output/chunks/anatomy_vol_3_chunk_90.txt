@@ -1,0 +1,10 @@
+However, the partial pressure gradients
+are opposite of those present at the respiratory membrane. The partial pressure of oxygen in tissues is low, about 40 mm Hg,
+because oxygen is continuously used for cellular respiration. In contrast, the partial pressure of oxygen in the blood is about
+100 mm Hg. This creates a pressure gradient that causes oxygen to dissociate from hemoglobin, diffuse out of the blood,
+cross the interstitial space, and enter the tissue. Hemoglobin that has little oxygen bound to it loses much of its brightness,
+so that blood returning to the heart is more burgundy in color.
+
+ Considering that cellular respiration continuously produces carbon dioxide, the partial pressure of carbon dioxide is
+lower in the blood than it is in the tissue, causing carbon dioxide to diffuse out of the tissue, cross the interstitial fluid,
+and enter the blood.

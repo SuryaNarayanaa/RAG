@@ -1,0 +1,12 @@
+"T
+cell","Main
+target",Function,Pathogen,"Surface
+marker",MHC,"Cytokines or
+mediators"
+,"Infected
+cells",Cytotoxicity,Intracellular,CD8,Class I,
+,Macrophage,"Helper
+inducer",Extracellular,CD4,Class II,
+,B cell,"Helper
+inducer",Extracellular,CD4,Class II,
+,Th cell,Suppressor,None,"CD4, CD25",?,

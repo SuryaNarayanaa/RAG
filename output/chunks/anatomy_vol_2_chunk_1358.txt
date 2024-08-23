@@ -1,0 +1,17 @@
+This strategy is in stark contrast to the approach used by the adaptive immune system, which uses
+large numbers of different receptors, each highly specific to a particular pathogen.
+
+ Should the cells of the innate immune system come into contact with a species of pathogen they recognize, the cell
+will bind to the pathogen and initiate phagocytosis (or cellular apoptosis in the case of an intracellular pathogen) in an effort
+to destroy the offending microbe. Receptors vary somewhat according to cell type, but they usually include receptors for
+bacterial components and for complement, discussed below.
+
+ Soluble Mediators of the Innate Immune Response
+
+The previous discussions have alluded to chemical signals that can induce cells to change various physiological
+characteristics, such as the expression of a particular receptor. These soluble factors are secreted during innate or early
+induced responses, and later during adaptive immune responses.
+
+ Cytokines and Chemokines
+
+A cytokine is signaling molecule that allows cells to communicate with each other over short distances.

@@ -1,0 +1,15 @@
+The description of this withdrawal reflex was
+simplified, for the sake of the introduction, to emphasize the parts of the somatic nervous system. But to consider reflexes
+fully, more attention needs to be given to this example.
+
+ As you withdraw your hand from the stove, you do not want to slow that reflex down. As the biceps brachii contracts,
+the antagonistic triceps brachii needs to relax. Because the neuromuscular junction is strictly excitatory, the biceps will
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 14 | THE BRAIN AND CRANIAL NERVES 599
+
+contract when the motor nerve is active. Skeletal muscles do not actively relax. Instead the motor neuron needs to “quiet
+down,” or be inhibited. In the hot-stove withdrawal reflex, this occurs through an interneuron in the spinal cord. The
+interneuron’s cell body is located in the dorsal horn of the spinal cord. The interneuron receives a synapse from the axon
+of the sensory neuron that detects that the hand is being burned.

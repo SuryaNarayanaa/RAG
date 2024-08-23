@@ -1,0 +1,37 @@
+The
+ions, in this case, are cations of sodium, calcium, and potassium.
+
+ A mechanically gated channel opens because of a physical distortion of the cell membrane. Many channels associated
+with the sense of touch (somatosensation) are mechanically gated. For example, as pressure is applied to the skin, these
+channels open and allow ions to enter the cell. Similar to this type of channel would be the channel that opens on the basis
+of temperature changes, as in testing the water in the shower (Figure 12.19).
+
+ Mechanically gated channel closed Mechanically gated channel open
+
+Extracellular fluid
+
+Nat concentration gradient
+
+€
+‘o
+3
+g
+a
+<
+2
+g
+r=
+®
+8
+8
++
+a
+@
+Oo
+
+@ @ Cell
+
+membrane
+
+Figure 12.19 Mechanically Gated Channels When a mechanical change occurs in the surrounding tissue, such as
+pressure or touch, the channel is physically opened.

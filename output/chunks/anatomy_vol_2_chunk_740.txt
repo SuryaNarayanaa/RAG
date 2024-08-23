@@ -1,0 +1,16 @@
+The following steps outline the hormones’ assembly:
+1. Binding of TSH to its receptors in the follicle cells of the thyroid gland causes the cells to actively transport iodide
+ions (I) across their cell membrane, from the bloodstream into the cytosol. As a result, the concentration of iodide
+ions “trapped” in the follicular cells is many times higher than the concentration in the bloodstream.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 17 | THE ENDOCRINE SYSTEM 707
+
+2. Iodide ions then move to the lumen of the follicle cells that border the colloid. There, the ions undergo oxidation (their
+
+negatively charged electrons are removed). The oxidation of two iodide ions (2 I’) results in iodine (12), which passes
+through the follicle cell membrane into the colloid.
+
+3. In the colloid, peroxidase enzymes link the iodine to the tyrosine amino acids in thyroglobulin to produce two
+intermediaries: a tyrosine attached to one iodine and a tyrosine attached to two iodines.

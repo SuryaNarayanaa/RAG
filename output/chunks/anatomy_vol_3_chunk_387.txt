@@ -1,0 +1,16 @@
+THE...
+
+Metabolism: Pyruvate Dehydrogenase Complex Deficiency and
+Phenylketonuria
+
+Pyruvate dehydrogenase complex deficiency (PDCD) and phenylketonuria (PKU) are genetic disorders. Pyruvate
+dehydrogenase is the enzyme that converts pyruvate into acetyl CoA, the molecule necessary to begin the Krebs cycle
+to produce ATP. With low levels of the pyruvate dehydrogenase complex (PDC), the rate of cycling through the Krebs
+cycle is dramatically reduced. This results in a decrease in the total amount of energy that is produced by the cells of the
+body. PDC deficiency results in a neurodegenerative disease that ranges in severity, depending on the levels of the PDC
+enzyme. It may cause developmental defects, muscle spasms, and death. Treatments can include diet modification,
+vitamin supplementation, and gene therapy; however, damage to the central nervous system usually cannot be reversed.
+
+ PKU affects about 1 in every 15,000 births in the United States. People afflicted with PKU lack sufficient
+activity of the enzyme phenylalanine hydroxylase and are therefore unable to break down phenylalanine into tyrosine
+adequately.

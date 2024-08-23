@@ -1,0 +1,31 @@
+When compromised
+through a mutation, or otherwise altered, proto-oncogenes can be converted to oncogenes, which produce oncoproteins
+that push a cell forward in its cycle and stimulate cell division even when it is undesirable to do so. For example, a cel
+that should be programmed to self-destruct (a process called apoptosis) due to extensive DNA damage might instead
+be triggered to proliferate by an oncoprotein. On the other hand, a dysfunctional tumor suppressor gene may fail to
+provide the cell with a necessary stop signal, also resulting in unwanted cell division and proliferation.
+
+ A delicate homeostatic balance between the many proto-oncogenes and tumor suppressor genes delicately
+controls the cell cycle and ensures that only healthy cells replicate. Therefore, a disruption of this homeostatic balance
+can cause aberrant cell division and cancerous growths.
+
+ @- Interactive |ILINK
+
+Visit this link (http://openstaxcollege.org/I/mitosis) to learn about mitosis. Mitosis results in two identical diploid
+cells. What structures forms during prophase?
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 3 | THE CELLULAR LEVEL OF ORGANIZATION 119
+
+3.6 | Cellular Differentiation
+
+By the end of this section, you will be able to:
+
+* Discuss how the generalized cells of a developing embryo or the stem cells of an adult organism become
+differentiated into specialized cells
+
+¢ Distinguish between the categories of stem cells
+
+How does a complex organism such as a human develop from a single cell—a fertilized egg—into the vast array of
+cell types such as nerve cells, muscle cells, and epithelial cells that characterize the adult?

@@ -1,0 +1,12 @@
+Midbrain
+
+One of the original regions of the embryonic brain, the midbrain is a small region between the thalamus and pons. It is
+separated into the tectum and tegmentum, from the Latin words for roof and floor, respectively. The cerebral aqueduct
+passes through the center of the midbrain, such that these regions are the roof and floor of that canal.
+
+ The tectum is composed of four bumps known as the colliculi (singular = colliculus), which means “little hill” in Latin.
+ The inferior colliculus is the inferior pair of these enlargements and is part of the auditory brain stem pathway. Neurons
+of the inferior colliculus project to the thalamus, which then sends auditory information to the cerebrum for the conscious
+perception of sound. The superior colliculus is the superior pair and combines sensory information about visual space,
+auditory space, and somatosensory space. Activity in the superior colliculus is related to orienting the eyes to a sound or
+touch stimulus.

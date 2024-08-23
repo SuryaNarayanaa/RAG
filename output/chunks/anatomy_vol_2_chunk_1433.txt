@@ -1,0 +1,12 @@
+Figure 21.28 Immune Hypersensitivity Components of the immune system cause four types of hypersensitivity.
+ Notice that types I-III are B cell mediated, whereas type IV hypersensitivity is exclusively a T cell phenomenon.
+
+ Immediate (Type I) Hypersensitivity
+
+Antigens that cause allergic responses are often referred to as allergens. The specificity of the immediate hypersensitivity
+response is predicated on the binding of allergen-specific IgE to the mast cell surface. The process of producing allergen-
+specific IgE is called sensitization, and is a necessary prerequisite for the symptoms of immediate hypersensitivity to
+occur. Allergies and allergic asthma are mediated by mast cell degranulation that is caused by the crosslinking of the
+antigen-specific IgE molecules on the mast cell surface. The mediators released have various vasoactive effects already
+discussed, but the major symptoms of inhaled allergens are the nasal edema and runny nose caused by the increased
+vascular permeability and increased blood flow of nasal blood vessels.

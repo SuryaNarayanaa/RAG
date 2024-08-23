@@ -1,0 +1,14 @@
+While similar in appearance to desmosomes, they
+include the adhesion proteins called integrins rather than cadherins. Adherens junctions use either cadherins or integrins
+depending on whether they are linking to other cells or matrix. The junctions are characterized by the presence of the
+contractile protein actin located on the cytoplasmic surface of the cell membrane. The actin can connect isolated patches or
+form a belt-like structure inside the cell. These junctions influence the shape and folding of the epithelial tissue.
+
+ In contrast with the tight and anchoring junctions, a gap junction forms an intercellular passageway between the
+membranes of adjacent cells to facilitate the movement of small molecules and ions between the cytoplasm of adjacent
+cells. These junctions allow electrical and metabolic coupling of adjacent cells, which coordinates function in large groups
+of cells.
+
+ Classification of Epithelial Tissues
+
+Epithelial tissues are classified according to the shape of the cells and number of the cell layers formed (Figure 4.6).

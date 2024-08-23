@@ -1,0 +1,8 @@
+The scale consists of a series of increments ranging from 0 to 14. A solution with a pH of 7 is considered neutral—neither
+acidic nor basic. Pure water has a pH of 7. The lower the number below 7, the more acidic the solution, or the greater
+
+the concentration of H*. The concentration of hydrogen ions at each pH value is 10 times different than the next pH. For
+instance, a pH value of 4 corresponds to a proton concentration of 10+ M, or 0.0001M, while a PH value of 5 corresponds
+to a proton concentration of 10° M, or 0.00001M. The higher the number above 7, the more basic (alkaline) the solution,
+
+or the lower the concentration of H*.

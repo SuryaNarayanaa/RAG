@@ -1,0 +1,117 @@
+one of the chemical groups recognized by a single type of lymphocyte antigen
+receptor
+
+B cells lymphocytes that act by differentiating into an antibody-secreting plasma cell
+
+barrier defenses antipathogen defenses deriving from a barrier that physically prevents pathogens from entering the
+body to establish an infection
+
+bone marrow tissue found inside bones; the site of all blood cell differentiation and maturation of B lymphocytes
+bronchus-associated lymphoid tissue (BALT) lymphoid nodule associated with the respiratory tract
+central tolerance B cell tolerance induced in immature B cells of the bone marrow
+
+chemokine soluble, long-range, cell-to-cell communication molecule
+
+chronic inflammation inflammation occurring for long periods of time
+
+chyle lipid-rich lymph inside the lymphatic capillaries of the small intestine
+
+cisterna chyli bag-like vessel that forms the beginning of the thoracic duct
+
+class switching ability of B cells to change the class of antibody they produce without altering the specificity for
+antigen
+
+clonal anergy process whereby B cells that react to soluble antigens in bone marrow are made nonfunctional
+clonal deletion removal of self-reactive B cells by inducing apoptosis
+
+clonal expansion growth of a clone of selected lymphocytes
+
+clonal selection stimulating growth of lymphocytes that have specific receptors
+
+clone group of lymphocytes sharing the same antigen receptor
+
+complement enzymatic cascade of constitutive blood proteins that have antipathogen effects, including the direct
+killing of bacteria
+
+constant region domain part of a lymphocyte antigen receptor that does not vary much between different receptor
+types
+
+cytokine soluble, short-range, cell-to-cell communication molecule
+
+cytotoxic T cells (Tc) T lymphocytes with the ability to induce apoptosis in target cells
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM 965
+
+delayed hypersensitivity (type IV) T cell-mediated immune response against pathogens infiltrating interstitial
+tissues, causing cellular infiltrate
+
+early induced immune response includes antimicrobial proteins stimulated during the first several days of an
+infection
+
+effector T cells immune cells with a direct, adverse effect on a pathogen
+efferent lymphatic vessels lead out of a lymph node
+
+erythroblastosis fetalis disease of Rh factor-positive newborns in Rh-negative mothers with multiple Rh-positive
+children; resulting from the action of maternal antibodies against fetal blood
+
+Fe region in an antibody molecule, the site where the two termini of the heavy chains come together; many cells have
+receptors for this portion of the antibody, adding functionality to these molecules
+
+fas ligand molecule expressed on cytotoxic T cells and NK cells that binds to the fas molecule on a target cell and
+induces it do undergo apoptosis
+
+germinal centers clusters of rapidly proliferating B cells found in secondary lymphoid tissues
+
+graft-versus-host disease in bone marrow transplants; occurs when the transplanted cells mount an immune
+response against the recipient
+
+granzyme apoptosis-inducing substance contained in granules of NK cells and cytotoxic T cells
+heavy chain larger protein chain of an antibody
+
+helper T cells (Th) T cells that secrete cytokines to enhance other immune responses, involved in activation of both B
+and T cell lymphocytes
+
+high endothelial venules vessels containing unique endothelial cells specialized to allow migration of lymphocytes
+from the blood to the lymph node
+
+histamine vasoactive mediator in granules of mast cells and is the primary cause of allergies and anaphylactic shock
+
+IgA antibody whose dimer is secreted by exocrine glands, is especially effective against digestive and respiratory
+pathogens, and can pass immunity to an infant through breastfeeding
+
+IgD class of antibody whose only known function is as a receptor on naive B cells; important in B cell activation
+IgE antibody that binds to mast cells and causes antigen-specific degranulation during an allergic response
+
+IgG main blood antibody of late primary and early secondary responses; passed from mother to unborn child via
+placenta
+
+IgM antibody whose monomer is a surface receptor of naive B cells; the pentamer is the first antibody made blood
+plasma during primary responses
+
+immediate hypersensitivity (type I) IgE-mediated mast cell degranulation caused by crosslinking of surface IgE by
+antigen
+
+immune system series of barriers, cells, and soluble mediators that combine to response to infections of the body with
+pathogenic organisms
+
+immunoglobulin protein antibody; occurs as one of five main classes
+
+immunological memory ability of the adaptive immune response to mount a stronger and faster immune response
+upon re-exposure to a pathogen
+
+inflammation basic innate immune response characterized by heat, redness, pain, and swelling
+innate immune response rapid but relatively nonspecific immune response
+interferons early induced proteins made in virally infected cells that cause nearby cells to make antiviral proteins
+
+light chain small protein chain of an antibody
+
+966 CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM
+
+lymph node one of the bean-shaped organs found associated with the lymphatic vessels
+lymphatic capillaries smallest of the lymphatic vessels and the origin of lymph flow
+
+lymphatic system network of lymphatic vessels, lymph nodes, and ducts that carries lymph from the tissues and back
+to the bloodstream.
+

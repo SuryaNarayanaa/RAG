@@ -1,0 +1,10 @@
+The corticospinal tract represents the neurons that send output from the primary motor cortex. These
+‘ibers travel through the deep white matter of the cerebrum, then through the midbrain and pons, into the medulla where
+most of them decussate, and finally through the spinal cord white matter in the lateral (crossed fibers) or anterior (uncrossed
+‘ibers) columns. These fibers synapse on motor neurons in the ventral horn. The ventral horn motor neurons then project
+to skeletal muscle and cause contraction. These two cells are termed the upper motor neuron (UMN) and the lower motor
+neuron (LMN). Voluntary movements require these two cells to be active.
+
+ The motor exam tests the function of these neurons and the muscles they control. First, the muscles are inspected and
+palpated for signs of structural irregularities. Movement disorders may be the result of changes to the muscle tissue, such
+as scarring, and these possibilities need to be ruled out before testing function.

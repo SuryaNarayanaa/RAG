@@ -1,0 +1,11 @@
+HCl in the stomach aids in proteolysis, and hormones secreted by intestinal cells direct the digestive
+processes.
+
+ In order to avoid breaking down the proteins that make up the pancreas and small intestine, pancreatic enzymes are
+released as inactive proenzymes that are only activated in the small intestine. In the pancreas, vesicles store trypsin and
+chymotrypsin as trypsinogen and chymotrypsinogen. Once released into the small intestine, an enzyme found in the wal.
+of the small intestine, called enterokinase, binds to trypsinogen and converts it into its active form, trypsin. Trypsin then
+binds to chymotrypsinogen to convert it into the active chymotrypsin. Trypsin and chymotrypsin break down large proteins
+into smaller peptides, a process called proteolysis. These smaller peptides are catabolized into their constituent amino acids,
+which are transported across the apical surface of the intestinal mucosa in a process that is mediated by sodium-amino acid
+transporters.

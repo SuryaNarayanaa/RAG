@@ -1,0 +1,90 @@
+the condition of being able to
+differentiate into one of a few possible cell types
+
+organelle any of several different types of membrane-enclosed specialized structures in the cell that perform specific
+functions for the cell
+
+osmosis diffusion of molecules down their concentration across a selectively permeable membrane
+passive transport form of transport across the cell membrane that does not require input of cellular energy
+
+peripheral protein membrane-associated protein that does not span the width of the lipid bilayer, but is attached
+peripherally to integral proteins, membrane lipids, or other components of the membrane
+
+peroxisome membrane-bound organelle that contains enzymes primarily responsible for detoxifying harmful
+substances
+
+125
+
+126 CHAPTER 3| THE CELLULAR LEVEL OF ORGANIZATION
+
+phagocytosis endocytosis of large particles
+
+pinocytosis endocytosis of fluid
+
+pluripotent describes the condition of being able to differentiate into a large variety of cell types
+polypeptide chain of amino acids linked by peptide bonds
+
+polyribosome simultaneous translation of a single mRNA transcript by multiple ribosomes
+promoter region of DNA that signals transcription to begin at that site within the gene
+
+prophase first stage of mitosis (and meiosis), characterized by breakdown of the nuclear envelope and condensing of
+the chromatin to form chromosomes
+
+proteome full complement of proteins produced by a cell (determined by the cell’s specific gene expression)
+
+RNA polymerase enzyme that unwinds DNA and then adds new nucleotides to a growing strand of RNA for the
+transcription phase of protein synthesis
+
+reactive oxygen species (ROS) a group of extremely reactive peroxides and oxygen-containing radicals that may
+contribute to cellular damage
+
+receptor-mediated endocytosis endocytosis of ligands attached to membrane-bound receptors
+receptor protein molecule that contains a binding site for another specific molecule (called a ligand)
+ribosomal RNA (rRNA) RNA that makes up the subunits of a ribosome
+
+ribosome cellular organelle that functions in protein synthesis
+
+S phase stage of the cell cycle during which DNA replication occurs
+
+selective permeability feature of any barrier that allows certain substances to cross but excludes others
+
+sister chromatid one of a pair of identical chromosomes, formed during DNA replication
+
+sodium-potassium pump (also, Na*/K* ATP-ase) membrane-embedded protein pump that uses ATP to move Na®
+
+out of a cell and K* into the cell
+somatic cell all cells of the body excluding gamete cells
+spliceosome complex of enzymes that serves to splice out the introns of a pre-mRNA transcript
+splicing the process of modifying a pre-mRNA transcript by removing certain, typically non-coding, regions
+
+stem cell cell that is oligo-, multi-, or pleuripotent that has the ability to produce additional stem cells rather than
+becoming further specialized
+
+telophase final stage of mitosis (and meiosis), preceding cytokinesis, characterized by the formation of two new
+daughter nuclei
+
+totipotent embryonic cells that have the ability to differentiate into any type of cell and organ in the body
+transcription factor one of the proteins that regulate the transcription of genes
+transcription process of producing an mRNA molecule that is complementary to a particular gene of DNA
+
+transfer RNA (tRNA) molecules of RNA that serve to bring amino acids to a growing polypeptide strand and properly
+place them into the sequence
+
+translation process of producing a protein from the nucleotide sequence code of an mRNA transcript
+
+triplet consecutive sequence of three nucleotides on a DNA molecule that, when transcribed into an mRNA codon,
+corresponds to a particular amino acid
+
+unipotent describes the condition of being committed to a single specialized cell type
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 3 | THE CELLULAR LEVEL OF ORGANIZATION 127
+
+vesicle membrane-bound structure that contains materials within or outside of the cell
+
+CHAPTER REVIEW
+
+3.1 The Cell Membrane
+
+The cell membrane provides a barrier around the cell, separating its internal components from the extracellular environment.

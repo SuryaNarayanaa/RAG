@@ -1,0 +1,27 @@
+This
+receptor is associated with an intracellular component called a G protein, and binding of the hormone activates the G-
+protein component (Step 2). The activated G protein in turn activates an enzyme called adenylyl cyclase, also known as
+adenylate cyclase (Step 3), which converts adenosine triphosphate (ATP) to cAMP (Step 4). As the second messenger,
+cAMP activates a type of enzyme called a protein kinase that is present in the cytosol (Step 5). Activated protein kinases
+initiate a phosphorylation cascade, in which multiple protein kinases phosphorylate (add a phosphate group to) numerous
+and various cellular proteins, including other enzymes (Step 6).
+
+ 694 CHAPTER 17 | THE ENDOCRINE SYSTEM
+
+@ Water-soluble hormones are
+membrane insoluble. They
+bind to membrane receptors.
+
+ Extracellular fluid
+
+@ The binding activates
+a G protein.
+
+@ The activated G protein
+activates adenylyl cyclase.
+
+@ Adenylyl cyclase catalyzes
+the conversion of ATP to
+cAMP, the secondary
+messenger in this pathway.
+

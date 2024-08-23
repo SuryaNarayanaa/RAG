@@ -1,0 +1,10 @@
+(c)
+
+Figure 2.7 Electron Shells Electrons orbit the atomic nucleus at distinct levels of energy called electron shells.
+ (a) With one electron, hydrogen only half-fills its electron shell. Helium also has a single shell, but its two electrons
+completely fill it. (b) The electrons of carbon completely fill its first electron shell, but only half-fills its second. (c) Neon,
+an element that does not occur in the body, has 10 electrons, filling both of its electron shells.
+
+ The factor that most strongly governs the tendency of an atom to participate in chemical reactions is the number of
+electrons in its valence shell. A valence shell is an atom’s outermost electron shell. If the valence shell is full, the atom is
+stable; meaning its electrons are unlikely to be pulled away from the nucleus by the electrical charge of other atoms.

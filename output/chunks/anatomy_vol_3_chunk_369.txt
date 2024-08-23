@@ -1,0 +1,11 @@
+Because one triglyceride molecule yields three fatty acid molecules with as
+much as 16 or more carbons in each one, fat molecules yield more energy than carbohydrates and are an important source of
+energy for the human body. Triglycerides yield more than twice the energy per unit mass when compared to carbohydrates
+and proteins. Therefore, when glucose levels are low, triglycerides can be converted into acetyl CoA molecules and used to
+generate ATP through aerobic respiration.
+
+ The breakdown of fatty acids, called fatty acid oxidation or beta (B)-oxidation, begins in the cytoplasm, where
+fatty acids are converted into fatty acyl CoA molecules. This fatty acyl CoA combines with carnitine to create a fatty
+acyl carnitine molecule, which helps to transport the fatty acid across the mitochondrial membrane. Once inside the
+mitochondrial matrix, the fatty acyl carnitine molecule is converted back into fatty acyl CoA and then into acetyl CoA
+(Figure 24.13).

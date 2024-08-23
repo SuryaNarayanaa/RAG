@@ -1,0 +1,19 @@
+This association of antigen and MHC occurs inside the cell, and it is the complex of the two that is brought to the
+surface. The peptide-binding cleft is a small indentation at the end of the MHC molecule that is furthest away from the
+cell membrane; it is here that the processed fragment of antigen sits. MHC molecules are capable of presenting a variety of
+antigens, depending on the amino acid sequence, in their peptide-binding clefts. It is the combination of the MHC molecule
+and the fragment of the original peptide or carbohydrate that is actually physically recognized by the T cell receptor (Figure
+21.17).
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM 941
+
+T cell
+receptor
+
+® The MHC proteins, now carrying
+antigens, are released from the vesicle
+and travel to the outer surface of the
+cell membrane.
+

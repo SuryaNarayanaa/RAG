@@ -1,0 +1,24 @@
+Although, usually thought of as
+the primary pathogen-killing cell of the inflammatory process of the innate immune response, new research has suggested
+that neutrophils play a role in the adaptive immune response as well, just as macrophages do.
+
+ A monocyte is a circulating precursor cell that differentiates into either a macrophage or dendritic cell, which can be
+rapidly attracted to areas of infection by signal molecules of inflammation.
+
+
+934 CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM
+
+Phagocytic Cells of the Innate Immune System
+
+Cell Cell type Primary location Function in the innate immune response
+
+Macrophage | Agranulocyte | Body cavities/organs | Phagocytosis
+
+Neutrophil | Granulocyte | Blood Phagocytosis
+Monocyte — | Agranulocyte | Blood Precursor of macrophage/dendritic cell
+Table 21.3
+
+Natural Killer Cells
+
+NK cells are a type of lymphocyte that have the ability to induce apoptosis, that is, programmed cell death, in cells
+infected with intracellular pathogens such as obligate intracellular bacteria and viruses.

@@ -1,0 +1,11 @@
+There are two basic reasons that orthostatic hypotension can occur. First, blood volume is too low and the
+sympathetic reflex is not effective. This hypovolemia may be the result of dehydration or medications that affect
+fluid balance, such as diuretics or vasodilators. Both of these medications are meant to lower blood pressure, which
+may be necessary in the case of systemic hypertension, and regulation of the medications may alleviate the problem.
+ Sometimes increasing fluid intake or water retention through salt intake can improve the situation.
+
+ The second underlying cause of orthostatic hypotension is autonomic failure. There are several disorders that
+result in compromised sympathetic functions. The disorders range from diabetes to multiple system atrophy (a loss of
+control over many systems in the body), and addressing the underlying condition can improve the hypotension. For
+example, with diabetes, peripheral nerve damage can occur, which would affect the postganglionic sympathetic fibers.
+Getting blood glucose levels under control can improve neurological deficits associated with diabetes.

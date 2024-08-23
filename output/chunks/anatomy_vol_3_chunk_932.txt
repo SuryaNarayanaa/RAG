@@ -1,0 +1,9 @@
+34
+Peroxisomes and lysosomes are both cellular organelles bound by lipid bilayer membranes, and they both contain many enzymes.
+ However, peroxisomes contain enzymes that detoxify substances by transferring hydrogen atoms and producing H202, whereas
+the enzymes in lysosomes function to break down and digest various unwanted materials. 35 DNA replication is said to be
+semiconservative because, after replication is complete, one of the two parent DNA strands makes up half of each new DNA
+molecule. The other half is a newly synthesized strand. Therefore, half (“semi”) of each daughter DNA molecule is from the parent
+molecule and half is a new molecule. 36 During cell division, one cell divides to produce two new cells. In order for all of the
+cells in your body to maintain a full genome, each cell must replicate its DNA before it divides so that a full genome can be allotted
+to each of its offspring cells.

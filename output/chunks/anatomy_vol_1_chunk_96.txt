@@ -1,0 +1,10 @@
+In 1895, Réntgen made the first durable record of the internal parts of a living human: an “X-ray” image (as it
+came to be called) of his wife’s hand. Scientists around the world quickly began their own experiments with X-rays, and by
+1900, X-rays were widely used to detect a variety of injuries and diseases. In 1901, R6éntgen was awarded the first Nobel
+Prize for physics for his work in this field.
+
+ The X-ray is a form of high energy electromagnetic radiation with a short wavelength capable of penetrating solids
+and ionizing gases. As they are used in medicine, X-rays are emitted from an X-ray machine and directed toward a specially
+treated metallic plate placed behind the patient’s body. The beam of radiation results in darkening of the X-ray plate. X-rays
+are slightly impeded by soft tissues, which show up as gray on the X-ray plate, whereas hard tissues, such as bone, largely
+block the rays, producing a light-toned “shadow.”

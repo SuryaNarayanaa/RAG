@@ -1,0 +1,10 @@
+These signals are maintained in an intricate balance so
+that the cell only proceeds to the next phase when it is ready. This homeostatic control of the cell cycle can be thought
+of like a car’s cruise control. Cruise control will continually apply just the right amount of acceleration to maintain
+a desired speed, unless the driver hits the brakes, in which case the car will slow down. Similarly, the cell includes
+molecular messengers, such as cyclins, that push the cell forward in its cycle.
+
+ In addition to cyclins, a class of proteins that are encoded by genes called proto-oncogenes provide important
+signals that regulate the cell cycle and move it forward. Examples of proto-oncogene products include cell-surface
+receptors for growth factors, or cell-signaling molecules, two classes of molecules that can promote DNA replication
+and cell division.

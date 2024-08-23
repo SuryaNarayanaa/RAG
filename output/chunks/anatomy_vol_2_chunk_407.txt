@@ -1,0 +1,43 @@
+At this point, the tract separates into two parts, which have control over different domains of the
+musculature.
+
+ 596 CHAPTER 14| THE BRAIN AND CRANIAL NERVES
+
+—— Pre-central gyrus
+
+Cerebral peduncle
+
+Midbrain
+
+Medulla
+
+Decussation
+of pyramids
+
+Anterior
+corticospinal
+tract
+
+Lateral
+corticospinal
+tract
+
+Upper motor
+
+To skeletal neuron
+
+muscles
+
+Spinal cord
+
+Lower motor
+neuron
+
+Key
+=== Upper motor neuron —— > Lower motor neuron
+
+Figure 14.28 Corticospinal Tract The major descending tract that controls skeletal muscle movements is the
+corticospinal tract. It is composed of two neurons, the upper motor neuron and the lower motor neuron. The upper
+motor neuron has its cell body in the primary motor cortex of the frontal lobe and synapses on the lower motor neuron,
+which is in the ventral horn of the spinal cord and projects to the skeletal muscle in the periphery.
+

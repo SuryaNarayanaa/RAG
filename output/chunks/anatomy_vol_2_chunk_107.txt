@@ -1,0 +1,25 @@
+In fact, the membrane potential can be
+described as a battery. A charge is stored across the membrane that can be released under the correct conditions. A battery
+in your remote has stored a charge that is “released” when you push a button.
+
+ +30
+
+Depolarization Repolarization
+
+Membrane potential (mV)
+
+Hyperpolarization
+
+Time >
+
+Figure 12.23 Graph of Action Potential Plotting voltage measured across the cell membrane against time, the
+action potential begins with depolarization, followed by repolarization, which goes past the resting potential into
+hyperpolarization, and finally the membrane returns to rest.
+
+ What happens across the membrane of an electrically active cell is a dynamic process that is hard to visualize with
+static images or through text descriptions. View this animation (http://openstaxcollege.org/I/dynamic1) to learn
+
+more about this process. What is the difference between the driving force for Na* and K*? And what is similar about
+the movement of these two ions?
+
+ The question is, now, what initiates the action potential?

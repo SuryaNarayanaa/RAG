@@ -1,0 +1,13 @@
+For example, the enteric plexus is the extensive network of axons
+and neurons in the wall of the small and large intestines. The enteric plexus is actually part of the enteric nervous system,
+along with the gastric plexuses and the esophageal plexus. Though the enteric nervous system receives input originating
+from central neurons of the autonomic nervous system, it does not require CNS input to function. In fact, it operates
+independently to regulate the digestive system.
+
+ Nerves
+
+Bundles of axons in the PNS are referred to as nerves. These structures in the periphery are different than the central
+counterpart, called a tract. Nerves are composed of more than just nervous tissue. They have connective tissues invested
+in their structure, as well as blood vessels supplying the tissues with nourishment. The outer surface of a nerve is a
+surrounding layer of fibrous connective tissue called the epineurium. Within the nerve, axons are further bundled into
+fascicles, which are each surrounded by their own layer of fibrous connective tissue called perineurium.

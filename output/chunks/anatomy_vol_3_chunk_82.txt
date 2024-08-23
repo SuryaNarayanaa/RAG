@@ -1,0 +1,11 @@
+For example, although nitrogen is present
+in the atmosphere, very little nitrogen dissolves into the blood, because the solubility of nitrogen in blood is very low. The
+exception to this occurs in scuba divers; the composition of the compressed air that divers breathe causes nitrogen to have a
+higher partial pressure than normal, causing it to dissolve in the blood in greater amounts than normal. Too much nitrogen
+in the bloodstream results in a serious condition that can be fatal if not corrected. Gas molecules establish an equilibrium
+between those molecules dissolved in liquid and those in air.
+
+ The composition of air in the atmosphere and in the alveoli differs. In both cases, the relative concentration of gases
+is nitrogen > oxygen > water vapor > carbon dioxide. The amount of water vapor present in alveolar air is greater than
+that in atmospheric air (Table 22.3). Recall that the respiratory system works to humidify incoming air, thereby causing the
+air present in the alveoli to have a greater amount of water vapor than atmospheric air.

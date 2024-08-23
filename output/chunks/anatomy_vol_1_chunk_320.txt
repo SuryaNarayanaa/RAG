@@ -1,0 +1,12 @@
+The interpretation of genes works in the following way. Recall that proteins are polymers, or chains, of many amino
+acid building blocks. The sequence of bases in a gene (that is, its sequence of A, T, C, G nucleotides) translates to an amino
+acid sequence. A triplet is a section of three DNA bases in a row that codes for a specific amino acid. Similar to the way in
+which the three-letter code d-o-g signals the image of a dog, the three-letter DNA base code signals the use of a particular
+amino acid. For example, the DNA triplet CAC (cytosine, adenine, and cytosine) specifies the amino acid valine. Therefore,
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 3 | THE CELLULAR LEVEL OF ORGANIZATION 109
+
+a gene, which is composed of multiple triplets in a unique sequence, provides the code to build an entire protein, with
+multiple amino acids in the proper sequence (Figure 3.25).

@@ -1,0 +1,48 @@
+The
+myosin then pulls the actin filaments toward the center, shortening the muscle fiber.
+
+ In skeletal muscle, this sequence begins with signals from the somatic motor division of the nervous system. In other
+words, the “excitation” step in skeletal muscles is always triggered by signaling from the nervous system (Figure 10.6).
+
+ Myelin sheath surrounding
+axon of motor neuron
+
+Axon terminal
+
+Synaptic end bulb at the
+Sarcolemma > neuromuscular junction
+
+Myofibril of
+muscle fiber
+
+Sarcoplasm
+
+Synaptic vesicle
+
+containing ACh Nerve impulse
+
+(action potential)
+
+Sarcolemma
+
+Synaptic
+cleft
+
+Synaptic
+vesicle
+
+releases
+ACh by ;
+exocytosis Synaptic cleft
+
+ACh receptor
+
+Motor
+
+Binding of end-plate
+
+ACh to its
+receptor opens
+the channel
+
+Figure 10.6 Motor End-Plate and Innervation At the NMJ, the axon terminal releases ACh.

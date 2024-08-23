@@ -1,0 +1,12 @@
+Scientists now know the cause of the agglutination is an antibody molecule, also called an immunoglobulin. What
+is an antibody? An antibody protein is essentially a secreted form of a B cell receptor. (In fact, surface immunoglobulin is
+another name for the B cell receptor.) Not surprisingly, the same genes encode both the secreted antibodies and the surface
+immunoglobulins. One minor difference in the way these proteins are synthesized distinguishes a naive B cell with antibody
+on its surface from an antibody-secreting plasma cell with no antibodies on its surface. The antibodies of the plasma cell
+have the exact same antigen-binding site and specificity as their B cell precursors.
+
+ There are five different classes of antibody found in humans: IgM, IgD, IgG, IgA, and IgE. Each of these has specific
+functions in the immune response, so by learning about them, researchers can learn about the great variety of antibody
+functions critical to many adaptive immune responses.
+
+B cells do not recognize antigen in the complex fashion of T cells.

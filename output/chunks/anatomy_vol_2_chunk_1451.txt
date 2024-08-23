@@ -1,0 +1,11 @@
+Unfortunately, many cancers mutate, so they no longer express any specific
+antigens for the immune system to respond to, and a subpopulation of cancer cells escapes the immune response, continuing
+the disease process.
+
+ This fact has led to extensive research in trying to develop ways to enhance the early immune response to completely
+eliminate the early cancer and thus prevent a later escape. One method that has shown some success is the use of cancer
+vaccines, which differ from viral and bacterial vaccines in that they are directed against the cells of one’s own body.
+ Treated cancer cells are injected into cancer patients to enhance their anti-cancer immune response and thereby prolong
+survival. The immune system has the capability to detect these cancer cells and proliferate faster than the cancer cells
+do, overwhelming the cancer in a similar way as they do for viruses. Cancer vaccines have been developed for malignant
+melanoma, a highly fatal skin cancer, and renal (kidney) cell carcinoma.

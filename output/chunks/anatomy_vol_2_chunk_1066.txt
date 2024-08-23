@@ -1,0 +1,10 @@
+The cardioaccelerator regions stimulate activity via sympathetic stimulation of the cardioaccelerator nerves, and
+the cardioinhibitory centers decrease heart activity via parasympathetic stimulation as one component of the vagus nerve,
+cranial nerve X. During rest, both centers provide slight stimulation to the heart, contributing to autonomic tone. This is
+a similar concept to tone in skeletal muscles. Normally, vagal stimulation predominates as, left unregulated, the SA node
+would initiate a sinus rhythm of approximately 100 bpm.
+
+ Both sympathetic and parasympathetic stimulations flow through a paired complex network of nerve fibers known
+as the cardiac plexus near the base of the heart. The cardioaccelerator center also sends additional fibers, forming the
+cardiac nerves via sympathetic ganglia (the cervical ganglia plus superior thoracic ganglia T1—T4) to both the SA and AV
+nodes, plus additional fibers to the atria and ventricles.

@@ -1,0 +1,26 @@
+Nucleic Acid Digestion
+
+The nucleic acids DNA and RNA are found in most of the foods you eat. Two types of pancreatic nuclease are
+responsible for their digestion: deoxyribonuclease, which digests DNA, and ribonuclease, which digests RNA. The
+nucleotides produced by this digestion are further broken down by two intestinal brush border enzymes ( nucleosidase and
+phosphatase) into pentoses, phosphates, and nitrogenous bases, which can be absorbed through the alimentary canal wall.
+ The large food molecules that must be broken down into subunits are summarized Table 23.9
+
+Absorbable Food Substances
+
+Source Substance
+
+Carbohydrates | Monosaccharides: glucose, galactose, and fructose
+
+Proteins Single amino acids, dipeptides, and tripeptides
+
+Triglycerides |Monoacylglycerides, glycerol, and free fatty acids
+
+Nucleic acids |Pentose sugars, phosphates, and nitrogenous bases
+
+Table 23.9
+
+Absorption
+
+The mechanical and digestive processes have one goal: to convert food into molecules small enough to be absorbed by
+the epithelial cells of the intestinal villi.

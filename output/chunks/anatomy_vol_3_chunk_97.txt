@@ -1,0 +1,15 @@
+There
+are multiple factors involved in how readily heme binds to and dissociates from oxygen, which will be discussed in the
+subsequent sections.
+
+ Figure 22.25 Erythrocyte and Hemoglobin Hemoglobin consists of four subunits, each of which contains one
+molecule of iron.
+
+ Function of Hemoglobin
+
+Hemoglobin is composed of subunits, a protein structure that is referred to as a quaternary structure. Each of the four
+subunits that make up hemoglobin is arranged in a ring-like fashion, with an iron atom covalently bound to the heme in
+the center of each subunit. Binding of the first oxygen molecule causes a conformational change in hemoglobin that allows
+the second molecule of oxygen to bind more readily. As each molecule of oxygen is bound, it further facilitates the binding
+of the next molecule, until all four heme sites are occupied by oxygen. The opposite occurs as well: After the first oxygen
+molecule dissociates and is “dropped off” at the tissues, the next oxygen molecule dissociates more readily.

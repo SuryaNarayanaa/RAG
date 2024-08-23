@@ -1,0 +1,18 @@
+Peroxisomes perform a couple of different functions, including lipid metabolism and chemical detoxification. In contrast to
+the digestive enzymes found in lysosomes, the enzymes within peroxisomes serve to transfer hydrogen atoms from various
+molecules to oxygen, producing hydrogen peroxide (H202). In this way, peroxisomes neutralize poisons such as alcohol. In
+order to appreciate the importance of peroxisomes, it is necessary to understand the concept of reactive oxygen species.
+
+ Lipid bilayer
+
+Plasma
+membrane
+
+Figure 3.17 Peroxisome Peroxisomes are membrane-bound organelles that contain an abundance of enzymes for
+detoxifying harmful substances and lipid metabolism.
+
+ Reactive oxygen species (ROS) such as peroxides and free radicals are the highly reactive products of many normal
+cellular processes, including the mitochondrial reactions that produce ATP and oxygen metabolism. Examples of ROS
+include the hydroxyl radical OH, H2O2, and superoxide (O} ). Some ROS are important for certain cellular functions,
+
+such as cell signaling processes and immune responses against foreign substances.

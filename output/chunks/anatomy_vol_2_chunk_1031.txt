@@ -1,0 +1,9 @@
+The standard electrocardiograph (the instrument
+that generates an ECG) uses 3, 5, or 12 leads. The greater the number of leads an electrocardiograph uses, the more
+information the ECG provides. The term “lead” may be used to refer to the cable from the electrode to the electrical recorder,
+but it typically describes the voltage difference between two of the electrodes. The 12-lead electrocardiograph uses 10
+electrodes placed in standard locations on the patient’s skin (Figure 19.22). In continuous ambulatory electrocardiographs,
+the patient wears a small, portable, battery-operated device known as a Holter monitor, or simply a Holter, that continuously
+monitors heart electrical activity, typically for a period of 24 hours during the patient’s normal routine.
+
+806 CHAPTER 19 | THE CARDIOVASCULAR SYSTEM:

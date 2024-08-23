@@ -1,0 +1,11 @@
+Due to this design,
+the muscle fibers in a pennate muscle can only pull at an angle, and as a result, contracting pennate muscles do not move
+their tendons very far. However, because a pennate muscle generally can hold more muscle fibers within it, it can produce
+relatively more tension for its size. There are three subtypes of pennate muscles.
+
+ In a unipennate muscle, the fascicles are located on one side of the tendon. The extensor digitorum of the forearm
+is an example of a unipennate muscle. A bipennate muscle has fascicles on both sides of the tendon. In some pennate
+muscles, the muscle fibers wrap around the tendon, sometimes forming individual fascicles in the process. This arrangement
+is referred to as multipennate. A common example is the deltoid muscle of the shoulder, which covers the shoulder but has
+a single tendon that inserts on the deltoid tuberosity of the humerus.
+

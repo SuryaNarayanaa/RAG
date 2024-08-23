@@ -1,0 +1,11 @@
+Short and Long Reflexes Sensory input can stimulate either a short or a long reflex. A sensory neuron
+can project to the CNS or to an autonomic ganglion. The short reflex involves the direct stimulation of a postganglionic
+fiber by the sensory neuron, whereas the long reflex involves integration in the spinal cord or brain.
+
+ The difference between short and long reflexes is in the involvement of the CNS. Somatic reflexes always involve the
+CNS, even in a monosynaptic reflex in which the sensory neuron directly activates the motor neuron. That synapse is in
+the spinal cord or brain stem, so it has to involve the CNS. However, in the autonomic system there is the possibility that
+the CNS is not involved. Because the efferent branch of a visceral reflex involves two neurons—the central neuron and
+the ganglionic neuron—a “short circuit” can be possible. If a sensory neuron projects directly to the ganglionic neuron and
+causes it to activate the effector target, then the CNS is not involved.
+

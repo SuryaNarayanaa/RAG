@@ -1,0 +1,27 @@
++30
+
+ ® Voltage rises (2) Voltage falls
+
+Pe
+-§5} ---------~+-------------“-----------
+
+© Return to rest
+
+Membrane potential (mV)
+
+@® Stimulus applied © End of action potential
+
+Time >
+
+Figure 12.24 Stages of an Action Potential Plotting voltage measured across the cell membrane against time, the
+events of the action potential can be related to specific changes in the membrane voltage. (1) At rest, the membrane
+voltage is -70 mV. (2) The membrane begins to depolarize when an external stimulus is applied. (3) The membrane
+voltage begins a rapid rise toward +30 mV. (4) The membrane voltage starts to return to a negative value. (5)
+Repolarization continues past the resting membrane voltage, resulting in hyperpolarization. (6) The membrane voltage
+returns to the resting value shortly after hyperpolarization.
+
+ 494 CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE
+
+Propagation of the Action Potential
+
+The action potential is initiated at the beginning of the axon, at what is called the initial segment.

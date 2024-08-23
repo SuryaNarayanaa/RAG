@@ -1,0 +1,14 @@
+Neurons are the primary type of cell that most
+anyone associates with the nervous system. They are responsible for the computation and communication that the nervous
+system provides. They are electrically active and release chemical signals to target cells. Glial cells, or glia, are known to
+play a supporting role for nervous tissue. Ongoing research pursues an expanded role that glial cells might play in signaling,
+but neurons are still considered the basis of this function. Neurons are important, but without glial support they would not
+be able to perform their function.
+
+ Neurons
+
+Neurons are the cells considered to be the basis of nervous tissue. They are responsible for the electrical signals that
+communicate information about sensations, and that produce movements in response to those stimuli, along with inducing
+thought processes within the brain. An important part of the function of neurons is in their structure, or shape. The three-
+dimensional shape of these cells makes the immense numbers of connections within the nervous system possible.
+

@@ -1,0 +1,10 @@
+The cross-bridges can only form where thin and thick filaments already overlap, so that the length
+of the sarcomere has a direct influence on the force generated when the sarcomere shortens. This is called the length-tension
+relationship.
+
+ The ideal length of a sarcomere to produce maximal tension occurs at 80 percent to 120 percent of its resting length,
+with 100 percent being the state where the medial edges of the thin filaments are just at the most-medial myosin heads of the
+thick filaments (Figure 10.14). This length maximizes the overlap of actin-binding sites and myosin heads. If a sarcomere
+is stretched past this ideal length (beyond 120 percent), thick and thin filaments do not overlap sufficiently, which results in
+less tension produced. If a sarcomere is shortened beyond 80 percent, the zone of overlap is reduced with the thin filaments
+jutting beyond the last of the myosin heads and shrinks the H zone, which is normally composed of myosin tails.

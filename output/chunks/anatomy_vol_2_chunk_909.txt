@@ -1,0 +1,11 @@
+Thrombophilia,
+also called hypercoagulation, is a condition in which there is a tendency to form thrombosis. This may be familial (genetic)
+or acquired. Acquired forms include the autoimmune disease lupus, immune reactions to heparin, polycythemia vera,
+thrombocytosis, sickle cell disease, pregnancy, and even obesity. A thrombus can seriously impede blood flow to or from a
+region and will cause a local increase in blood pressure. If flow is to be maintained, the heart will need to generate a greater
+pressure to overcome the resistance.
+
+ When a portion of a thrombus breaks free from the vessel wall and enters the circulation, it is referred to as an embolus.
+ An embolus that is carried through the bloodstream can be large enough to block a vessel critical to a major organ. When
+it becomes trapped, an embolus is called an embolism. In the heart, brain, or lungs, an embolism may accordingly cause a
+heart attack, a stroke, or a pulmonary embolism.

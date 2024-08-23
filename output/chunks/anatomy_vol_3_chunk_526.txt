@@ -1,0 +1,14 @@
+Autoregulation
+
+The kidneys are very effective at regulating the rate of blood flow over a wide range of blood pressures. Your blood pressure
+will decrease when you are relaxed or sleeping. It will increase when exercising. Yet, despite these changes, the filtration
+rate through the kidney will change very little. This is due to two internal autoregulatory mechanisms that operate without
+outside influence: the myogenic mechanism and the tubuloglomerular feedback mechanism.
+
+ Arteriole Myogenic Mechanism
+
+The myogenic mechanism regulating blood flow within the kidney depends upon a characteristic shared by most smooth
+muscle cells of the body. When you stretch a smooth muscle cell, it contracts; when you stop, it relaxes, restoring its resting
+length. This mechanism works in the afferent arteriole that supplies the glomerulus. When blood pressure increases, smooth
+muscle cells in the wall of the arteriole are stretched and respond by contracting to resist the pressure, resulting in little
+change in flow.

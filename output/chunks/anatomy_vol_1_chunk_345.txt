@@ -1,0 +1,13 @@
+The Cell Cycle Out of Control: Implications
+
+Most people understand that cancer or tumors are caused by abnormal cells that multiply continuously. If the abnormal cells
+continue to divide unstopped, they can damage the tissues around them, spread to other parts of the body, and eventually
+result in death. In healthy cells, the tight regulation mechanisms of the cell cycle prevent this from happening, while failures
+of cell cycle control can cause unwanted and excessive cell division. Failures of control may be caused by inherited genetic
+abnormalities that compromise the function of certain “stop” and “go” signals. Environmental insult that damages DNA can
+also cause dysfunction in those signals. Often, a combination of both genetic predisposition and environmental factors lead
+to cancer.
+
+ The process of a cell escaping its normal control system and becoming cancerous may actually happen throughout the
+body quite frequently. Fortunately, certain cells of the immune system are capable of recognizing cells that have become
+cancerous and destroying them.

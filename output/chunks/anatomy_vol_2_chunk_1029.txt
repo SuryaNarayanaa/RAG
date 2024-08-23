@@ -1,0 +1,13 @@
+Since the SA node is the pacemaker, it
+reaches threshold faster than any other component of the conduction system. It will initiate the impulses spreading to the
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART 805
+
+other conducting cells. The SA node, without nervous or endocrine control, would initiate a heart impulse approximately
+80-100 times per minute. Although each component of the conduction system is capable of generating its own impulse,
+the rate progressively slows as you proceed from the SA node to the Purkinje fibers. Without the SA node, the AV node
+would generate a heart rate of 40-60 beats per minute. If the AV node were blocked, the atrioventricular bundle would fire
+at a rate of approximately 30-40 impulses per minute. The bundle branches would have an inherent rate of 20-30 impulses
+per minute, and the Purkinje fibers would fire at 15-20 impulses per minute.

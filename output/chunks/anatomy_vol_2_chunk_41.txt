@@ -1,0 +1,9 @@
+(credit c: “Was a bee”/Wikimedia Commons)
+
+Terminology applied to bundles of axons also differs depending on location. A bundle of axons, or fibers, found in the
+CNS is called a tract whereas the same thing in the PNS would be called a nerve. There is an important point to make
+about these terms, which is that they can both be used to refer to the same bundle of axons. When those axons are in the
+PNS, the term is nerve, but if they are CNS, the term is tract. The most obvious example of this is the axons that project
+from the retina into the brain. Those axons are called the optic nerve as they leave the eye, but when they are inside the
+cranium, they are referred to as the optic tract. There is a specific place where the name changes, which is the optic chiasm,
+but they are still the same axons (Figure 12.5).

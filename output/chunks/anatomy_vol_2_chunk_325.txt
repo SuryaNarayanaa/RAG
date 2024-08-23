@@ -1,0 +1,10 @@
+The
+scala vestibuli extends from the oval window, travelling above the cochlear duct, which is the central cavity of the cochlea
+that contains the sound-transducing neurons. At the uppermost tip of the cochlea, the scala vestibuli curves over the top of
+the cochlear duct. The fluid-filled tube, now called the scala tympani, returns to the base of the cochlea, this time travelling
+under the cochlear duct. The scala tympani ends at the round window, which is covered by a membrane that contains the
+fluid within the scala. As vibrations of the ossicles travel through the oval window, the fluid of the scala vestibuli and scala
+tympani moves in a wave-like motion. The frequency of the fluid waves match the frequencies of the sound waves (Figure
+14.6). The membrane covering the round window will bulge out or pucker in with the movement of the fluid within the
+scala tympani.
+

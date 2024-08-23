@@ -1,0 +1,15 @@
+LIN
+
+Watch this video (http://openstaxcollege.org/l/ETchain) to learn about the electron transport chain.
+
+ The electrons released from NADH and FADH?2 are passed along the chain by each of the carriers, which are reduced
+when they receive the electron and oxidized when passing it on to the next carrier. Each of these reactions releases a small
+
+amount of energy, which is used to pump H” ions across the inner membrane. The accumulation of these protons in the
+space between the membranes creates a proton gradient with respect to the mitochondrial matrix.
+ Also embedded in the inner mitochondrial membrane is an amazing protein pore complex called ATP synthase.
+
+ Effectively, it is a turbine that is powered by the flow of H* ions across the inner membrane down a gradient and into the
+
+mitochondrial matrix. As the H* ions traverse the complex, the shaft of the complex rotates. This rotation enables other
+portions of ATP synthase to encourage ADP and Pj to create ATP.

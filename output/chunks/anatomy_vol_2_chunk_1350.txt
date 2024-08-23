@@ -1,0 +1,29 @@
+Palatine
+tonsil
+
+Internal Defenses:
+1. Mast cells and basophils
+(Inflammatory response)
+2. Natural killer cells
+3. Complement system
+4. Phagocytes:
++ Monocytes
++ Neutrophils
++ Macrophages
+
+Adaptive Immunity
+
+1. T lymphocyte
+2. Antigen-presenting cells
+3. B lymphocytes
+
+Germinal center of palatine tonsil
+
+Figure 21.12 Cooperation between Innate and Adaptive Immune Responses The innate immune system
+enhances adaptive immune responses so they can be more effective.
+
+ Any discussion of the innate immune response usually begins with the physical barriers that prevent pathogens from
+entering the body, destroy them after they enter, or flush them out before they can establish themselves in the hospitable
+environment of the body’s soft tissues. Barrier defenses are part of the body’s most basic defense mechanisms. The barrier
+defenses are not a response to infections, but they are continuously working to protect against a broad range of pathogens.
+

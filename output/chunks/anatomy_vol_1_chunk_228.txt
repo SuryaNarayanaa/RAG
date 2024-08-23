@@ -1,0 +1,12 @@
+The “choices” of base for DNA are adenine, cytosine, guanine, and thymine.
+ Ribonucleic acid (RNA) is a ribose-containing nucleotide that helps manifest the genetic code as protein. RNA contains
+ribose, one phosphate group, and one nitrogen-containing base, but the “choices” of base for RNA are adenine, cytosine,
+guanine, and uracil.
+
+ The nitrogen-containing bases adenine and guanine are classified as purines. A purine is a nitrogen-containing
+molecule with a double ring structure, which accommodates several nitrogen atoms. The bases cytosine, thymine (found in
+DNA only) and uracil (found in RNA only) are pyramidines. A pyramidine is a nitrogen-containing base with a single ring
+structure
+
+Bonds formed by dehydration synthesis between the pentose sugar of one nucleic acid monomer and the phosphate
+group of another form a “backbone,” from which the components’ nitrogen-containing bases protrude.

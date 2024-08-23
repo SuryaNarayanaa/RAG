@@ -1,0 +1,9 @@
+The motion at this type of joint is
+usually small and tightly constrained by surrounding ligaments. Based only on their shape, plane joints can allow multiple
+movements, including rotation. Thus plane joints can be functionally classified as a multiaxial joint. However, not all of
+these movements are available to every plane joint due to limitations placed on it by ligaments or neighboring bones.
+ Thus, depending upon the specific joint of the body, a plane joint may exhibit only a single type of movement or several
+movements. Plane joints are found between the carpal bones (intercarpal joints) of the wrist or tarsal bones (intertarsal
+joints) of the foot, between the clavicle and acromion of the scapula (acromioclavicular joint), and between the superior and
+inferior articular processes of adjacent vertebrae (zygapophysial joints).
+

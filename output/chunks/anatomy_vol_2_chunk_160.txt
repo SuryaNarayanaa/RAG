@@ -1,0 +1,31 @@
+Does spatial summation have to happen all at
+once, or can the separate signals arrive on the postsynaptic
+neuron at slightly different times? Explain your answer.
+
+8. Watch this video  (http://openstaxcollege.org/l/
+neurotrans) to learn about the release of a neurotransmitter.
+ The action potential reaches the end of the axon, called
+the axon terminal, and a chemical signal is released to tell
+the target cell to do something, either initiate a new action
+potential, or to suppress that activity. In a very short space,
+the electrical signal of the action potential is changed into
+the chemical signal of a neurotransmitter, and then back to
+electrical changes in the target cell membrane. What is the
+importance of voltage-gated calcium channels in the release
+of neurotransmitters?
+
+Cc. enteric
+d. central
+
+14. What type of glial cell provides myelin for the axons in
+a tract?
+
+a. oligodendrocyte
+
+b. astrocyte
+
+c. Schwann cell
+
+d. satellite cell
+
+15.

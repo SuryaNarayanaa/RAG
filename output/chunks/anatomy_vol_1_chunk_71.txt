@@ -1,0 +1,19 @@
+An effector is the component in a feedback system
+that causes a change to reverse the situation and return the value to the normal range.
+
+ Nerve cells in skin
+and brain
+
+Temperature regulatory
+Sweat glands
+throughout body
+
+(a) Negative feedback loop (b) Body temperature regulation
+
+Figure 1.10 Negative Feedback Loop In a negative feedback loop, a stimulus—a deviation from a set point—is
+resisted through a physiological process that returns the body to homeostasis. (a) A negative feedback loop has four
+basic parts. (b) Body temperature is regulated by negative feedback.
+
+ In order to set the system in motion, a stimulus must drive a physiological parameter beyond its normal range (that is,
+beyond homeostasis). This stimulus is “heard” by a specific sensor. For example, in the control of blood glucose, specific
+endocrine cells in the pancreas detect excess glucose (the stimulus) in the bloodstream.

@@ -1,0 +1,13 @@
+(b) The diagram shows a variety of possible symptoms of systemic
+lupus erythematosus.
+
+ Environmental triggers seem to play large roles in autoimmune responses. One explanation for the breakdown of
+tolerance is that, after certain bacterial infections, an immune response to a component of the bacterium cross-reacts with
+a self-antigen. This mechanism is seen in rheumatic fever, a result of infection with Streptococcus bacteria, which causes
+strep throat. The antibodies to this pathogen’s M protein cross-react with an antigenic component of heart myosin, a major
+contractile protein of the heart that is critical to its normal function. The antibody binds to these molecules and activates
+complement proteins, causing damage to the heart, especially to the heart valves. On the other hand, some theories propose
+that having multiple common infectious diseases actually prevents autoimmune responses. The fact that autoimmune
+diseases are rare in countries that have a high incidence of infectious diseases supports this idea, another example of the
+hygiene hypothesis discussed earlier in this chapter.
+

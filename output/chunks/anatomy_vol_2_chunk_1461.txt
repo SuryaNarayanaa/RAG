@@ -1,0 +1,15 @@
+There are several functional types of T
+lymphocytes, the major ones being helper, regulatory, and cytotoxic T cells.
+
+ 21.4 The Adaptive Immune Response: B-lymphocytes and Antibodies
+
+B cells, which develop within the bone marrow, are responsible for making five different classes of antibodies, each with
+its own functions. B cells have their own mechanisms for tolerance, but in peripheral tolerance, the B cells that leave the
+bone marrow remain inactive due to T cell tolerance. Some B cells do not need T cell cytokines to make antibody, and they
+bypass this need by the crosslinking of their surface immunoglobulin by repeated carbohydrate residues found in the cell
+walls of many bacterial species. Others require T cells to become activated.
+
+21.5 The Immune Response against Pathogens
+
+Early childhood is a time when the body develops much of its immunological memory that protects it from diseases in
+adulthood.

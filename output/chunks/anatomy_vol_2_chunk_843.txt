@@ -1,0 +1,13 @@
+There are two major
+subtypes of cytokines known as colony-stimulating factors and interleukins.
+
+ ° Colony-stimulating factors (CSFs) are glycoproteins that act locally, as autocrine or paracrine factors. Some
+trigger the differentiation of myeloblasts into granular leukocytes, namely, neutrophils, eosinophils, and
+basophils. These are referred to as granulocyte CSFs. A different CSF induces the production of monocytes,
+called monocyte CSFs. Both granulocytes and monocytes are stimulated by GM-CSF; granulocytes, monocytes,
+platelets, and erythrocytes are stimulated by multi-CSF. Synthetic forms of these hormones are often administered
+to patients with various forms of cancer who are receiving chemotherapy to revive their WBC counts.
+
+ ° Interleukins are another class of cytokine signaling molecules important in hemopoiesis. They were initially
+thought to be secreted uniquely by leukocytes and to communicate only with other leukocytes, and were named
+accordingly, but are now known to be produced by a variety of cells including bone marrow and endothelium.

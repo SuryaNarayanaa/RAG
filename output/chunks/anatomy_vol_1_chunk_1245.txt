@@ -1,0 +1,3268 @@
+CoA (HMG
+
+CoA), 1101, 1120
+
+hymen, 1215, 1234
+hyoglossus, 429, 459
+hyoid bone, 240, 277
+hypercalcemia, 231, 233, 1198
+Hypercalcemia, 1188
+Hypercapnia, 1192
+hypercapnia, 1198
+Hyperchloremia, 1187
+hyperchloremia, 1198
+Hyperextension, 348
+hyperextension, 367
+hyperflexia, 671, 678
+hyperflexion, 348, 367
+hyperglycemia, 722, 728
+Hyperkalemia, 1187
+hyperkalemia, 1198
+Hypernatremia, 1186
+hypernatremia, 1198
+hyperparathyroidism, 712, 728
+Hyperphosphatemia, 1188
+hyperphosphatemia, 1198
+hyperplasia, 405, 408
+Hyperpnea, 1007
+hyperpnea, 1012
+hypertension, 869, 908
+hyperthyroidism, 709, 728
+hypertonia, 397, 408
+hypertonic, 93, 124
+hypertrophic cardiomyopathy,
+781, 830
+
+hypertrophy, 398, 408
+hyperventilation, 1007, 1012
+Hypervolemia, 854
+hypervolemia, 908
+hypoblast, 1249, 1281
+Hypocalcemia, 231, 1188
+hypocalcemia, 233, 1198
+Hypocapnia, 1192
+hypocapnia, 1198
+Hypochloremia, 1187
+hypochloremia, 1198
+
+hypodermis, 178, 198
+hypoglossal canal, 257, 277
+hypoglossal nerve, 544, 551
+Hypokalemia, 1186
+hypokalemia, 1198
+Hyponatremia, 1186
+hyponatremia, 1198
+hyponychium, 185, 198
+hypoparathyroidism, 712, 728
+Hypophosphatemia, 1188
+hypophosphatemia, 1198
+hypophyseal (pituitary) fossa,
+248, 277
+
+hypophyseal portal system, 700,
+728
+
+hypothalamus, 527, 551, 697,
+728
+
+hypothenar, 445, 459
+hypothenar eminence, 446, 459
+hypothyroidism, 709, 728
+hypotonia, 397, 408
+
+hypotonic, 93, 124
+
+hypotonicity, 670, 678
+hypovolemia, 650, 678, 854, 908
+Hypovolemic shock, 870
+hypovolemic shock, 908
+hypoxemia, 748, 770
+
+hypoxia, 851, 908
+
+IgA, 948, 965
+
+IgD, 947, 965
+
+IgE, 948, 965
+
+IgG, 948, 965
+
+IgM, 948, 965
+
+ileocecal sphincter, 1047, 1072
+leum, 1047, 1072
+
+iac crest, 301, 318
+
+iac fossa, 301, 318
+
+iacus, 448, 459
+
+iococcygeus, 437, 459
+iocostalis cervicis, 432, 459
+iocostalis group, 432, 459
+iocostalis lumborum, 432, 459
+iocostalis thoracis, 432, 459
+iofemoral ligament, 356, 367
+iopsoas group, 448, 459
+iotibial tract, 450, 459
+
+ium, 301, 318
+
+immediate hypersensitivity, 956,
+965
+
+immune system, 920, 965
+immunoglobulin, 946, 965
+immunoglobulins, 740, 770
+immunological memory, 938, 965
+implantation, 1245, 1282
+inactivation gate, 493, 504
+inactive proenzymes, 1104, 1120
+incisor, 1072
+
+incisors, 1035
+
+incomplete dominance, 1277,
+1282
+
+incontinence, 1133, 1166
+
+incus, 568, 602
+
+indirect pathway, 524, 551
+Inferior, 34
+
+inferior, 39
+
+inferior angle of the scapula, 291,
+318
+
+inferior articular process, 263,
+277
+
+inferior cerebellar peduncle (ICP),
+673, 678
+
+inferior colliculus, 528, 551, 584,
+602
+
+inferior extensor retinaculum,
+454, 459
+
+inferior gemellus, 450, 459
+inferior mesenteric artery, 881,
+909
+
+inferior mesenteric ganglion, 615,
+640
+
+inferior nasal concha, 243, 277
+inferior oblique, 575, 602
+inferior olive, 529, 551, 673, 678
+inferior phrenic artery, 881, 909
+inferior pubic ramus, 301, 318
+inferior rectus, 575, 602
+
+Inferior rotation, 349
+
+inferior rotation, 367
+
+inferior vena cava, 781, 830, 897,
+909
+
+Inflammation, 157
+
+inflammation, 164, 936, 965
+infraglenoid tubercle, 291, 318
+infrahyoid muscles, 430, 459
+infraorbital foramen, 242, 277
+infraspinatus, 442, 459
+infraspinous fossa, 292, 318
+infratemporal fossa, 243, 277
+infundibulum, 697, 728, 1222,
+1234
+
+ingestion, 1028, 1072
+
+inguinal canal, 1210, 1234
+inhibin, 717, 729
+
+inhibitory postsynaptic potential
+(IPSP), 496, 504
+
+initial segment, 477, 504
+
+innate immune response, 923,
+965
+
+inner cell mass, 1244, 1282
+inner ear, 568, 602
+
+inner segment, 577, 602
+
+inner synaptic layer, 576, 602
+innermost intercostal, 437, 459
+inorganic compound, 60, 81
+inositol triphosphate (IP3), 694,
+729
+
+INDEX 1321
+
+insertion, 416, 459
+
+Inspiration, 991
+
+inspiration, 1012
+
+Inspiratory capacity (IC), 992
+inspiratory capacity (IC), 1012
+Inspiratory reserve volume (IRV),
+992
+
+inspiratory reserve volume (IRV),
+1012
+
+insulin, 720, 729, 1108, 1120
+insulin-like growth factors (IGF),
+729
+
+insulin-like growth factors (IGFs),
+702
+
+integral protein, 89, 124
+integration, 474, 504
+integumentary system, 172, 198
+interatrial band, 802, 830
+interatrial septum, 786, 830
+interaural intensity difference,
+583, 602
+
+interaural time difference, 583,
+602
+
+intercalated cell, 1155, 1166
+intercalated disc, 400, 408, 799,
+830
+
+intercondylar eminence, 310, 318
+intercondylar fossa, 306, 318
+intercostal artery, 880, 909
+intercostal muscles, 437, 459
+intercostal nerve, 551
+
+intercostal nerves, 546
+intercostal vein, 891, 909
+Interferons, 935
+
+interferons, 965
+
+Interleukins, 744
+
+interleukins, 770
+
+intermediate, 445, 459
+intermediate cuneiform, 311, 318
+intermediate filament, 103, 124
+Internal acoustic meatus, 246
+internal acoustic meatus, 277
+internal anal sphincter, 1052,
+1072
+internal callus, 226, 233
+
+internal capsule, 595, 602
+internal carotid arteries, 533
+internal carotid artery, 551, 877,
+909
+internal elastic membrane, 841,
+909
+internal iliac artery, 881, 909
+internal iliac vein, 899, 909
+internal intercostal, 437, 459
+internal jugular vein, 892, 909
+internal oblique, 435, 459
+Internal respiration, 999
+
+internal respiration, 1012
+internal root sheath, 184, 198
+internal thoracic artery, 877, 909
+
+
+1322 INDEX
+
+internal thoracic vein, 891, 909
+internal urinary sphincter, 1132,
+1166
+
+internodal pathways, 801, 830
+internuclear ophthalmoplegia,
+663, 678
+
+interoceptor, 563, 602
+interosseous border of the fibula,
+311, 318
+
+interosseous border of the radius,
+294, 318
+
+interosseous border of the tibia,
+310, 319
+
+interosseous border of the ulna,
+294, 319
+
+interosseous membrane, 334,
+367
+
+interosseous membrane of the
+forearm, 294, 319
+
+interosseous membrane of the
+leg, 310, 319
+
+interphalangeal joint, 298, 319
+Interphase, 114
+
+interphase, 124
+
+Interstitial fluid (IF), 89
+interstitial fluid (IF), 124, 1175,
+1198
+
+interstitial fluid colloidal osmotic
+pressure (IFCOP), 860, 909
+interstitial fluid hydrostatic
+pressure (IFHP), 859, 909
+intertrochanteric crest, 306, 319
+intertrochanteric line, 306, 319
+intertubercular groove (sulcus),
+292, 319
+
+interventricular foramina, 536,
+551
+
+interventricular septum, 786, 830
+intervertebral disc, 259, 268, 277
+intervertebral foramen, 263, 277
+intestinal gland, 1048, 1072
+intestinal juice, 1048, 1072
+intestinal phase, 1044, 1072
+intorsion, 662, 678
+Intra-alveolar pressure, 989
+intra-alveolar pressure, 1012
+intracapsular ligament, 337, 367
+Intracellular fluid (ICF), 89
+intracellular fluid (ICF), 125,
+1175, 1198
+
+intramembranous ossification,
+219, 233
+
+intramural ganglia, 617, 640
+Intrapleural pressure, 990
+intrapleural pressure, 1013
+intrinsic factor, 1042, 1072
+intrinsic ligament, 337, 367
+intrinsic muscles of the hand,
+445, 459
+
+intrinsic muscles of the tongue,
+665, 678
+
+intrinsic pathway, 760, 770
+intron, 110, 125
+
+inulin, 1147, 1166
+
+Inversion, 349
+
+inversion, 368
+
+involution, 1266, 1282
+
+ion, 53, 81
+
+ionic bond, 54, 81
+
+ionotropic receptor, 488, 504
+ipsilateral, 581, 602
+
+iris, 576, 602
+
+irregular bone, 209, 233
+ischemia, 851, 909
+
+ischemic stroke, 650, 678
+ischial ramus, 301, 319
+
+ischial spine, 301, 319
+
+ischial tuberosity, 301, 319
+ischiococcygeus, 437, 459
+ischiofemoral ligament, 356, 368
+ischiopubic ramus, 302, 319
+ischium, 301, 319
+
+isometric contraction, 392, 408
+isotonic, 93, 125
+
+isotonic contraction, 408
+isotonic contractions, 392
+isotope, 49, 81
+
+isovolumic contraction, 813, 830
+isovolumic ventricular relaxation
+phase, 813, 830
+
+isthmus, 1222, 1234
+
+J
+
+jaw-jerk reflex, 661, 678
+jejunum, 1047, 1072
+
+joint, 330, 368
+
+joint cavity, 330, 368
+
+joint interzone, 365, 368
+
+jugular (suprasternal) notch, 272,
+277
+
+jugular foramen, 257, 277
+jugular veins, 534, 551
+juxtaglomerular apparatus (JGA),
+1141, 1166
+
+juxtaglomerular cell, 1142, 1166
+juxtamedullary nephrons, 1140,
+1166
+
+K
+
+karyotype, 1272, 1282
+
+keloid, 195, 198
+
+Keratin, 173
+
+keratin, 198
+
+keratinocyte, 173, 198
+keratohyalin, 176, 198
+
+ketone bodies, 1101, 1120
+kinesthesia, 522, 551, 563, 602
+
+This content is available for free at http://cnx.org/content/col11496/1.6
+
+kinetic energy, 57, 81
+kinetochore, 116, 125
+knee joint, 310, 319
+Korotkoff sounds, 852, 909
+Krebs cycle, 1090, 1120
+kyphosis, 261, 277
+
+L
+
+labia, 1031
+
+labia majora, 1215, 1234
+
+abia minora, 1215, 1234
+
+abial frenulum, 1031, 1072
+abium, 1072
+
+lacrimal bone, 254, 277
+lacrimal duct, 575, 602
+
+lacrimal fossa, 254, 277
+jacrimal gland, 575, 602
+lactase, 1062, 1072
+
+Lactation, 1269
+
+lactation, 1282
+
+lacteal, 1048, 1072
+
+lactic acid, 390, 408
+
+actiferous ducts, 1228, 1234
+actiferous sinus, 1228, 1234
+lacuna, 214
+
+lacunae, 150, 164, 233
+lambdoid suture, 251, 277
+lamina, 263, 277
+
+lamina propria, 136, 164
+Langerhans cell, 175, 198
+janugo, 1258, 1282
+
+large intestine, 1051, 1072
+laryngeal prominence, 978, 1013
+jaryngopharynx, 978, 1013, 1037,
+1072
+
+laryngotracheal, 1013
+laryngotracheal bud, 1009
+larynx, 978, 1013
+
+latch-bridges, 404, 408
+
+latent period, 394, 408
+
+Lateral, 31
+
+lateral, 39
+
+lateral (external) rotation, 348,
+368
+
+ateral apertures, 537, 552
+jateral border of the scapula, 291,
+319
+
+ateral circumflex artery, 887, 909
+lateral column, 552
+
+lateral columns, 531
+
+lateral compartment of the leg,
+454, 459
+
+lateral condyle of the femur, 306,
+319
+
+jateral condyle of the tibia, 310,
+319
+
+jateral corticospinal tract, 596,
+602
+
+lateral cuneiform, 311, 319
+
+
+lateral epicondyle of the femur,
+306, 319
+
+jateral epicondyle of the
+humerus, 293, 319
+
+Lateral excursion, 349
+
+lateral excursion, 368
+
+Lateral flexion, 347
+
+ateral flexion, 368
+
+jateral geniculate nucleus, 586,
+602
+
+lateral horn, 530, 552
+
+lateral malleolus, 311, 319
+lateral meniscus, 358, 368
+jateral plantar artery, 887, 909
+jateral pterygoid, 428, 459
+ateral pterygoid plate, 248, 277
+lateral rectus, 575, 602
+
+jateral sacral crest, 267, 277
+lateral sulcus, 521, 552
+
+lateral supracondylar ridge, 293,
+319
+
+lateral tibiofemoral joint, 358, 368
+lateral ventricles, 536, 552
+lateralis, 423, 459
+
+latissimus dorsi, 441, 459
+leakage channel, 490, 504
+leaky tight junctions, 1153, 1166
+left atrioventricular valve, 790,
+830
+
+left colic flexure, 1051, 1072
+
+left gastric artery, 881, 909
+
+leg, 305, 319
+
+lens, 576, 602
+
+leptin, 724, 729
+
+lesser pelvis, 303, 319
+
+lesser sciatic foramen, 303, 319
+lesser sciatic notch, 301, 320
+lesser splanchnic nerve, 615, 640
+lesser trochanter, 306, 320
+lesser tubercle, 292, 320
+
+lesser wings of the sphenoid
+bone, 248, 277
+
+let-down reflex, 1269, 1282
+Leukemia, 755
+
+leukemia, 770
+
+leukocyte, 752, 770
+
+Leukocyte esterase, 1131
+leukocyte esterase, 1166
+leukocytosis, 755, 770
+Leukopenia, 755
+
+leukopenia, 770
+
+levator ani, 437, 459
+
+levator palpebrae superioris, 575,
+602
+
+Leydig cells, 1212, 1234
+ligament, 332, 368
+
+ligament of the head of the femur,
+305, 320, 356, 368
+
+ligamentum flavum, 269, 277
+ligand, 90, 125
+
+igand-gated cation channel, 619,
+640
+
+igand-gated channel, 488
+igand-gated channels, 504
+ight chain, 947, 965
+ightening, 1263, 1282
+
+imb bud, 313, 320
+
+imbic cortex, 521, 552
+
+imbic lobe, 631, 640
+
+imbic system, 521, 552
+
+inea alba, 435, 459
+
+inea aspera, 306, 320
+
+ingual frenulum, 1033, 1072
+ingual lipase, 1033, 1072
+ingual tonsil, 978, 1013
+Lingula, 254
+
+ingula, 277
+
+ipid, 70, 81
+
+ipogenesis, 1102, 1120
+ipolysis, 1099, 1120
+ipoprotein lipase, 1068, 1072
+iver, 1056, 1072
+
+Localization of function, 648
+localization of function, 678
+lochia, 1266, 1282
+
+long bone, 208, 233
+
+long reflex, 624, 640
+longissimus capitis, 432, 459
+longissimus cervicis, 432, 460
+longissimus group, 432, 460
+longissimus thoracis, 432, 460.
+longitudinal fissure, 520, 552
+longus, 423, 460
+
+loop of Henle, 1139, 1166
+loose connective tissue, 146, 164
+ordosis, 261, 277
+
+lower esophageal sphincter,
+1038, 1073
+
+lower motor neuron, 486, 504
+umbar arteries, 881, 909
+umbar curve, 261, 277
+umbar enlargement, 597, 602
+umbar plexus, 546, 552
+umbar puncture, 535, 552
+umbar veins, 897, 909
+Lumbar vertebrae, 267
+umbar vertebrae, 277
+umbrical, 446, 460
+
+umen, 839, 909
+
+unate, 295, 320
+
+ung, 985, 1013
+
+ung bud, 1009, 1013
+
+unula, 185, 198
+
+Luteinizing hormone (LH), 703
+uteinizing hormone (LH), 729
+Lymph, 920
+
+lymph, 966
+
+lymph node, 920, 966
+Lymphatic capillaries, 922
+lymphatic capillaries, 966
+
+INDEX 1323
+
+lymphatic system, 920, 966
+lymphatic trunks, 922, 966
+Lymphocytes, 754
+lymphocytes, 770, 923, 966
+lymphoid nodules, 929, 966
+Lymphoid stem cells, 743
+lymphoid stem cells, 770
+Lymphoma, 755
+
+lymphoma, 770
+
+lysosome, 99, 125
+lysozyme, 754, 770
+
+M
+
+macromolecule, 67, 81
+macrophage, 749, 770, 933, 966
+Macrophage oxidative
+metabolism, 953
+
+macrophage oxidative
+metabolism, 966
+
+macula, 572, 602
+
+macula densa, 1141, 1166
+Magnetic resonance imaging
+(MRI), 37
+
+magnetic resonance imaging
+(MRI), 39
+
+main pancreatic duct, 1046, 1073
+major duodenal papilla, 1046,
+1073
+
+major histocompatibility complex
+(MHC), 940, 966
+
+malleus, 568, 602
+
+maltase, 1062, 1073
+mammary glands, 1228, 1234
+mandible, 242, 254, 278
+Mandibular foramen, 254.
+mandibular foramen, 278
+Mandibular fossa, 246
+mandibular fossa, 278
+mandibular notch, 254, 278
+manubrium, 272, 278
+marginal arteries, 796, 830
+mass movement, 1055, 1073
+mass number, 48, 81
+masseter, 427, 460
+
+mast cell, 937, 966
+mastication, 427, 460, 1029,
+1073
+
+mastoid process, 245, 278
+matrix, 145, 164
+
+matter, 46, 81
+
+maxillary bone, 252, 278
+maxillary sinus, 257, 278
+maxillary vein, 892, 909
+maximus, 423, 460
+
+Mean arterial pressure (MAP),
+851
+
+mean arterial pressure (MAP),
+910
+
+meatus, 1013
+
+1324 INDEX
+
+meatuses, 975
+
+Mechanical digestion, 1029
+mechanical digestion, 1073
+mechanically gated channel, 489,
+504
+
+mechanoreceptor, 563, 602
+meconium, 1258, 1282
+
+Medial, 31
+
+medial, 39
+
+medial (internal) rotation, 348,
+368
+
+medial border of the scapula,
+291, 320
+
+medial compartment of the thigh,
+451, 460
+
+medial condyle of the femur, 306,
+320
+
+medial condyle of the tibia, 310,
+320
+
+medial cuneiform, 311, 320
+medial epicondyle of the femur,
+306, 320
+
+medial epicondyle of the
+humerus, 293, 320
+
+Medial excursion, 349
+
+medial excursion, 368
+
+medial forebrain bundle, 630, 640
+medial geniculate nucleus, 584,
+602
+
+medial lemniscus, 581, 602
+medial longitudinal fasciculus
+(MLF), 662, 678
+
+medial malleolus, 310, 320
+medial meniscus, 358, 368
+medial plantar artery, 887, 910
+medial pterygoid, 428, 460
+medial pterygoid plate, 248, 278
+medial rectus, 575, 603
+
+medial tibiofemoral joint, 358, 368
+medialis, 423, 460
+
+median antebrachial vein, 894,
+910
+
+median aperture, 537, 552
+median cubital vein, 894, 910
+median nerve, 546, 552
+
+median sacral artery, 881, 910
+median sacral crest, 267, 278
+mediastinal artery, 880, 910
+medius, 423, 460
+
+medulla, 183, 198, 1136, 1166
+medullary cavity, 210, 233
+megakaryocyte, 755, 770
+Meissner corpuscle, 188, 198
+Melanin, 175
+
+melanin, 198
+
+melanocyte, 175, 198
+melanoma, 192, 198
+melanosome, 178, 198
+melatonin, 716, 729
+
+membrane potential, 490, 504
+
+memory cell, 755, 770
+memory T cells, 944, 966
+menarche, 1224, 1234
+meninges, 534, 552
+
+meniscus, 338, 368
+
+menses, 1224, 1234
+
+menses phase, 1224, 1234
+menstrual cycle, 1224, 1234
+Mental foramen, 254
+
+mental foramen, 278
+
+Mental protuberance, 254
+mental protuberance, 278
+mental status exam, 648, 678
+Merkel cell, 175, 198
+Merocrine secretion, 143
+merocrine secretion, 164
+mesangial, 1141, 1166
+mesencephalic nuclei, 582
+mesencephalic nucleus, 603
+mesencephalon, 515, 552
+mesenchymal cell, 147, 164
+mesenchyme, 145, 164
+mesenteric plexus, 617, 640
+mesoappendix, 1051, 1073
+mesoderm, 133, 164, 826, 830,
+1249, 1282
+
+mesothelium, 138, 164, 783, 830
+messenger RNA (mRNA), 109,
+125
+
+Metabolic acidosis, 1195
+metabolic acidosis, 1198
+Metabolic alkalosis, 1196
+metabolic alkalosis, 1198
+metabolic rate, 1113, 1120
+Metabolism, 21, 1080
+metabolism, 40, 1120
+metabotropic receptor, 499, 504
+metacarpal bone, 292, 320
+metacarpophalangeal joint, 297,
+320
+
+Metaphase, 116
+
+metaphase, 125
+
+metaphase plate, 116, 125
+metarteriole, 844, 910
+metastasis, 191, 198
+metatarsal bone, 305, 320
+metatarsophalangeal joint, 312,
+320
+
+metencephalon, 515, 552
+MHC class |, 941, 966
+
+MHC class II, 941, 966
+
+MHC polygeny, 959, 966
+
+MHC polymorphism, 959, 966
+micelle, 1067, 1073
+microcirculation, 843, 910
+microfilament, 103, 125
+Microglia, 481
+
+microglia, 505
+
+microscopic anatomy, 16, 40
+microtubule, 102, 125
+
+This content is available for free at http://cnx.org/content/col11496/1.6
+
+microvilli, 1048
+
+microvillus, 1073
+
+Micturition, 1133
+
+micturition, 1166
+
+midbrain, 515, 552
+
+midcarpal joint, 296, 320
+middle cardiac vein, 797, 830
+middle cerebellar peduncle
+(MCP), 673, 678
+
+middle cerebral artery, 877, 910
+middle cranial fossa, 244, 278
+middle ear, 568, 603
+
+middle nasal concha, 243, 278
+middle sacral vein, 899, 910
+middle scalene, 432, 460
+migrating motility complex, 1050,
+1073
+
+mineralocorticoids, 714, 729
+Minerals, 1116
+
+minerals, 1120
+
+minimus, 423, 460
+mitochondrion, 100, 125
+Mitosis, 114
+
+mitosis, 125
+
+mitotic phase, 115, 125
+mitotic spindle, 116, 125
+
+mitral valve, 790, 830
+
+mixing wave, 1045, 1073
+modeling, 223, 233
+
+moderator band , 789, 831
+molar, 1073
+
+molars, 1035
+
+molecule, 53, 81
+
+monocyte, 933, 966
+Monocytes, 755
+
+monocytes, 770
+monoglyceride molecules, 1098,
+1120
+
+monosaccharide, 67, 81, 1085,
+1120
+
+mons pubis, 1215, 1234
+morula, 1244, 1282
+
+motilin, 1050, 1073
+
+motility, 1025, 1073
+
+motor end-plate, 384, 408
+motor exam, 648, 678
+
+motor unit, 393, 408
+
+mucosa, 1024, 1073
+Mucosa-associated lymphoid
+tissue (MALT), 931
+mucosa-associated lymphoid
+tissue (MALT), 966
+
+mucosal barrier, 1045, 1073
+mucous connective tissue, 145,
+164
+
+mucous gland, 145, 164
+mucous membrane, 136, 164
+mucous neck cell, 1073
+mucous neck cells, 1042
+Miullerian duct, 1230, 1234
+
+multiaxial joint, 332, 368
+multifidus, 432, 460
+multimodal integration area, 589,
+603
+
+multipennate, 419, 460
+Multipolar, 479
+
+multipolar, 505
+
+multipotent, 119, 125
+
+murmur, 815, 831
+
+muscalaris, 1024
+
+muscarinic receptor, 498, 505,
+619, 640
+
+muscle tension, 392, 408
+Muscle tissue, 132
+
+muscle tissue, 164
+
+muscle tone, 396, 408
+muscular artery, 843, 910
+muscularis, 1073
+
+mutation, 101, 125, 1278, 1282
+mydriasis, 635, 640
+myelencephalon, 515, 552
+myelin, 156, 165, 471, 505
+myelin sheath, 481, 505
+Myeloid stem cells, 743
+myeloid stem cells, 770
+myenteric plexus, 1025, 1073
+mylohyoid, 430, 460
+Mylohyoid line, 254
+mylohyoid line, 278
+
+myoblast, 405, 408
+myocardial conducting cells, 799,
+831
+
+myocardial contractile cells, 799,
+831
+
+myocardium, 784, 831
+myocyte, 153, 165
+
+myofibril, 384, 408
+
+myogenic mechanism, 1156,
+1166
+
+myogenic response, 867, 910
+myogram, 394, 408
+myometrium, 1224, 1234
+myosin, 381, 408
+
+myotube, 405, 408
+
+N
+
+NADH, 1084, 1120
+
+nail bed, 185, 198
+
+nail body, 185, 198
+
+nail cuticle, 185, 198
+
+nail fold, 185, 198
+
+nail root, 185, 198
+
+naive lymphocyte, 927, 966
+naris, 975, 1013
+
+nasal bone, 254, 278, 975, 1013
+nasal cavity, 243, 278
+
+nasal conchae, 256, 278
+nasal septum, 243, 256, 278,
+975, 1013
+
+nasolacrimal canal, 254, 278
+nasopharynx, 978, 1013
+Natural killer (NK) cells, 755
+natural killer (NK) cells, 770
+natural killer cell (NK), 925, 966
+navicular, 311, 320
+
+neck of the femur, 305, 320
+neck of the radius, 294, 320
+neck of the rib, 272, 278
+Necrosis, 157
+
+necrosis, 165
+
+Negative feedback, 27
+negative feedback, 40
+
+negative inotropic factors, 824,
+831
+
+negative selection, 943, 966
+Neonatal hypothyroidism, 709
+neonatal hypothyroidism, 729
+Nephrons, 1138
+
+nephrons, 1166
+
+nerve, 472, 505
+
+nerve plexus, 546, 552
+
+nervi vasorum, 842, 910
+Nervous tissue, 132
+
+nervous tissue, 165
+
+net filtration pressure (NFP), 860,
+910, 1146, 1166
+
+neural crest, 514, 552
+
+neural fold, 514, 552, 1252, 1282
+neural groove, 514, 552
+
+neural plate, 514, 552, 1252,
+1282
+
+neural tube, 514, 552, 1252,
+1282
+
+neural tunic, 576, 603
+neuraxis, 516, 552
+
+Neurogenic shock, 870
+neurogenic shock, 910
+neuroglia, 155, 165
+neurological exam, 648, 678
+neuromuscular junction (NMJ),
+382, 408
+
+neuron, 155, 165, 471, 505
+neuropeptide, 499, 505
+neurotransmitter, 384, 408, 485,
+505
+
+neurulation, 1252, 1282
+Neutralization, 953
+neutralization, 966
+
+neutron, 47, 81
+
+neutrophil, 933, 966
+neutrophils, 754, 770
+nicotinamide adenine
+dinucleotide (NAD), 1084, 1120
+nicotinic receptor, 498, 505, 619,
+640
+
+nociceptor, 563, 603
+
+node of Ranvier, 477, 505
+nonshivering thermogenesis,
+1268, 1282
+
+INDEX 1325
+
+nonspecific channel, 488, 505
+norepinephrine, 619, 640, 715,
+729
+
+normal range, 27, 40
+notochord, 272, 278, 1252, 1282
+nuchal ligament, 269, 278
+nuclear envelope, 105, 125
+nuclear pore, 105, 125
+nucleolus, 105, 125
+nucleosidase, 1065, 1073
+nucleosome, 105, 125
+nucleotide, 76, 81
+
+nucleus, 96, 125, 472, 505
+nucleus ambiguus, 617, 640
+nucleus cuneatus, 581, 603
+nucleus gracilis, 581, 603
+nucleus pulposus, 268, 278
+nutrient, 24, 40
+
+nutrient foramen, 217, 234
+
+fe)
+
+oblique, 423, 460
+
+Obstructive shock, 870
+obstructive shock, 910
+obturator externus, 450, 460
+obturator foramen, 302, 320
+obturator internus, 450, 460
+occipital bone, 248, 278
+occipital condyle, 248, 278
+occipital lobe, 521, 552
+occipital sinus, 893, 910
+occipital sinuses, 534, 552
+occipitalis, 424, 460
+occipitofrontalis, 424, 460
+oculomotor nerve, 544, 553
+odorant molecules, 566, 603
+olecranon fossa, 293, 320
+olecranon process, 293, 320
+olfaction, 526, 553, 566, 603
+olfactory bulb, 566, 603
+olfactory epithelium, 566, 603
+olfactory nerve, 544, 553
+olfactory pit, 1009, 1013
+olfactory sensory neuron, 566,
+603
+
+Oligodendrocyte, 156
+oligodendrocyte, 165, 480, 505
+oligopotent, 119, 125
+oliguria, 1130, 1166
+omohyoid, 430, 460
+
+oocyte, 1214, 1234
+oogenesis, 1217, 1234
+oogonia, 1217, 1234
+
+Open reduction, 224
+
+open reduction, 234
+ophthalmic artery, 877, 910
+opponens digiti minimi, 446, 460
+opponens pollicis, 446, 460
+Opposition, 349
+
+1326 INDEX
+
+opposition, 368
+
+opsin, 603
+
+opsins, 577
+
+Opsonization, 935
+opsonization, 966
+
+optic canal, 255, 278
+
+Optic canal, 257
+
+optic chiasm, 585, 603
+optic disc, 576, 603
+
+optic nerve, 544, 553, 576, 603
+optic tract, 586, 603
+
+oral cavity, 1031, 1073
+
+oral vestibule, 1031, 1073
+orbicularis oculi, 424, 460
+orbicularis oris, 424, 460
+orbit, 242, 278
+
+organ, 18, 40
+
+organ of Corti, 603
+
+organ system, 19, 40
+organelle, 96, 125
+
+organic compound, 60, 81
+organism, 20, 40
+organogenesis, 1254, 1282
+organs of Corti, 569
+
+origin, 416, 460
+oropharynx, 978, 1013, 1037,
+1073
+
+orthopedist, 206, 234
+orthostatic reflex, 533, 553
+osmoreceptor, 603, 729
+Osmoreceptors, 563
+osmoreceptors, 699
+Osmosis, 92
+
+osmosis, 125
+
+osseous tissue, 204, 234
+ossicles, 568, 603
+ossification, 218, 234
+ossification center, 219, 234
+osteoblast, 214, 234
+osteoclast, 214, 234
+osteocyte, 214, 234
+osteogenic cell, 214, 234
+osteoid, 219, 234
+osteomalacia, 1162, 1166
+osteon, 215, 234
+Osteoporosis, 230
+osteoporosis, 234
+
+otolith, 572, 603
+
+outer segment, 577, 603
+outer synaptic layer, 576, 603
+oval window, 568, 603
+ovarian artery, 881, 910
+ovarian cycle, 1217, 1234
+ovarian vein, 897, 910
+ovaries, 1216, 1234
+ovulation, 1217, 1234
+ovum, 1217, 1234
+oxidation, 1084, 1120
+oxidation-reduction reaction,
+1084, 1120
+
+oxidative phosphorylation, 1092,
+1120
+
+oxygen debt, 391, 408
+oxygen—-hemoglobin dissociation
+curve, 1002, 1013
+oxyhemoglobin, 748, 770, 1001,
+1013
+
+oxytocin, 699, 729
+
+i>)
+
+P wave, 806, 831
+
+pacemaker, 801, 831
+pacesetter cell, 404, 408
+Pacinian corpuscle, 188, 198
+packed cell volume (PCV), 739,
+770
+
+palatine bone, 253, 278
+palatine process, 252, 279
+palatine tonsil, 978, 1013
+palatoglossal arch, 1032, 1073
+palatoglossus, 429, 460
+palatopharyngeal arch, 1032,
+1073
+
+palmar arches, 884, 910
+palmar interossei, 446, 460
+palmar venous arches, 894, 910
+palmaris longus, 444, 460
+palpebral conjunctiva, 575, 603
+pancreas, 718, 729, 1058, 1073
+pancreatic amylase, 1062, 1073
+pancreatic islets, 718, 729
+pancreatic juice, 1059, 1073
+pancreatic lipase, 1065, 1073
+pancreatic lipases, 1098, 1120
+pancreatic nuclease, 1065, 1073
+papilla, 603
+
+papillae, 564
+
+papillary layer, 178, 198
+papillary muscle, 788, 831
+paracrine, 688, 729
+
+Parallel, 417
+
+parallel, 460
+
+paramedian pontine reticular
+formation (PPRF), 662, 679
+paranasal sinus, 976, 1013
+paranasal sinuses, 257, 279
+parasympathetic division, 612,
+640
+
+parasympathomimetic drugs,
+636, 640
+
+parathyroid glands, 710, 729
+parathyroid hormone (PTH), 710,
+729
+
+paravertebral ganglia, 541, 553,
+615, 641
+
+parenchyma, 147, 165
+
+paresis, 671, 679
+
+parietal bone, 245, 279
+
+parietal branches, 880, 910
+
+This content is available for free at http://cnx.org/content/col11496/1.6
+
+parietal cell, 1073
+
+parietal cells, 1042
+
+parietal lobe, 521, 553
+parietal pleura, 987, 1013
+parieto-occipital sulcus, 521, 553
+parotid gland, 1074
+
+parotid glands, 1033
+
+Partial pressure, 996
+
+partial pressure, 1013
+parturition, 1263, 1282
+Passive immunity, 950
+passive immunity, 966
+Passive transport, 90
+
+passive transport, 125
+patella, 305, 320
+
+patellar ligament, 358, 368, 452,
+461
+
+patellar surface, 306, 320
+pattern recognition receptor
+(PRR), 934, 966
+
+pectinate line, 1054, 1074
+pectinate muscles, 788, 831
+pectineal line, 301, 321
+pectineus, 451, 461
+
+pectoral girdle, 290, 321, 439,
+461
+
+pectoralis major, 441, 461
+pectoralis minor, 439, 461
+pedicels, 1140, 1166
+
+pedicle, 263, 279
+
+pelvic brim, 303, 321
+
+pelvic diaphragm, 437, 461
+pelvic girdle, 300, 321, 448, 461
+pelvic inlet, 303, 321
+
+pelvic outlet, 303, 321
+
+pelvis, 300, 321
+
+penis, 1211, 1234
+
+Pennate, 419
+
+pennate, 461
+
+pepsin, 1104, 1120
+pepsinogen, 1042, 1074
+peptide bond, 73, 81
+perforating canal, 215, 234
+perforin, 934, 966
+
+perfusion, 843, 910
+pericardial artery, 880, 910
+pericardial cavity, 778, 831
+pericardial sac, 782, 831
+pericardium, 34, 40, 782, 831
+perichondrium, 220, 234
+pericyte, 406, 408
+perimetrium, 1224, 1234
+perimysium, 380, 408
+perineum, 438, 461
+perineurium, 541, 553
+periodic table of the elements,
+48, 81
+
+periodontal ligament, 334, 368
+periosteum, 210, 234
+
+peripheral chemoreceptor, 995,
+1013
+
+peripheral nervous system
+(PNS), 470, 505
+
+peripheral protein, 125
+Peripheral proteins, 90
+peripheral tolerance, 947, 966
+Peristalsis, 1028
+
+peristalsis, 1074
+
+peritoneum, 34, 40
+
+peritubular capillaries, 1138, 1166
+permanent teeth, 1035
+permanent tooth, 1074
+peroxisome, 101, 125
+perpendicular plate of the
+ethmoid bone, 243, 279
+petrosal sinus, 893, 910
+petrous ridge, 245, 279
+
+pH, 64, 81
+
+Phagocytosis, 94
+phagocytosis, 126, 933, 966
+phalanx bone of the foot, 305,
+321
+
+phalanx bone of the hand, 292,
+321
+
+pharyngeal tonsil, 978, 1013
+pharynx, 977, 1013, 1037, 1074
+phenotype, 1272, 1282
+philtrum, 975, 1013
+phosphatase, 1065, 1074
+phosphodiesterase (PDE), 694,
+729
+
+phospholipid, 72, 81
+Phosphorylation, 79
+phosphorylation, 81
+phosphorylation cascade, 693,
+729
+
+photoisomerization, 579, 604
+photon, 578, 604
+photoreceptor, 563, 604
+phrenic nerve, 546, 553
+phrenic vein, 897, 911
+physiological sphincter, 1134,
+1166
+
+physiology, 16, 40
+
+pia mater, 535, 553
+
+pineal gland, 716, 729
+pinealocyte, 716, 729
+pinocytosis, 94, 126
+
+piriformis, 450, 461
+
+pisiform, 295, 321
+
+pituitary dwarfism, 702, 729
+pituitary gland, 697, 729
+
+pivot joint, 340, 368
+
+placenta, 1244, 1282
+placenta previa, 1247, 1282
+placentation, 1251, 1282
+plane, 31, 40
+
+plane joint, 341, 368
+
+plantar aponeurosis, 454, 461.
+
+plantar arch, 887, 911
+
+plantar flexion, 349, 368
+plantar group, 454, 461
+plantar reflex, 671, 679
+plantar veins, 899, 911
+plantar venous arch, 899, 911
+plantaris, 454, 461
+
+plasma, 738, 770
+
+plasma cell, 924, 966
+
+Plasma osmolality, 1182
+plasma osmolality, 1198
+plasmin, 761, 770
+
+platelet plug, 758, 770
+platelets, 738, 770
+
+pleura, 34, 40
+
+pleural cavity, 987, 1013
+Pleural fluid, 987
+
+pleural fluid, 1013
+
+plexus, 541, 553
+
+pluripotent, 119, 126
+pluripotent stem cell, 742, 770
+pneumotaxic center, 995, 1014
+podocytes, 1140, 1167
+
+polar body, 1217, 1234
+
+polar molecule, 55, 81
+
+pollex, 297, 321
+
+polyclonal response, 944, 966
+polycythemia, 752, 771
+polymorphonuclear, 754, 771
+polypeptide, 111, 126
+polyribosome, 113, 126
+polysaccharide, 81
+Polysaccharides, 67
+polysaccharides, 1085, 1120
+polyspermy, 1241, 1282
+polyuria, 1130, 1167
+
+popliteal artery, 887, 911
+popliteal fossa, 452, 461
+popliteal vein, 899, 911
+popliteus, 454, 461
+
+porta hepatis, 1057, 1074
+portal triad, 1058, 1074
+positive chemotaxis, 752, 771
+Positive feedback, 28
+
+positive feedback, 40
+
+positive inotropic factors, 824,
+831
+
+positive selection, 942, 967
+Positron emission tomography
+(PET), 37
+
+positron emission tomography
+(PET), 40
+
+postabsorptive state, 1109, 1120
+postcentral gyrus, 522, 553
+Posterior, 31
+
+posterior, 40
+
+posterior (dorsal) sacral foramen,
+267, 279
+
+posterior arch, 265, 279
+posterior cardiac vein, 797, 831
+
+INDEX 1327
+
+posterior cavity, 40
+
+posterior cerebral artery, 877, 911
+posterior columns, 531, 553
+posterior communicating artery,
+877, 911
+
+posterior compartment of the leg,
+454, 461
+
+posterior compartment of the
+thigh, 452, 461
+
+posterior cranial fossa, 244, 279
+posterior cruciate ligament, 358,
+368
+
+posterior horn, 530, 553
+posterior inferior iliac spine, 301,
+321
+
+posterior interventricular artery,
+796, 831
+
+posterior interventricular sulcus,
+784, 831
+
+posterior longitudinal ligament,
+269, 279
+
+posterior median sulcus, 529,
+553
+
+posterior sacroiliac ligament, 302,
+321
+
+posterior scalene, 433, 461
+posterior superior iliac spine, 301,
+321
+
+posterior talofibular ligament,
+362, 368
+
+posterior tibial artery, 887, 911
+posterior tibial vein, 899, 911
+posterolateral sulcus, 529, 553
+postganglionic fiber, 616, 641
+postsynaptic potential (PSP),
+496, 505
+
+Potential energy, 57
+
+potential energy, 81
+
+power stroke, 388, 408
+
+PP cell, 719, 729
+
+praxis, 656, 679
+
+precapillary sphincters, 844, 911
+precentral gyrus, 522, 553
+precentral gyrus of the frontal
+cortex, 486, 505
+
+prefrontal lobe, 522, 553
+preganglionic fiber, 616, 641
+preload, 813, 831
+
+premolar, 1074
+
+premolars, 1035
+
+premotor area, 522, 553
+premotor cortex, 594, 604
+prepotential depolarization, 803,
+831
+
+prepuce, 1212, 1234
+
+Pressure, 25
+
+pressure, 40
+
+prevertebral ganglia, 541, 553,
+615, 641
+
+1328 INDEX
+
+primary adaptive response, 938,
+967
+
+primary curve, 261, 279
+primary follicles, 1218, 1234
+primary lymphoid organ, 967
+primary lymphoid organs, 925
+primary ossification center, 222,
+234
+
+primary sensory cortex, 589, 604
+primary union, 157, 165
+primary vesicle, 553
+
+primary vesicles, 515
+
+prime mover, 416, 461
+primitive atrium, 827, 831
+primitive heart tube, 826, 831
+primitive streak, 1249, 1282
+primitive ventricle, 827, 831
+primordial follicles, 1218, 1234
+principal cell, 1155, 1167
+procedural memory, 654, 679
+process, 471, 505
+
+product, 58, 81
+
+progesterone, 717, 729
+projection, 211, 234
+
+prolactin, 1269, 1283
+prolactin (PRL), 703, 729
+proliferative phase, 1226, 1235
+proliferative zone, 222, 234
+promoter, 110, 126
+
+pronated position, 348, 369
+Pronation, 348
+
+pronation, 369
+
+pronator drift, 671, 679
+pronator quadratus, 442, 461
+pronator teres, 442, 461
+Prone, 30
+
+prone, 40
+
+propagation, 485, 505
+Prophase, 116
+
+prophase, 126
+proprioception, 522, 553, 563,
+604
+
+proprioceptor, 563, 604
+propulsion, 1028, 1074
+prosencephalon, 515, 553
+prostaglandin, 73, 81
+prostate gland, 1210, 1235
+protein, 73, 81
+
+protein kinase, 693, 730
+proteolysis, 1104, 1121
+proteome, 108, 126
+
+proton, 47, 81
+
+Protraction, 349
+
+protraction, 369
+
+Proximal, 31
+
+proximal, 40
+
+proximal convoluted tubules
+(PCTs), 1139, 1167
+
+proximal radioulnar joint, 293,
+321, 340, 369
+
+proximal tibiofibular joint, 311,
+321
+
+Pseudostratified columnar
+epithelium, 139
+
+pseudostratified columnar
+epithelium, 165
+
+psoas major, 448, 461
+psychoneuroimmunology, 962,
+967
+
+pterion, 251, 279
+
+Puberty, 1230
+
+puberty, 1235
+
+pubic arch, 301, 321
+
+pubic body, 301, 321
+
+pubic symphysis, 301, 321
+pubic tubercle, 301, 321
+
+pubis, 301, 321
+
+pubococcygeus, 437, 461
+pubofemoral ligament, 356, 369
+pulmonary arteries, 781, 831
+pulmonary artery, 873, 911, 986,
+1014
+
+pulmonary capillaries, 781, 832
+pulmonary circuit, 781, 832, 873,
+911
+pulmonary plexus, 986, 1014
+pulmonary surfactant, 983, 1014
+pulmonary trunk, 781, 832, 873,
+911
+pulmonary valve, 790, 832
+pulmonary veins, 781, 832, 873,
+911
+Pulmonary ventilation, 988
+pulmonary ventilation, 1014
+
+pulp cavity, 1036, 1074
+
+pulse, 851, 911
+
+pulse pressure, 850, 911
+Punnett square, 1274, 1282
+pupil, 576, 604
+
+purine, 77, 81
+
+Purkinje fibers, 803, 831
+putamen, 523, 553
+
+pyloric antrum, 1041, 1074
+pyloric canal, 1041, 1074
+
+pyloric sphincter, 1041, 1074
+pylorus, 1040, 1074
+
+pyramidal decussation, 595, 604
+pyramidine, 77
+
+pyramids, 595, 604
+
+pyrimidine, 81
+
+pyruvate, 1085, 1121
+
+pyruvic acid, 390, 408
+
+Q
+
+QRS complex, 806, 832
+quadratus femoris , 450, 461
+quadratus lumborum, 435, 461
+quadriceps femoris group, 452,
+461
+
+This content is available for free at http://cnx.org/content/col11496/1.6
+
+quadriceps tendon, 452, 461
+quickening, 1258, 1283
+Quiet breathing, 991
+
+quiet breathing, 1014
+
+R
+
+radial artery, 884, 911
+
+radial collateral ligament, 354,
+369
+
+radial fossa, 293, 321
+
+radial nerve, 546, 553
+
+radial notch of the ulna, 293, 321
+radial tuberosity, 294, 321
+radial vein, 894, 911
+
+Radiation, 1113
+
+radiation, 1121
+
+radioactive isotope, 50, 82
+radiocarpal joint, 294, 321
+radius, 292, 321
+
+ramus of the mandible, 254, 279
+reabsorption, 859, 911
+reactant, 58, 82
+
+Reactive oxygen species (ROS),
+101
+
+reactive oxygen species (ROS),
+126
+
+receptive aphasia, 655, 679
+receptor, 90, 126
+
+receptor cell, 563, 604
+
+receptor potential, 496, 505
+Receptor-mediated endocytosis,
+94
+
+receptor-mediated endocytosis,
+126
+
+recessive, 1273, 1283
+recessive lethal, 1278, 1283
+recruitment, 394, 408
+
+rectal valve, 1074
+
+rectal valves, 1052
+
+rectum, 1052, 1074
+
+rectus, 423, 461
+
+rectus abdominis, 435, 461
+rectus femoris, 452, 461
+
+rectus sheaths, 435, 461
+
+red blood cells (RBCs), 738, 771
+Red marrow, 206
+
+red marrow, 234
+
+red nucleus, 597, 604, 673, 679
+reduction, 1084, 1121
+
+referred pain, 623, 641
+
+reflex arc, 621, 641
+
+refractory period, 493, 505
+Regional anatomy, 16
+
+regional anatomy, 40
+Regulatory T cells (Treg), 946
+regulatory T cells (Treg), 967
+relative refractory period, 493,
+505
+
+relaxation phase, 395, 408
+
+remodeling, 223, 234
+
+renal artery, 881, 911
+
+renal columns, 1136, 1167
+renal corpuscle, 1138, 1167
+renal cortex, 1136, 1167
+
+renal fat pad, 1136, 1167
+renal hilum, 1137, 1167
+
+renal papillae, 1136, 1167
+renal pyramids, 1136, 1167
+renal vein, 897, 911
+
+Renewal, 23
+
+renewal, 40
+
+renin, 1140, 1167
+repolarization, 491, 505
+reposition, 349, 369
+Reproduction, 23
+reproduction, 40
+
+reserve zone, 222, 234
+Residual volume (RV), 992
+residual volume (RV), 1014
+resistance, 494, 505, 850, 911
+Respiratory acidosis, 1196
+respiratory acidosis, 1198
+Respiratory alkalosis, 1196
+respiratory alkalosis, 1198
+respiratory bronchiole, 981, 1014
+respiratory cycle, 991, 1014
+respiratory epithelium, 976, 1014
+respiratory membrane, 983, 1014
+respiratory pump, 858, 911
+respiratory rate, 993, 1014
+Respiratory volume, 992
+respiratory volume, 1014
+respiratory zone, 974, 1014
+response, 474, 505
+Responsiveness, 22
+responsiveness, 40
+
+rest and digest, 612, 641
+resting membrane potential, 491,
+506
+
+Reticular fiber, 147
+
+reticular fiber, 165
+
+reticular formation, 528, 554
+reticular lamina, 136, 165
+reticular layer, 178, 198
+Reticular tissue, 148
+
+reticular tissue, 165
+reticulocyte, 747, 771
+reticuloendothelial cell, 1074
+reticuloendothelial cells, 1058
+reticulospinal tract, 597, 604
+retina, 576, 604
+
+retinacula, 445, 461
+
+retinal, 578, 604
+
+retinal ganglion cell (RGC), 576,
+604
+
+retraction, 349, 369
+retrograde amnesia, 654, 679
+retroperitoneal, 1026, 1074,
+1132, 1167
+
+Rh blood group, 763, 771
+rhodopsin, 577, 604
+rhombencephalon, 515, 554
+rhomboid major, 439, 462
+rhomboid minor, 439, 462
+ribonuclease, 1065, 1074
+Ribonucleic acid (RNA), 77
+ribonucleic acid (RNA), 82
+Ribosomal RNA (rRNA), 111
+ribosomal RNA (rRNA), 126
+ribosome, 98, 126
+
+ribs, 240, 279
+
+rickets, 190, 198
+
+right atrioventricular valve, 789,
+832
+
+right colic flexure, 1051, 1074
+right gastric artery, 881, 911
+right lymphatic duct, 923, 967
+Rinne test, 661, 679
+
+RNA polymerase, 110, 126
+rod photoreceptor, 577, 604
+Romberg test, 670, 679
+
+root, 975, 1014, 1036, 1074
+Rotation, 348
+
+rotation, 369
+
+rotator cuff, 353, 369, 442, 462
+round window, 568, 604
+rubrospinal tract, 597, 604, 673,
+679
+
+ruga, 1041, 1074
+
+rugae, 1216, 1235
+
+Ss
+
+S phase, 114, 126
+
+saccade, 662, 679
+
+saccharolytic fermentation, 1055,
+1074
+
+saccule, 572, 604
+
+sacral canal, 267, 279
+
+sacral foramina, 267, 279
+
+sacral hiatus, 267, 279
+
+sacral micturition center, 1133,
+1167
+
+sacral plexus, 546, 554
+
+sacral promontory, 267, 279
+sacrococcygeal curve, 260, 279
+sacroiliac joint, 301, 322
+sacrospinous ligament, 302, 322
+sacrotuberous ligament, 302, 322
+sacrum, 240, 279
+
+saddle joint, 341, 369
+
+sagittal plane, 31, 40
+
+sagittal suture, 251, 279
+
+Saliva, 1033
+
+saliva, 1074
+
+salivary amylase, 1033, 1074,
+1085, 1121
+
+salivary gland, 1074
+
+salivary glands, 1033
+
+INDEX 1329
+
+salivation, 1034, 1074
+saltatory conduction, 494, 506
+saphenous nerve, 546, 554
+sarcolemma, 380, 408
+sarcomere, 381, 409
+sarcopenia, 398, 409
+sarcoplasm, 380, 409
+sarcoplasmic reticulum (SR),
+380, 409
+
+sartorius, 452, 462
+
+satellite cell, 406, 409, 481, 506
+scala tympani, 568, 604
+
+scala vestibuli, 568, 604
+scalene muscles, 432, 462
+scaphoid, 295, 322
+
+scapula, 290, 322
+
+scar, 195, 198
+
+Schwann cell, 156, 165, 481, 506
+sciatic nerve, 546, 554.
+sciatica, 546, 554
+
+sclera, 576, 604
+
+sclerotome, 273, 279
+scoliosis, 261, 279
+
+scrotum, 1205, 1235
+sebaceous gland, 186, 199
+sebum, 186, 199
+
+second messenger, 693, 730
+second-degree burn, 194, 199
+secondary adaptive response,
+938, 967
+
+secondary curve, 261, 279
+secondary follicles, 1218, 1235
+secondary lymphoid organs, 927,
+967
+
+secondary ossification center,
+222, 234
+
+secondary sex characteristics,
+1230, 1235
+
+secondary union, 157, 165
+secondary vesicle, 554
+secondary vesicles, 515
+secretin, 1104, 1121
+
+secretory phase, 1226, 1235
+section, 31, 40
+
+segmental muscle group, 432,
+462
+
+Segmentation, 1029
+segmentation, 1074
+
+selective permeability, 90, 126
+sella turcica, 248, 279
+
+semen, 1210, 1235
+semicircular canals, 572, 604
+semilunar valves, 786, 832
+semimembranosus, 452, 462
+seminal vesicle, 1210, 1235
+seminiferous tubules, 1207, 1235
+semispinalis capitis, 432, 462
+semispinalis cervicis, 432, 462
+semispinalis thoracis, 432, 462
+semitendinosus, 452, 462
+
+1330 INDEX
+
+sensation, 474, 506
+sensitization, 957, 967
+
+sensor, 27, 40
+
+sensorineural hearing, 661, 679
+sensory exam, 648, 679
+sensory homunculus, 587, 604
+sensory modality, 564, 604
+sepsis, 870, 911
+
+septal cartilage, 256, 279
+septic shock, 870, 912
+
+septum, 786, 832
+
+septum primum, 786, 832
+Seroconversion, 952
+seroconversion, 967
+
+serosa, 40, 1024, 1074
+
+serous gland, 145, 165
+
+serous membrane, 33, 40, 136,
+165
+
+serratus anterior, 439, 462
+Sertoli cells, 1207, 1235
+serum, 761, 771
+
+sesamoid bone, 209, 234
+
+set point, 27, 40
+
+severe combined
+immunodeficiency disease
+(SCID), 955, 967
+
+sex chromosomes, 1272, 1283
+shaft of the femur, 306, 322
+shaft of the fibula, 311, 322
+shaft of the humerus, 292, 322
+shaft of the radius, 294, 322
+shaft of the tibia, 310, 322
+shaft of the ulna, 294, 322
+short bone, 208, 234
+
+short reflex, 624, 641
+short-term memory, 654, 679
+shunt, 1257, 1283
+
+sickle cell disease, 751, 771
+sigmoid colon, 1051, 1074
+sigmoid sinuses, 534, 554, 893,
+912
+
+simple columnar epithelium, 139,
+165
+
+simple cuboidal epithelium, 139,
+165
+
+simple squamous epithelium,
+138, 165
+
+sinoatrial (SA) node, 801, 832
+sinus rhythm, 801, 832
+
+sinus venosus, 827, 832
+sinusoid capillary, 844, 912
+sister chromatid, 114, 126
+
+size exclusion, 488, 506
+Skeletal muscle, 153, 379
+skeletal muscle, 165, 409
+skeletal muscle pump, 858, 912
+skeletal system, 204, 234
+skeleton, 240, 279
+
+skull, 240, 280
+
+Slow oxidative (SO), 397
+
+slow oxidative (SO), 409
+
+small cardiac vein, 797, 832
+small intestine, 1046, 1075
+small saphenous vein, 899, 912
+Smooth muscle, 154
+
+smooth muscle, 165, 379, 409
+Snellen chart, 659, 679
+
+sodium bicarbonate, 1104, 1121
+sodium-potassium pump, 93, 126
+soft palate, 1031, 1075
+
+soleal line, 310, 322
+
+soleus, 454, 462
+
+solitary nucleus, 582, 604
+solution, 61, 82
+
+soma, 471, 506
+
+somatic cell, 113, 126
+
+somatic nervous system (SNS),
+474, 506
+
+somatic reflex, 621, 641
+somatosensation, 522, 554, 564,
+604
+
+somite, 272, 280, 1283
+somites, 405, 409, 1252
+spasticity, 671, 679
+
+Spatial summation, 496
+
+spatial summation, 506
+
+special sense, 564, 605
+specific gravity, 1131, 1167
+sperm, 1204, 1235
+
+spermatic cord, 1209, 1235
+spermatid, 1208, 1235
+spermatocyte, 1208, 1235
+spermatogenesis, 1207, 1235
+spermatogonia, 1207, 1235
+spermiogenesis, 1208, 1235
+sphenoid bone, 248, 280
+sphenoid sinus, 257, 280
+sphincter urethrovaginalis, 438,
+462
+
+sphygmomanometer, 852, 912
+spinal accessory nerve, 544, 554
+spinal cavity, 33, 40
+
+spinal cord, 470, 506
+
+spinal nerve, 541, 554
+
+spinal trigeminal nucleus, 582,
+605
+
+spinalis capitis, 432, 462
+spinalis cervicis, 432, 462
+spinalis group, 432, 462
+spinalis thoracis, 432, 462
+spine of the scapula, 292, 322
+spinocerebellar tract, 670, 679
+spinocerebellum, 673, 679
+spinothalamic tract, 581, 605
+spinous process, 263, 280
+spiral ganglia, 568
+
+spiral ganglion, 605
+
+spleen, 929, 967
+
+splenic artery, 881, 912
+splenius, 431, 462
+
+This content is available for free at http://cnx.org/content/col11496/1.6
+
+splenius capitis, 431, 462
+splenius cervicis, 431, 462
+spliceosome, 110, 126
+
+splicing, 110, 126
+
+spongy bone, 216, 234
+spontaneous depolarization, 803,
+832
+
+Squamous cell carcinoma, 191
+squamous cell carcinoma, 199
+squamous suture, 251, 280
+stage of exhaustion, 714, 730
+stage of resistance, 714, 730
+stapes, 568, 605
+
+stem cell, 119, 126
+
+stereocilia, 569, 605
+stereognosis, 656, 679
+
+sternal angle, 272, 280
+
+sternal end of the clavicle, 291,
+322
+
+sternoclavicular joint, 291, 322
+sternocleidomastoid, 431, 462
+sternohyoid, 430, 462
+sternothyroid, 430, 462
+sternum, 240, 280
+
+steroid, 72, 82
+
+stimulus, 474, 506
+
+stomach, 1040, 1075
+
+straight sinus, 534, 554, 893, 912
+stratified columnar epithelium,
+140, 165
+
+Stratified cuboidal epithelium,
+140
+
+stratified cuboidal epithelium, 165
+Stratified squamous epithelium,
+140
+
+stratified squamous epithelium,
+165
+
+stratum basale, 174, 199
+stratum corneum, 177, 199
+stratum granulosum, 176, 199
+stratum lucidum, 177, 199
+stratum spinosum, 175, 199
+stress-relaxation response, 405,
+409
+
+stretch mark, 196, 199
+
+stretch reflex, 599, 605
+Sstriation, 153, 165
+
+striatum, 523, 554
+
+stroke, 650, 679
+
+stroke volume (SV), 816, 832
+styloglossus, 429, 462
+stylohyoid, 430, 462
+
+Styloid process, 246
+
+styloid process, 280
+
+styloid process of the radius, 294,
+322
+
+styloid process of the ulna, 294,
+322
+
+Stylomastoid foramen, 246
+stylomastoid foramen, 280
+
+subacromial bursa, 353, 369
+subarachnoid space, 535, 554
+subclavian artery, 877, 912
+subclavian vein, 890, 912
+subclavius, 439, 462
+subcortical nuclei, 523
+subcortical nucleus, 554
+subcutaneous bursa, 338, 369
+sublingual gland, 1075
+sublingual glands, 1033
+submandibular gland, 1075
+submandibular glands, 1033
+submodalities, 564
+submodality, 605
+
+submucosa, 1024, 1075
+submucosal plexus, 1025, 1075
+submuscular bursa, 338, 369
+subpubic angle, 302, 322
+subscapular bursa, 353, 369
+subscapular fossa, 292, 322
+subscapular vein, 894, 912
+subscapularis, 442, 462
+substantia nigra pars compacta,
+525, 554
+
+substantia nigra pars reticulata,
+524, 554
+
+substrate, 76, 82
+
+subtalar joint, 362, 369
+subtendinous bursa, 338, 369
+subthalamus, 526, 554
+Sucrase, 1062
+
+sucrase, 1075
+
+sudoriferous gland, 199
+sudoriferous glands, 185
+sulcus, 521, 554, 783, 832
+summate, 496, 506
+
+Superficial, 31
+
+superficial, 40
+
+superficial anterior compartment
+of the forearm, 444, 462
+superficial posterior compartment
+of the forearm, 444, 462
+superficial reflex, 671, 679
+Superior, 31
+
+superior, 41
+
+superior angle of the scapula,
+291, 322
+
+superior articular process, 263,
+280
+
+superior articular process of the
+sacrum, 267, 280
+
+superior border of the scapula,
+291, 322
+
+superior cerebellar peduncle
+(SCP), 673, 679
+
+superior cervical ganglion, 615,
+641
+
+superior colliculus, 528, 554, 584,
+605
+
+superior extensor retinaculum,
+454, 462
+
+superior gemellus, 450, 463
+superior mesenteric artery, 881,
+912
+
+superior mesenteric ganglion,
+615, 641
+
+superior nasal concha, 243, 280
+superior nuchal line, 248, 280
+superior oblique, 575, 605
+Superior orbital fissure, 257
+superior orbital fissure, 280
+superior phrenic artery, 880, 912
+superior pubic ramus, 301, 322
+superior rectus, 575, 605
+superior rotation, 349, 369
+superior sagittal sinus, 534, 554,
+892, 912
+
+superior vena cava, 781, 832,
+890, 912
+
+supinated position, 348, 369
+Supination, 348
+
+supination, 369
+
+supinator, 442, 463
+
+supine, 30, 41
+
+supplemental motor area, 594,
+605
+
+Supportive connective tissue, 146
+supportive connective tissue, 165
+suprachiasmatic nucleus, 586,
+605
+
+supraglenoid tubercle, 291, 322
+Suprahyoid muscles, 430
+suprahyoid muscles, 463
+supraorbital foramen, 242, 280
+supraorbital margin, 242, 280
+suprascapular notch, 291, 322
+supraspinatus, 442, 463
+supraspinous fossa, 292, 322
+supraspinous ligament, 269, 280
+surgical neck, 292, 322
+suspension, 61, 82
+
+suspensory ligaments, 1228,
+1235
+
+sustentaculum tali, 311, 322
+suture, 251, 280, 333, 369
+sympathetic chain ganglia, 541,
+554, 613, 641
+
+sympathetic division, 612, 641
+sympatholytic drug, 635, 641
+sympathomimetic drug, 635, 641
+symphysis, 336, 369
+
+synapse, 506
+
+synapses, 477
+
+synaptic cleft, 384, 409, 498, 506
+synaptic end bulb, 478, 506
+synarthrosis, 330, 369
+synchondrosis, 335, 369
+syncytiotrophoblast, 1246, 1283
+syndesmosis, 334, 369
+
+INDEX 1331
+
+synergist, 416, 463
+synostosis, 333, 369
+synovial fluid, 337, 369
+synovial joint, 330, 369
+synovial membrane, 135, 166,
+337, 370
+
+synthesis reaction, 58, 82
+systemic anatomy, 16, 41
+systemic circuit, 781, 832
+systemic edema, 1146, 1167
+systemic nerve, 546, 554
+systole, 812, 832
+
+systolic pressure, 850, 912
+
+T
+
+T cell, 924, 967
+
+T cell tolerance, 942, 967
+
+T cell-dependent antigen, 951,
+967
+
+T cell-independent antigen, 951,
+967
+
+T lymphocytes, 755, 771
+
+T wave, 806, 832
+
+T-tubule, 409
+
+T-tubules, 384.
+
+talocrural joint, 362, 370
+talus, 311, 322
+
+target effector, 614, 641
+target heart rate, 818, 832
+tarsal bone, 305, 322
+
+taste buds, 564, 605
+
+tectorial membrane, 570, 605
+tectospinal tract, 597, 605
+tectum, 528, 554
+tegmentum, 528, 554
+telencephalon, 515, 554
+telogen, 185, 199
+
+Telophase, 116
+
+telophase, 126
+
+temporal bone, 245, 280
+temporal fossa, 243, 280
+temporal lobe, 521, 554
+temporal process of the
+zygomatic bone, 243, 280
+Temporal summation, 496
+temporal summation, 506
+temporal vein, 892, 912
+temporalis, 427, 463
+temporomandibular joint (TMJ),
+351, 370
+
+tendinous intersections, 435, 463
+tendon, 337, 370
+
+tendon sheath, 338, 370
+tenia coli, 1075
+
+teniae coli, 1053
+
+tensor fascia lata, 450, 463
+teres major, 442, 463
+
+teres minor, 442, 463
+
+1332 INDEX
+
+terminal electron acceptor, 1089,
+1121
+
+terminal ganglia, 541, 617, 641
+terminal ganglion, 555
+
+tertiary follicles, 1218, 1235
+testes, 1206, 1235
+
+testicular artery, 881, 912
+testicular vein, 897, 912
+testosterone, 717, 730
+tetanus, 396, 409
+
+Th1 cells, 945, 967
+
+Th2 cells, 945, 967
+
+thalamus, 486, 506, 526, 555
+Thalassemia, 752
+thalassemia, 771
+
+theca cells, 1218, 1235
+thenar, 445, 463
+
+thenar eminence, 446, 463
+thermoneutral, 1111, 1121
+thermoreceptor, 485, 506, 563,
+605
+
+thermoregulation, 1111, 1121
+thick filament, 382, 409
+
+thigh, 305, 322
+
+thin filament, 381, 409
+
+third ventricle, 536, 555
+third-degree burn, 194, 199
+thoracic aorta, 875, 912
+thoracic cage, 240, 280
+thoracic cavity, 33, 41
+
+thoracic curve, 260, 280
+thoracic duct, 923, 967
+thoracic vertebrae, 266, 280
+Thoracic wall compliance, 991
+thoracic wall compliance, 1014
+thoracolumbar system, 613, 641
+thoroughfare channel, 844, 912
+threshold, 485, 506
+
+thrombin, 761, 771
+thrombocytes, 755, 771
+thrombocytopenia, 756, 771
+Thrombocytosis, 756
+thrombocytosis, 771
+Thrombopoietin, 744
+thrombopoietin, 771
+thrombosis, 762, 771
+thrombus, 762, 771
+thymocyte, 925, 967
+thymosins, 724, 730
+
+thymus, 724, 730, 926, 967
+thyrocervical artery, 877, 912
+thyrohyoid, 430, 463
+
+thyroid cartilage, 978, 1014
+thyroid gland, 705, 730
+thyroid-stimulating hormone
+(TSH), 702, 730
+
+thyroxine, 707, 730
+
+tibia, 305, 323
+
+tibial collateral ligament, 358, 370
+tibial nerve, 546, 555
+
+tibial tuberosity, 310, 322
+tibialis anterior, 453, 463
+tibialis posterior, 454, 463
+Tidal volume (TV), 992
+
+tidal volume (TV), 1014
+
+tight junction, 137, 166
+tissue, 18, 41, 132, 166
+tissue factor, 760, 771
+
+tissue membrane, 135, 166
+Tissue typing, 958
+
+tissue typing, 967
+
+tongue, 1032, 1075
+
+Tonsils, 929
+
+tonsils, 967
+
+topographical, 580, 605
+
+Total dead space, 993
+
+total dead space, 1014
+
+total lung capacity (TLC), 992,
+1014
+
+Total pressure, 997
+
+total pressure, 1014
+totipotent, 119, 126, 133, 166
+totipotent stem cell, 742, 771
+trabeculae, 216, 234
+trabeculae carneae, 789, 832
+trachea, 980, 1014
+
+trachealis muscle, 980, 1014
+tract, 472, 506
+
+trait, 1273, 1283
+transamination, 1105, 1121
+transcription, 109, 126
+transcription factor, 120, 126
+transduction, 562, 605
+Transfer RNA (tRNA), 111
+transfer RNA (tRNA), 126
+transferrin, 749, 771
+
+transient ischemic attack (TIA),
+650, 679, 877, 912
+transitional epithelium, 140, 166
+Translation, 111
+
+translation, 126
+Transpulmonary pressure, 990
+transpulmonary pressure, 1014
+transverse colon, 1051, 1075
+transverse foramen, 264, 280
+transverse plane, 32, 41
+transverse process, 263, 280
+transverse sinuses, 534, 555,
+893, 913
+
+transversospinales, 432, 463
+transversus abdominis, 435, 463
+trapezium, 295, 323
+trapezius, 439, 463
+
+trapezoid, 295, 323
+
+treppe, 396, 409
+
+tri, 423, 463
+
+triad, 384, 409
+
+tricarboxylic acid cycle (TCA),
+1086, 1121
+
+triceps brachii, 442, 463
+
+This content is available for free at http://cnx.org/content/col11496/1.6
+
+tricuspid valve, 789, 832
+trigeminal ganglion, 541, 555
+trigeminal nerve, 544, 555
+triglyceride, 71, 82
+triglycerides, 1098, 1121
+trigone, 1132, 1167
+triiodothyronine, 707, 730
+trimester, 1283
+
+trimesters, 1260
+
+triplet, 108, 126
+
+triquetrum, 295, 323
+
+trochlea, 293, 323, 575, 605
+trochlear nerve, 544, 555
+trochlear notch, 293, 323
+trophoblast, 1283
+trophoblasts, 1244
+tropomyosin, 381, 409
+troponin, 381, 409
+
+true labor, 1264, 1283
+
+true ribs, 272, 280
+
+true vocal cord, 979, 1014
+truncus arteriosus, 827, 832
+trunk, 872, 913
+
+trypsin, 1104, 1121
+trypsinogen, 1104, 1121
+tubercle of the rib, 272, 280
+tubuloglomerular feedback, 1157,
+1167
+
+tunica externa, 842, 913
+tunica intima, 841, 913
+
+tunica media, 842, 913
+
+twitch, 394, 409
+
+tympanic membrane, 568, 605
+type | alveolar cell, 983, 1014
+type | hypersensitivity, 956, 967
+type II alveolar cell, 983, 1014
+Type II hypersensitivity, 956
+type II hypersensitivity, 967
+Type Ill hypersensitivity, 956
+type III hypersensitivity, 967
+
+U
+
+ulna, 292, 323
+
+ulnar artery, 884, 913
+
+ulnar collateral ligament, 354,
+370
+
+ulnar nerve, 546, 555
+
+ulnar notch of the radius, 294,
+323
+
+ulnar tuberosity, 293, 323
+ulnar vein, 894, 913
+Ultrasonography, 38
+ultrasonography, 41
+
+Umami, 564
+
+umami, 605
+
+umbilical arteries, 903, 913
+umbilical cord, 1251, 1283
+umbilical vein, 903, 913
+uniaxial joint, 332, 370
+
+unipennate, 419, 463
+Unipolar, 478
+
+unipolar, 506
+
+unipotent, 119, 126
+universal donor, 766, 771
+universal recipient, 766, 771
+upper esophageal sphincter,
+1038, 1075
+
+upper motor neuron, 486, 506
+upregulation, 694, 730
+
+urea cycle, 1104, 1121
+urethra, 1131, 1167
+Urinalysis, 1129
+
+urinalysis, 1167
+
+urochrome, 1129, 1167
+urogenital triangle, 438, 463
+uterine tubes, 1222, 1235
+uterus, 1223, 1235
+
+utricle, 572, 605
+
+Vv
+
+vagina, 1216, 1235
+
+vagus nerve, 544, 555
+
+valence shell, 52, 82
+
+Valsalva’s maneuver, 1055, 1075
+valve, 786, 832
+
+variable region domain, 939, 967
+varicosity, 404, 409, 619, 641
+vasa recta, 1138, 1167
+
+vasa vasorum, 840, 913
+Vascular shock, 870
+
+vascular shock, 913
+
+vascular shunt, 844, 913
+vascular spasm, 757, 771
+vascular tone, 855, 913
+
+Vascular tubes, 903
+
+vascular tubes, 913
+
+vascular tunic, 576, 605
+vasoconstriction, 842, 913
+vasodilation, 157, 166, 842, 913
+vasomotion, 844, 913
+
+vasomotor nerves, 632, 641
+vastus intermedius, 452, 463
+vastus lateralis, 452, 463
+
+vastus medialis, 452, 463
+
+vein, 845, 913
+
+venous reserve, 848, 913
+Ventilation, 998
+
+ventilation, 1014
+
+ventral, 31, 41
+
+ventral (anterior) cavity, 32
+ventral (anterior) nerve root, 529,
+555
+ventral cavity, 41
+
+ventral posterior nucleus, 582,
+605
+ventral respiratory group (VRG),
+994, 1014
+
+ventral stream, 591, 605
+
+ventricle, 481, 506, 781, 833
+ventricles, 536, 555
+
+ventricular ejection phase, 813,
+833
+
+venule, 845, 913
+
+vermis, 673, 679
+
+vernix caseosa, 1258, 1283
+vertebra, 240, 281
+
+vertebral (spinal) canal, 263, 281
+vertebral arch, 263, 281
+vertebral arteries, 533, 555
+vertebral artery, 877, 913
+vertebral column, 240, 281
+vertebral foramen, 263, 281
+vertebral vein, 890, 913
+vesicle, 94, 127
+
+vestibular fold, 979, 1015
+vestibular ganglion, 572, 605
+vestibular nuclei, 584, 605
+vestibule, 568, 605
+vestibulo-ocular reflex (VOR),
+585, 606, 663, 680
+vestibulocerebellum, 673, 680
+vestibulocochlear nerve, 544, 555
+vestibulospinal tract, 597, 606
+villi, 1048
+
+villus, 1075
+
+visceral branches, 879, 913
+visceral muscle, 405, 409
+visceral pleura, 986, 1015
+visceral reflex, 621, 641
+visceral sense, 563, 606
+Vision, 575
+
+vision, 606
+
+visual acuity, 577, 606
+
+Vital capacity (VC), 992
+
+vital capacity (VC), 1015
+vitamin D, 190, 199
+
+Vitamins, 1115
+
+vitamins, 1121
+
+vitiligo, 181, 199
+
+vitreous humor, 576, 606
+voltage-gated channel, 489, 506
+voltage-gated sodium channels,
+384, 409
+
+voluntary phase, 1039, 1075
+vomer bone, 243, 281
+
+vulva, 1215, 1235
+
+Ww
+
+wave summation, 395, 409
+Weber test, 661, 680
+Wernicke’s area, 655, 680
+white blood cells (WBCs), 738,
+771
+
+white matter, 471, 506
+
+white rami communicantes, 614,
+641
+
+Wolffian duct, 1230, 1235
+
+INDEX 1333
+
+working memory, 593, 606
+wound contraction, 157, 166
+
+x
+
+X-linked, 1276, 1283
+
+X-linked dominant, 1276, 1283
+X-linked recessive, 1276, 1283
+X-ray, 34, 41
+
+xiphoid process, 272, 281
+
+Y
+
+Yellow marrow, 206
+yellow marrow, 234
+yolk sac, 1249, 1283
+
+Z
+
+zona fasciculata, 713, 730
+zona glomerulosa, 713, 730
+zona pellucida, 1240, 1283
+zona reticularis, 713, 730
+zone of calcified matrix, 223, 235
+zone of maturation and
+hypertrophy, 222, 235
+
+zonule fibers, 576, 606
+zygapophysial joints, 350, 370
+zygomatic arch, 243, 281
+zygomatic bone, 253, 281
+zygomatic process of the
+temporal bone, 243, 281
+zygote, 1240, 1283
+

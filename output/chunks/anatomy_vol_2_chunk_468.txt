@@ -1,0 +1,11 @@
+These molecules are exogenous, meaning that they are made outside of the human body, so a researcher can use them
+without any confounding endogenous results (results caused by the molecules produced in the body).
+
+ The adrenergic system also has two types of receptors, named the alpha (a)-adrenergic receptor and beta (B)-
+adrenergic receptor. Unlike cholinergic receptors, these receptor types are not classified by which drugs can bind to them.
+ All of them are G protein-coupled receptors. There are three types of a-adrenergic receptors, termed a1, «2, and a3, and
+there are two types of B-adrenergic receptors, termed 81 and B2. An additional aspect of the adrenergic system is that there
+is a second signaling molecule called epinephrine. The chemical difference between norepinephrine and epinephrine is the
+addition of a methyl group (CH3) in epinephrine. The prefix “nor-” actually refers to this chemical difference, in which a
+methyl group is missing.
+

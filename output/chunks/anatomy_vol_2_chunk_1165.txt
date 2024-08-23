@@ -1,0 +1,11 @@
+The vascular tone of the vessel is the contractile state of the
+smooth muscle and the primary determinant of diameter, and thus of resistance and flow. The effect of vessel diameter on
+resistance is inverse: Given the same volume of blood, an increased diameter means there is less blood contacting the vessel
+wall, thus lower friction and lower resistance, subsequently increasing flow. A decreased diameter means more of the blood
+contacts the vessel wall, and resistance increases, subsequently decreasing flow.
+
+ The influence of lumen diameter on resistance is dramatic: A slight increase or decrease in diameter causes a huge
+decrease or increase in resistance. This is because resistance is inversely proportional to the radius of the blood vessel (one-
+
+half of the vessel’s diameter) raised to the fourth power (R = 1/r*). This means, for example, that if an artery or arteriole
+constricts to one-half of its original radius, the resistance to flow will increase 16 times.

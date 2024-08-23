@@ -1,0 +1,10 @@
+The cross extensor reflex provides a counterbalancing movement on the other side of the body, which
+requires another collateral of the sensory axon to activate contraction of the extensor muscles in the contralateral limb.
+
+ A more complex example of somatic function is conscious muscle movement. For example, reading of this text starts
+with visual sensory input to the retina, which then projects to the thalamus, and on to the cerebral cortex. A sequence of
+regions of the cerebral cortex process the visual information, starting in the primary visual cortex of the occipital lobe,
+and resulting in the conscious perception of these letters. Subsequent cognitive processing results in understanding of the
+content. As you continue reading, regions of the cerebral cortex in the frontal lobe plan how to move the eyes to follow
+the lines of text. The output from the cortex causes activity in motor neurons in the brain stem that cause movement of the
+extraocular muscles through the third, fourth, and sixth cranial nerves.

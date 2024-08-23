@@ -1,0 +1,17 @@
+The standard method is to use a grid, but this is not possible with this resource. Try
+constructing a simple table with each leukocyte type and then making a mark for each cell type you identify. Attempt
+to classify at least 50 and perhaps as many as 100 different cells. Based on the percentage of cells that you count, do
+the numbers represent a normal blood smear or does something appear to be abnormal?
+
+ 18.5 | Hemostasis
+
+ By the end of this section, you will be able to:
+¢ Describe the three mechanisms involved in hemostasis
+
+¢ Explain how the extrinsic and intrinsic coagulation pathways lead to the common pathway, and the coagulation
+factors involved in each
+
+* Discuss disorders affecting hemostasis
+
+Platelets are key players in hemostasis, the process by which the body seals a ruptured blood vessel and prevents further
+loss of blood.

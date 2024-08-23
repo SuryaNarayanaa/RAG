@@ -1,0 +1,16 @@
+It is composed of a phospholipid bilayer, with hydrophobic internal lipid “tails” and hydrophilic external phosphate “heads.”
+Various membrane proteins are scattered throughout the bilayer, both inserted within it and attached to it peripherally. The
+cell membrane is selectively permeable, allowing only a limited number of materials to diffuse through its lipid bilayer.
+ All materials that cross the membrane do so using passive (non energy-requiring) or active (energy-requiring) transport
+processes. During passive transport, materials move by simple diffusion or by facilitated diffusion through the membrane,
+down their concentration gradient. Water passes through the membrane in a diffusion process called osmosis. During active
+transport, energy is expended to assist material movement across the membrane in a direction against their concentration
+gradient. Active transport may take place with the help of protein pumps or through the use of vesicles.
+
+ 3.2 The Cytoplasm and Cellular Organelles
+
+The internal environmental of a living cell is made u
+of water, but also contains various dissolved nutrients
+
+p of a fluid, jelly-like substance called cytosol, which consists mainly
+and other molecules.

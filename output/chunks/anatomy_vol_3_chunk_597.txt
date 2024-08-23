@@ -1,0 +1,12 @@
+Plasma osmolality is thus the ratio of
+solutes to water in blood plasma. A person’s plasma osmolality value reflects his or her state of hydration. A healthy body
+maintains plasma osmolality within a narrow range, by employing several mechanisms that regulate both water intake and
+output.
+
+ Drinking water is considered voluntary. So how is water intake regulated by the body? Consider someone who is
+experiencing dehydration, a net loss of water that results in insufficient water in blood and other tissues. The water that
+leaves the body, as exhaled air, sweat, or urine, is ultimately extracted from blood plasma. As the blood becomes more
+concentrated, the thirst response—a sequence of physiological processes—is triggered (Figure 26.10). Osmoreceptors are
+sensory receptors in the thirst center in the hypothalamus that monitor the concentration of solutes (osmolality) of the blood.
+ If blood osmolality increases above its ideal value, the hypothalamus transmits signals that result in a conscious awareness
+of thirst.

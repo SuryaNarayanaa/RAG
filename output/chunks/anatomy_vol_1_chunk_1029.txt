@@ -1,0 +1,22 @@
+The arrangement of a T-tubule with the membranes of SR on either
+side is called a triad (Figure 10.7). The triad surrounds the cylindrical structure called a myofibril, which contains actin
+and myosin.
+
+Sarcolemma
+
+Sarcoplasmic
+reticulum
+
+Terminal cisternae
+
+T-tubule
+ar, — Reece Triad
+
+Figure 10.7 The T-tubule Narrow T-tubules permit the conduction of electrical impulses. The SR functions to regulate
+intracellular levels of calcium. Two terminal cisternae (where enlarged SR connects to the T-tubule) and one T-tubule
+comprise a triad—a “threesome” of membranes, with those of SR on two sides and the T-tubule sandwiched between
+them.
+
+ The T-tubules carry the action potential into the interior of the cell, which triggers the opening of calcium channels in
+
+the membrane of the adjacent SR, causing Ca** to diffuse out of the SR and into the sarcoplasm.

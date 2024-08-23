@@ -1,0 +1,12 @@
+Protium (1H) Deuterium (?H) Tritium (3H)
+
+Figure 2.5 |lsotopes of Hydrogen Protium, designated 1H, has one proton and no neutrons. It is by far the
+most abundant isotope of hydrogen in nature. Deuterium, designated 2H, has one proton and one neutron. Tritium,
+designated 3H, has two neutrons.
+
+ An isotope that contains more than the usual number of neutrons is referred to as a heavy isotope. An example is
+Mc, Heavy isotopes tend to be unstable, and unstable isotopes are radioactive. A radioactive isotope is an isotope whose
+nucleus readily decays, giving off subatomic particles and electromagnetic energy. Different radioactive isotopes (also
+called radioisotopes) differ in their half-life, the time it takes for half of any size sample of an isotope to decay. For example,
+the half-life of tritium—a radioisotope of hydrogen—is about 12 years, indicating it takes 12 years for half of the tritium
+nuclei in a sample to decay.

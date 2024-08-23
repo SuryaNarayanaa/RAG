@@ -1,0 +1,24 @@
+The Cardiovascular Centers in the Brain
+
+Neurological regulation of blood pressure and flow depends on the cardiovascular centers located in the medulla oblongata.
+
+ This cluster of neurons responds to changes in blood pressure as well as blood concentrations of oxygen, carbon dioxide,
+
+and hydrogen ions. The cardiovascular center contains three distinct paired components:
+
+* The cardioaccelerator centers stimulate cardiac function by regulating heart rate and stroke volume via sympathetic
+stimulation from the cardiac accelerator nerve.
+
+863
+
+864 CHAPTER 20 | THE CARDIOVASCULAR SYSTEM: BLOOD VESSELS AND CIRCULATION
+
+* The cardioinhibitor centers slow cardiac function by decreasing heart rate and stroke volume via parasympathetic
+stimulation from the vagus nerve.
+
+ * The vasomotor centers control vessel tone or contraction of the smooth muscle in the tunica media. Changes in
+diameter affect peripheral resistance, pressure, and flow, which affect cardiac output. The majority of these neurons
+act via the release of the neurotransmitter norepinephrine from sympathetic neurons.
+
+ Although each center functions independently, they are not anatomically distinct.
+

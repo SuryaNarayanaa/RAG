@@ -1,0 +1,14 @@
+Often, the action potentials occur so rapidly that watching a screen to see them occur is not helpful. A
+speaker is powered by the signals recorded from a neuron and it “pops” each time the neuron fires an action potential.
+ These action potentials are firing so fast that it sounds like static on the radio. Electrophysiologists can recognize the
+patterns within that static to understand what is happening. Why is the leech model used for measuring the electrical
+activity of neurons instead of using humans?
+
+12.5 | Communication Between Neurons
+
+By the end of this section, you will be able to:
+ ¢ Explain the differences between the types of graded potentials
+* Categorize the major neurotransmitters by chemical type and effect
+
+The electrical changes taking place within a neuron, as described in the previous section, are similar to a light switch being
+turned on.

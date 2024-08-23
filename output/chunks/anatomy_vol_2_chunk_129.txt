@@ -1,0 +1,25 @@
+All synapses have common
+characteristics, which can be summarized in this list:
+
+presynaptic element
+
+neurotransmitter (packaged in vesicles)
+
+synaptic cleft
+
+receptor proteins
+
+postsynaptic element
+
+neurotransmitter elimination or re-uptake
+
+For the NMJ, these characteristics are as follows: the presynaptic element is the motor neuron's axon terminals, the
+
+neurotransmitter is acetylcholine, the synaptic cleft is the space between the cells where the neurotransmitter diffuses, the
+receptor protein is the nicotinic acetylcholine receptor, the postsynaptic element is the sarcolemma of the muscle cell, and
+
+497
+
+498 CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE
+
+the neurotransmitter is eliminated by acetylcholinesterase.

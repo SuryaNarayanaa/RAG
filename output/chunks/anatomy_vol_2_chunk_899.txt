@@ -1,0 +1,36 @@
+The calcium ion, considered factor IV, is derived from the diet and
+from the breakdown of bone. Some recent evidence indicates that activation of various clotting factors occurs on specific
+receptor sites on the surfaces of platelets.
+
+ The 12 clotting factors are numbered | through XIII according to the order of their discovery. Factor VI was once
+believed to be a distinct clotting factor, but is now thought to be identical to factor V. Rather than renumber the other factors,
+factor VI was allowed to remain as a placeholder and also a reminder that knowledge changes over time.
+
+ Clotting Factors
+
+Factor Type of
+Name yP. Source Pathway(s)
+number molecule
+| Fibrinogen Plasma Liver Common; converted into fibrin
+protein
+iI Prothrombin Plasma Liver* Common, converted into
+protein thrombin
+
+Tissue thromboplastin or tissue {Lipoprotein {Damaged cells
+
+factor mixture and platelets Extrinsic
+
+Inorganic
+
+Diet, platelets,
+
+IV Calcium ions ions in Entire process
+
+bone matrix
+plasma
+Vv Proaccelerin Plasma Liver, platelets | Extrinsic and intrinsic
+protein
+Vi Not used Not used Not used Not used
+Vil Proconvertin Plasma Liver * Extrinsic
+protein
+.

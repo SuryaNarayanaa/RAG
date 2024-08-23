@@ -1,0 +1,34 @@
+A stimulus of longer
+
+durations causes a longer
+lasting depolarization, but
+not of any greater strength
+than the previous stimulus
+
+40
+
+Threshold Alarger stimulus that
+depolarizes above the
+threshold may trigger
+an action potential in a
+
+postsynaptic neuron
+
+Some stimuli result
+in hyperpolarization,
+which depends on
+the specific ion
+channels activated
+in the cell membrane
+
+Membrane potential (mV)
+
++
+
+Depolarizing Hyperpolarizing
+graded potential graded potential
+
+Time >
+
+Figure 12.25 Graded Potentials Graded potentials are temporary changes in the membrane voltage, the
+characteristics of which depend on the size of the stimulus.

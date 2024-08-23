@@ -1,0 +1,16 @@
+Extrinsic Pathway
+
+The quicker responding and more direct extrinsic pathway (also known as the tissue factor pathway) begins when
+damage occurs to the surrounding tissues, such as in a traumatic injury. Upon contact with blood plasma, the damaged
+
+extravascular cells, which are extrinsic to the bloodstream, release factor III (thromboplastin). Sequentially, Ca** then factor
+VII (proconvertin), which is activated by factor III, are added, forming an enzyme complex. This enzyme complex leads
+to activation of factor X (Stuart—Prower factor), which activates the common pathway discussed below. The events in the
+extrinsic pathway are completed in a matter of seconds.
+
+ Intrinsic Pathway
+
+The intrinsic pathway (also known as the contact activation pathway) is longer and more complex. In this case, the factors
+involved are intrinsic to (present within) the bloodstream. The pathway can be prompted by damage to the tissues, resulting
+from internal factors such as arterial disease; however, it is most often initiated when factor XII (Hageman factor) comes
+into contact with foreign materials, such as when a blood sample is put into a glass test tube.

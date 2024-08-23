@@ -1,0 +1,10 @@
+Sensory neurons can have either (a) free nerve endings or (b) encapsulated endings. Photoreceptors in the
+eyes, such as rod cells, are examples of (c) specialized receptor cells. These cells release neurotransmitters onto a
+bipolar cell, which then synapses with the optic nerve neurons.
+
+ Another way that receptors can be classified is based on their location relative to the stimuli. An exteroceptor is a
+receptor that is located near a stimulus in the external environment, such as the somatosensory receptors that are located in
+the skin. An interoceptor is one that interprets stimuli from internal organs and tissues, such as the receptors that sense the
+increase in blood pressure in the aorta or carotid sinus. Finally, a proprioceptor is a receptor located near a moving part of
+the body, such as a muscle, that interprets the positions of the tissues as they move.
+

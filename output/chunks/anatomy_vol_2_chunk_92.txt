@@ -1,0 +1,14 @@
+To understand how neurons are able to communicate, it is necessary to describe the role
+of an excitable membrane in generating these signals. The basis of this communication is the action potential, which
+demonstrates how changes in the membrane can constitute a signal. Looking at the way these signals work in more variable
+circumstances involves a look at graded potentials, which will be covered in the next section.
+
+ Electrically Active Cell Membranes
+
+Most cells in the body make use of charged particles, ions, to build up a charge across the cell membrane. Previously,
+this was shown to be a part of how muscle cells work. For skeletal muscles to contract, based on excitation—contraction
+coupling, requires input from a neuron. Both of the cells make use of the cell membrane to regulate ion movement between
+the extracellular fluid and cytosol.
+
+ As you learned in the chapter on cells, the cell membrane is primarily responsible for regulating what can cross the
+membrane and what stays on only one side.

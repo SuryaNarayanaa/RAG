@@ -1,0 +1,13 @@
+The volume of air that can be exhaled
+beyond normal exhalation
+
+set set Blood gas Arterial blood gases Concentration of oxygen and carbon dioxide
+
+Figure 22.19 Pulmonary Function Testing
+
+Respiratory capacity is the combination of two or more selected volumes, which further describes the amount of air in
+the lungs during a given time. For example, total lung capacity (TLC) is the sum of all of the lung volumes (TV, ERV, IRV,
+and RV), which represents the total amount of air a person can hold in the lungs after a forceful inhalation. TLC is about
+6000 mL air for men, and about 4200 mL for women. Vital capacity (VC) is the amount of air a person can move into or
+out of his or her lungs, and is the sum of all of the volumes except residual volume (TV, ERV, and IRV), which is between
+4000 and 5000 milliliters.

@@ -1,0 +1,58 @@
+The normal respiratory rate of a child decreases from birth to adolescence. A child under 1 year of age has a normal
+respiratory rate between 30 and 60 breaths per minute, but by the time a child is about 10 years old, the normal rate is closer
+to 18 to 30. By adolescence, the normal respiratory rate is similar to that of adults, 12 to 18 breaths per minute.
+
+ Ventilation Control Centers
+
+The control of ventilation is a complex interplay of multiple regions in the brain that signal the muscles used in pulmonary
+ventilation to contract (Table 22.1). The result is typically a rhythmic, consistent ventilation rate that provides the body with
+sufficient amounts of oxygen, while adequately removing carbon dioxide.
+
+ Summary of Ventilation Regulation
+System component Function
+
+Medullary respiratory renter _| Sets the basic rhythm of breathing
+
+Ventral respiratory group Generates the breathing rhythm and integrates data coming into the medulla
+
+(VRG)
+Dorsal respiratory group Integrates input from the stretch receptors and the chemoreceptors in the
+(DRG) periphery
+
+Pontine respiratory group Influences and modifies the medulla oblongata’s functions
+
+(PRG)
+
+Aortic body Monitors blood PCO2, PO2, and pH
+
+Carotid body Monitors blood PCO2, PO2, and pH
+Hypothalamus Monitors emotional state and body temperature
+
+Table 22.1
+
+994 CHAPTER 22 | THE RESPIRATORY SYSTEM
+
+Summary of Ventilation Regulation
+
+System component
+
+Cortical areas of the brain
+
+Function
+
+Control voluntary breathing
+
+Proprioceptors
+
+Send impulses regarding joint and muscle movements
+
+Pulmonary irritant reflexes
+
+Protect the respiratory zones of the system from foreign material
+
+Inflation reflex
+
+Table 22.1
+
+Neurons that innervate the muscles of the respiratory system are responsible for controlling and regulating pulmonary
+ventilation.

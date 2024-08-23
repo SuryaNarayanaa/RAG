@@ -1,0 +1,10 @@
+Both neurons and skeletal muscle cells are electrically excitable, meaning that they are able to generate action
+potentials. An action potential is a special type of electrical signal that can travel along a cell membrane as a wave. This
+allows a signal to be transmitted quickly and faithfully over long distances.
+
+ Although the term excitation-contraction coupling confuses or scares some students, it comes down to this: for a
+skeletal muscle fiber to contract, its membrane must first be “excited”—in other words, it must be stimulated to fire an
+action potential. The muscle fiber action potential, which sweeps along the sarcolemma as a wave, is “coupled” to the actual
+
+contraction through the release of calcium ions (Ca**) from the SR. Once released, the Ca** interacts with the shielding
+proteins, forcing them to move aside so that the actin-binding sites are available for attachment by myosin heads.

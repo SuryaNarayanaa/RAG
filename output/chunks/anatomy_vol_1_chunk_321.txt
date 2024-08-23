@@ -1,0 +1,28 @@
+The mechanism by which cells turn the DNA code into a protein
+product is a two-step process, with an RNA molecule as the intermediate.
+
+ Template strand p= = === T
+TACGGCGTTAGACAAGTGCGTGAGTACACA
+
+ATGCCGCAATCTGTTCACGCACTCATGTGT
+fo eee ee en eee oe ee eee
+
+DNA
+
+Transcription
+
+AUGCCGCAAUCUGUUCACGCACUCAUGUGU
+RNA
+
+tt
+
+Protein Met Pro Gin Ser Val His Ala Leu Met Cys
+
+Figure 3.25 The Genetic Code DNA holds all of the genetic information necessary to build a cell’s proteins. The
+nucleotide sequence of a gene is ultimately translated into an amino acid sequence of the gene’s corresponding
+protein.
+
+ From DNA to RNA: Transcription
+
+DNA is housed within the nucleus, and protein synthesis takes place in the cytoplasm, thus there must be some sort o:
+intermediate messenger that leaves the nucleus and manages protein synthesis.

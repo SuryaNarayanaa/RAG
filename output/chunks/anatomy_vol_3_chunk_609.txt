@@ -1,0 +1,10 @@
+Hyponatremia is a lower-than-normal concentration of sodium, usually associated with excess water accumulation in
+the body, which dilutes the sodium. An absolute loss of sodium may be due to a decreased intake of the ion coupled with
+its continual excretion in the urine. An abnormal loss of sodium from the body can result from several conditions, including
+excessive sweating, vomiting, or diarrhea; the use of diuretics; excessive production of urine, which can occur in diabetes;
+and acidosis, either metabolic acidosis or diabetic ketoacidosis.
+
+ A relative decrease in blood sodium can occur because of an imbalance of sodium in one of the body’s other fluid
+compartments, like IF, or from a dilution of sodium due to water retention related to edema or congestive heart failure.
+ At the cellular level, hyponatremia results in increased entry of water into cells by osmosis, because the concentration of
+solutes within the cell exceeds the concentration of solutes in the now-diluted ECF.

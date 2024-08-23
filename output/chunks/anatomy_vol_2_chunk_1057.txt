@@ -1,0 +1,15 @@
+¢ Identify cardiovascular centers and cardiac reflexes that regulate heart function
+¢ Describe factors affecting heart rate
+¢ Distinguish between positive and negative factors that affect heart contractility
+¢ Summarize factors affecting stroke volume and cardiac output
+¢ Describe the cardiac response to variations in blood flow and pressure
+
+The autorhythmicity inherent in cardiac cells keeps the heart beating at a regular pace; however, the heart is regulated by
+and responds to outside influences as well. Neural and endocrine controls are vital to the regulation of cardiac function. In
+addition, the heart is sensitive to several environmental factors, including electrolytes.
+
+ Resting Cardiac Output
+
+Cardiac output (CO) is a measurement of the amount of blood pumped by each ventricle in one minute. To calculate this
+value, multiply stroke volume (SV), the amount of blood pumped by each ventricle, by heart rate (HR), in contractions
+per minute (or beats per minute, bpm).

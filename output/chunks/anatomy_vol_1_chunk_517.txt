@@ -1,0 +1,11 @@
+Cancer is a broad term that describes diseases caused by abnormal
+cells in the body dividing uncontrollably. Most cancers are identified by the organ or tissue in which the cancer originates.
+ One common form of cancer is skin cancer. The Skin Cancer Foundation reports that one in five Americans will experience
+some type of skin cancer in their lifetime. The degradation of the ozone layer in the atmosphere and the resulting increase
+in exposure to UV radiation has contributed to its rise. Overexposure to UV radiation damages DNA, which can lead to the
+formation of cancerous lesions. Although melanin offers some protection against DNA damage from the sun, often it is not
+enough. The fact that cancers can also occur on areas of the body that are normally not exposed to UV radiation suggests
+that there are additional factors that can lead to cancerous lesions.
+
+ In general, cancers result from an accumulation of DNA mutations. These mutations can result in cell populations that
+do not die when they should and uncontrolled cell proliferation that leads to tumors.

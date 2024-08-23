@@ -1,0 +1,11 @@
+Food mixed with hydrochloric acid from the stomach would burn the small intestine,
+the next portion of the digestive tract after the stomach, if it were not for the release of bicarbonate (HCO3 ), a weak base
+that attracts H*. Bicarbonate accepts some of the H* protons, thereby reducing the acidity of the solution.
+
+ The Concept of pH
+
+The relative acidity or alkalinity of a solution can be indicated by its pH. A solution’s pH is the negative, base-10 logarithm
+
+of the hydrogen ion (H") concentration of the solution. As an example, a pH 4 solution has an H* concentration that is ten
+times greater than that of a pH 5 solution. That is, a solution with a pH of 4 is ten times more acidic than a solution with a
+PH of 5. The concept of pH will begin to make more sense when you study the pH scale, like that shown in Figure 2.17.

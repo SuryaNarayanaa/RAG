@@ -1,0 +1,12 @@
+The earlier fragments of the cascade also have important functions. Phagocytic cells such as macrophages and
+neutrophils are attracted to an infection site by chemotactic attraction to smaller complement fragments. Additionally, once
+they arrive, their receptors for surface-bound C3b opsonize the pathogen for phagocytosis and destruction.
+
+ Inflammatory Response
+
+The hallmark of the innate immune response is inflammation. Inflammation is something everyone has experienced. Stub a
+toe, cut a finger, or do any activity that causes tissue damage and inflammation will result, with its four characteristics: heat,
+redness, pain, and swelling (“loss of function” is sometimes mentioned as a fifth characteristic). It is important to note that
+inflammation does not have to be initiated by an infection, but can also be caused by tissue injuries. The release of damaged
+cellular contents into the site of injury is enough to stimulate the response, even in the absence of breaks in physical barriers
+that would allow pathogens to enter (by hitting your thumb with a hammer, for example).

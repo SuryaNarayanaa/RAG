@@ -1,0 +1,9 @@
+But how is it responsible for the nervous system?
+
+ As the embryo develops, a portion of the ectoderm differentiates into a specialized region of neuroectoderm, which
+is the precursor for the tissue of the nervous system. Molecular signals induce cells in this region to differentiate into the
+neuroepithelium, forming a neural plate. The cells then begin to change shape, causing the tissue to buckle and fold inward
+(Figure 13.2). A neural groove forms, visible as a line along the dorsal surface of the embryo. The ridge-like edge on either
+side of the neural groove is referred as the neural fold. As the neural folds come together and converge, the underlying
+structure forms into a tube just beneath the ectoderm called the neural tube. Cells from the neural folds then separate from
+the ectoderm to form a cluster of cells referred to as the neural crest, which runs lateral to the neural tube.

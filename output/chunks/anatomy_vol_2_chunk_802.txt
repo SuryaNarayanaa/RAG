@@ -1,0 +1,16 @@
+In contrast,
+hydrophilic hormones must interact with cell membrane receptors. These are typically associated with a G protein, which
+becomes activated when the hormone binds the receptor. This initiates a signaling cascade that involves a second messenger,
+such as cyclic adenosine monophosphate (cAMP). Second messenger systems greatly amplify the hormone signal, creating
+a broader, more efficient, and faster response.
+ Hormones are released upon stimulation that is of either chemical or neural origin. Regulation of hormone release is
+primarily achieved through negative feedback. Various stimuli may cause the release of hormones, but there are three major
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 17 | THE ENDOCRINE SYSTEM 731
+
+types. Humoral stimuli are changes in ion or nutrient levels in the blood. Hormonal stimuli are changes in hormone levels
+that initiate or inhibit the secretion of another hormone. Finally, a neural stimulus occurs when a nerve impulse prompts the
+secretion or inhibition of a hormone.
+

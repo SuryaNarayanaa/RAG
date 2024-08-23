@@ -1,0 +1,9 @@
+Hearing is tested by using a tuning fork in a couple of different ways. The Rinne test involves using a tuning fork
+to distinguish between conductive hearing and sensorineural hearing. Conductive hearing relies on vibrations being
+conducted through the ossicles of the middle ear. Sensorineural hearing is the transmission of sound stimuli through the
+neural components of the inner ear and cranial nerve. A vibrating tuning fork is placed on the mastoid process and the
+patient indicates when the sound produced from this is no longer present. Then the fork is immediately moved to just next to
+the ear canal so the sound travels through the air. If the sound is not heard through the ear, meaning the sound is conducted
+better through the temporal bone than through the ossicles, a conductive hearing deficit is present. The Weber test also uses
+a tuning fork to differentiate between conductive versus sensorineural hearing loss. In this test, the tuning fork is placed at
+the top of the skull, and the sound of the tuning fork reaches both inner ears by travelling through bone.

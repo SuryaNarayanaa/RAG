@@ -1,0 +1,13 @@
+Figure 14.20 Auditory Brain Stem Mechanisms of Sound Localization Localizing sound in the horizontal plane is
+achieved by processing in the medullary nuclei of the auditory system. Connections between neurons on either side
+are able to compare very slight differences in sound stimuli that arrive at either ear and represent interaural time and
+intensity differences.
+
+ Auditory processing continues on to a nucleus in the midbrain called the inferior colliculus. Axons from the inferior
+colliculus project to two locations, the thalamus and the superior colliculus. The medial geniculate nucleus of the
+thalamus receives the auditory information and then projects that information to the auditory cortex in the temporal lobe of
+the cerebral cortex. The superior colliculus receives input from the visual and somatosensory systems, as well as the ears,
+to initiate stimulation of the muscles that turn the head and neck toward the auditory stimulus.
+
+ Balance is coordinated through the vestibular system, the nerves of which are composed of axons from the vestibular
+ganglion that carries information from the utricle, saccule, and semicircular canals.

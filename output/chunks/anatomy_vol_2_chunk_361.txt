@@ -1,0 +1,12 @@
+This first fiber in
+the pathway synapses on a thalamic cell that then projects to the visual cortex in the occipital lobe where “seeing,” or
+visual perception, takes place. This video gives an abbreviated overview of the visual system by concentrating on the
+pathway from the eyes to the occipital lobe. The video makes the statement (at 0:45) that “specialized cells in the retina
+called ganglion cells convert the light rays into electrical signals.” What aspect of retinal processing is simplified by
+that statement? Explain your answer.
+
+ Sensory Nerves
+
+Once any sensory cell transduces a stimulus into a nerve impulse, that impulse has to travel along axons to reach the CNS.
+ In many of the special senses, the axons leaving the sensory receptors have a topographical arrangement, meaning that
+the location of the sensory receptor relates to the location of the axon in the nerve.

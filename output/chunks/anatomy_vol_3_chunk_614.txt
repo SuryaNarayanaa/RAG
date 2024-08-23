@@ -1,0 +1,18 @@
+@- Interactive LINK
+
+Watch this video (http://openstaxcollege.org/I/saltwater) to see an explanation of the effect of seawater on humans.
+ What effect does drinking seawater have on the body?
+
+Bicarbonate
+
+Bicarbonate is the second most abundant anion in the blood. Its principal function is to maintain your body’s acid-base
+balance by being part of buffer systems. This role will be discussed in a different section.
+
+ Bicarbonate ions result from a chemical reaction that starts with carbon dioxide (CO2) and water, two molecules that
+are produced at the end of aerobic metabolism. Only a small amount of CO2 can be dissolved in body fluids. Thus, over 90
+
+percent of the CO2 is converted into bicarbonate ions, HCO3 , through the following reactions:
+CO, +H,0 + H,CO; + H,CO3. +H*
+
+The bidirectional arrows indicate that the reactions can go in either direction, depending on the concentrations of the
+reactants and products.

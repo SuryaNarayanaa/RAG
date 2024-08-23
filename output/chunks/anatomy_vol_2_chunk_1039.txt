@@ -1,0 +1,14 @@
+Also note
+that the P waves are not followed
+by the QRS complex.
+
+ Question: What would you expect
+(e) Third-degree block to happen to heart rate (pulse)?
+
+ Figure 19.25 Common ECG Abnormalities (a) In a second-degree or partial block, one-half of the P waves
+are not followed by the QRS complex and T waves while the other half are. (b) In atrial fibrillation, the electrical
+pattern is abnormal prior to the QRS complex, and the frequency between the QRS complexes has increased.
+ (c) In ventricular tachycardia, the shape of the QRS complex is abnormal. (d) In ventricular fibrillation, there is no
+normal electrical activity. (e) In a third-degree block, there is no correlation between atrial activity (the P wave) and
+ventricular activity (the QRS complex).
+

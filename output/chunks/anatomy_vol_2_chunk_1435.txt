@@ -1,0 +1,13 @@
+Allergists use skin testing to identify allergens in type I hypersensitivity. In skin testing, allergen extracts are injected
+into the epidermis, and a positive result of a soft, pale swelling at the site surrounded by a red zone (called the wheal and
+flare response), caused by the release of histamine and the granule mediators, usually occurs within 30 minutes. The soft
+center is due to fluid leaking from the blood vessels and the redness is caused by the increased blood flow to the area that
+results from the dilation of local blood vessels at the site.
+
+ Type Il and Type Ill Hypersensitivities
+
+Type II hypersensitivity, which involves IgG-mediated lysis of cells by complement proteins, occurs during mismatched
+blood transfusions and blood compatibility diseases such as erythroblastosis fetalis (see section on transplantation). Type
+III hypersensitivity occurs with diseases such as systemic lupus erythematosus, where soluble antigens, mostly DNA and
+other material from the nucleus, and antibodies accumulate in the blood to the point that the antigen and antibody precipitate
+along blood vessel linings.

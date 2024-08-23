@@ -1,0 +1,14 @@
+Body fluids are aqueous solutions with differing concentrations of materials, called solutes.
+ An appropriate balance of water and solute concentrations must be maintained to ensure cellular functions. If the cytosol
+becomes too concentrated due to water loss, cell functions deteriorate. If the cytosol becomes too dilute due to water
+intake by cells, cell membranes can be damaged, and the cell can burst. Hydrostatic pressure is the force exerted by a fluid
+against a wall and causes movement of fluid between compartments. Fluid can also move between compartments along
+an osmotic gradient. Active transport processes require ATP to move some solutes against their concentration gradients
+between compartments. Passive transport of a molecule or ion depends on its ability to pass easily through the membrane,
+as well as the existence of a high to low concentration gradient.
+
+ 26.2 Water Balance
+
+Homeostasis requires that water intake and output be balanced. Most water intake comes through the digestive tract via
+liquids and food, but roughly 10 percent of water available to the body is generated at the end of aerobic respiration during
+cellular metabolism.

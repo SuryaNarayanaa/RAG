@@ -1,0 +1,10 @@
+The characteristics of the various neurotransmitter systems
+presented in this section are organized in Table 12.3.
+
+ The important thing to remember about neurotransmitters, and signaling chemicals in general, is that the effect is
+entirely dependent on the receptor. Neurotransmitters bind to one of two classes of receptors at the cell surface, ionotropic
+or metabotropic (Figure 12.28). lonotropic receptors are ligand-gated ion channels, such as the nicotinic receptor for
+acetylcholine or the glycine receptor. A metabotropic receptor involves a complex of proteins that result in metabolic
+changes within the cell. The receptor complex includes the transmembrane receptor protein, a G protein, and an effector
+protein. The neurotransmitter, referred to as the first messenger, binds to the receptor protein on the extracellular surface of
+the cell, and the intracellular side of the protein initiates activity of the G protein.

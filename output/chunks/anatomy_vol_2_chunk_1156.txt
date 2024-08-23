@@ -1,0 +1,26 @@
+In this graph, a blood pressure tracing is aligned to a measurement of systolic and
+diastolic pressures.
+
+ The majority of hospitals and clinics have automated equipment for measuring blood pressure that work on the same
+principles. An even more recent innovation is a small instrument that wraps around a patient’s wrist. The patient then holds
+the wrist over the heart while the device measures blood flow and records pressure.
+
+ Variables Affecting Blood Flow and Blood Pressure
+
+Five variables influence blood flow and blood pressure:
+
+* Cardiac output
+
+¢ Compliance
+
+* Volume of the blood
+
+¢ Viscosity of the blood
+
+* Blood vessel length and diameter
+
+Recall that blood moves from higher pressure to lower pressure. It is pumped from the heart into the arteries at high
+
+pressure. If you increase pressure in the arteries (afterload), and cardiac function does not compensate, blood flow will
+actually decrease. In the venous system, the opposite relationship is true. Increased pressure in the veins does not decrease
+flow as it does in arteries, but actually increases flow.

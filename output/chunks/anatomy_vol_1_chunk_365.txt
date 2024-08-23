@@ -1,0 +1,13 @@
+A variety of enzymes are enlisted during DNA replication. These enzymes unwind the DNA molecule,
+separate the two strands, and assist with the building of complementary strands along each parent strand. The original
+DNA strands serve as templates from which the nucleotide sequence of the new strands are determined and synthesized.
+ When replication is completed, two identical DNA molecules exist. Each one contains one original strand and one newly
+synthesized complementary strand.
+
+ 3.4 Protein Synthesis
+
+DNA stores the information necessary for instructing the cell to perform all of its functions. Cells use the genetic code
+stored within DNA to build proteins, which ultimately determine the structure and function of the cell. This genetic code
+lies in the particular sequence of nucleotides that make up each gene along the DNA molecule. To “read” this code, the
+cell must perform two sequential steps. In the first step, transcription, the DNA code is converted into a RNA code. A
+molecule of messenger RNA that is complementary to a specific gene is synthesized in a process similar to DNA replication.

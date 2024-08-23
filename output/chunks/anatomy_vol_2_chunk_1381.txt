@@ -1,0 +1,33 @@
+942 CHAPTER 21| THE LYMPHATIC AND IMMUNE SYSTEM
+
+Classes of Antigen-presenting Cells
+
+Cell
+type
+
+MHC Phagocytic? Function
+
+Class | Stimulates cytotoxic T cell immune response
+
+Stimulates phagocytosis and presentation at primary
+
+Class Il infection site
+
+Macrophage | Yes
+
+Class II | Dendritic Yes, in tissues Brings antigens to regional lymph nodes
+
+Yes, internalizes surface Ig and
+
+Class Il |B cell ‘
+antigen
+
+Stimulates antibody secretion by B cells
+
+Table 21.4
+
+T Cell Development and Differentiation
+
+The process of eliminating T cells that might attack the cells of one’s own body is referred to as T cell tolerance. While
+thymocytes are in the cortex of the thymus, they are referred to as “double negatives,” meaning that they do not bear the
+CD4 or CD8 molecules that you can use to follow their pathways of differentiation (Figure 21.18).

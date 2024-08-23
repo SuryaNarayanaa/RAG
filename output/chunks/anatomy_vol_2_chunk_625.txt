@@ -1,0 +1,10 @@
+Testing this reflex can illustrate whether the optic nerve or the oculomotor nerve is damaged. If
+shining the light in one eye results in no changes in pupillary size but shining light in the opposite eye elicits a normal,
+bilateral response, the damage is associated with the optic nerve on the nonresponsive side. If light in either eye elicits
+a response in only one eye, the problem is with the oculomotor system.
+
+ If light in the right eye only causes the left pupil to constrict, the direct reflex is lost and the consensual reflex is
+intact, which means that the right oculomotor nerve (or Eddinger—Westphal nucleus) is damaged. Damage to the right
+oculomotor connections will be evident when light is shined in the left eye. In that case, the direct reflex is intact but
+the consensual reflex is lost, meaning that the left pupil will constrict while the right does not.
+

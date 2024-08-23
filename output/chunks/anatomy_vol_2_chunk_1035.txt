@@ -1,0 +1,16 @@
+Each segment of an ECG tracing corresponds to one event in
+the cardiac cycle.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART 809
+
+Everyday CONNECTION
+
+ECG Abnormalities
+
+Occassionally, an area of the heart other than the SA node will initiate an impulse that will be followed by a premature
+contraction. Such an area, which may actually be a component of the conduction system or some other contractile
+cells, is known as an ectopic focus or ectopic pacemaker. An ectopic focus may be stimulated by localized ischemia;
+exposure to certain drugs, including caffeine, digitalis, or acetylcholine; elevated stimulation by both sympathetic
+or parasympathetic divisions of the autonomic nervous system; or a number of disease or pathological conditions.

@@ -1,0 +1,12 @@
+Collateral branches of these fibers synapse on neurons in the pons, which then project into the cerebellar cortex
+through the middle cerebellar peduncles. Ascending sensory feedback, entering through the inferior cerebellar peduncles,
+provides information about motor performance. The cerebellar cortex compares the command to the actual performance and
+can adjust the descending input to compensate for any mismatch. The output from deep cerebellar nuclei projects through
+the superior cerebellar peduncles to initiate descending signals from the red nucleus to the spinal cord.
+
+ The primary role of the cerebellum in relation to the spinal cord is through the spinocerebellum; it controls posture and
+gait with significant input from the vestibular system. Deficits in cerebellar function result in ataxias, or a specific kind of
+movement disorder. The root cause of the ataxia may be the sensory input—either the proprioceptive input from the spinal
+cord or the equilibrium input from the vestibular system, or direct damage to the cerebellum by stroke, trauma, hereditary
+factors, or toxins.
+

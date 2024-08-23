@@ -1,0 +1,21 @@
+* Step 2: The cells produce bicarbonate ions that can be shunted to peritubular capillaries.
+
+ ¢ Step 3: When CO? is available, the reaction is driven to the formation of carbonic acid, which dissociates to form a
+bicarbonate ion and a hydrogen ion.
+
+ * Step 4: The bicarbonate ion passes into the peritubular capillaries and returns to the blood. The hydrogen ion is secreted
+into the filtrate, where it can become part of new water molecules and be reabsorbed as such, or removed in the urine.
+
+ Lumen of Proximal
+proximal tubule tubule cell Bloodstream
+
+HCO; +
+
+Carbonic  H2CO3
+anhydrase
+enzyme
+
+H20 ap
+
+Figure 26.17 Conservation of Bicarbonate in the Kidney Tubular cells are not permeable to bicarbonate; thus,
+bicarbonate is conserved rather than reabsorbed.

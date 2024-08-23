@@ -1,0 +1,13 @@
+Nevertheless, both ventricles pump the same amount of blood. This quantity is referred to as
+stroke volume. Stroke volume will normally be in the range of 70-80 mL. Since ventricular systole began with an EDV
+of approximately 130 mL of blood, this means that there is still 50-60 mL of blood remaining in the ventricle following
+contraction. This volume of blood is known as the end systolic volume (ESV).
+
+ Ventricular Diastole
+
+Ventricular relaxation, or diastole, follows repolarization of the ventricles and is represented by the T wave of the ECG. It
+too is divided into two distinct phases and lasts approximately 430 ms.
+
+ During the early phase of ventricular diastole, as the ventricular muscle relaxes, pressure on the remaining blood within
+the ventricle begins to fall. When pressure within the ventricles drops below pressure in both the pulmonary trunk and aorta,
+blood flows back toward the heart, producing the dicrotic notch (small dip) seen in blood pressure tracings.

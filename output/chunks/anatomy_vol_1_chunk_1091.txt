@@ -1,0 +1,13 @@
+T-tubules are not required to reach the interior of the cell and therefore not necessary to
+transmit an action potential deep into the fiber. Smooth muscle fibers have a limited calcium-storing SR but have calcium
+channels in the sarcolemma (similar to cardiac muscle fibers) that open during the action potential along the sarcolemma.
+
+ The influx of extracellular Ca** ions, which diffuse into the sarcoplasm to reach the calmodulin, accounts for most of the
+Ca‘* that triggers contraction of a smooth muscle cell.
+
+ Muscle contraction continues until ATP-dependent calcium pumps actively transport Ca** ions back into the SR and
+out of the cell. However, a low concentration of calcium remains in the sarcoplasm to maintain muscle tone. This remaining
+calcium keeps the muscle slightly contracted, which is important in certain tracts and around blood vessels.
+
+ Because most smooth muscles must function for long periods without rest, their power output is relatively low, but
+contractions can continue without using large amounts of energy.

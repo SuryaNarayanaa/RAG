@@ -1,0 +1,12 @@
+The trajectory of the ball and its speed
+will need to be considered. Maybe the count is three balls and one strike, and the batter wants to let this pitch go by in the
+hope of getting a walk to first base. Or maybe the batter’s team is so far ahead, it would be fun to just swing away.
+
+ Controlling the Body
+
+The nervous system can be divided into two parts mostly on the basis of a functional difference in responses. The somatic
+nervous system (SNS) is responsible for conscious perception and voluntary motor responses. Voluntary motor response
+means the contraction of skeletal muscle, but those contractions are not always voluntary in the sense that you have to want
+to perform them. Some somatic motor responses are reflexes, and often happen without a conscious decision to perform
+them. If your friend jumps out from behind a corner and yells “Boo!” you will be startled and you might scream or leap
+back.

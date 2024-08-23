@@ -1,0 +1,19 @@
+Anaerobic Respiration
+
+CHAPTER 24 | METABOLISM AND NUTRITION 1089
+
+later for the synthesis of glucose through
+
+When oxygen is limited or absent, pyruvate enters an anaerobic pathway. In these reactions, pyruvate can be converted
+into lactic acid. In addition to generating an additional ATP, this pathway serves to keep the pyruvate concentration low
+
+so glycolysis continues, and it oxidizes NADH into the NAD” needed by glycolysis. In this reaction, lactic acid replaces
+
+oxygen as the final electron acceptor. Anaerobic respiration occurs in most ce
+
+ls of the body when oxygen is limited or
+
+mitochondria are absent or nonfunctional. For example, because erythrocytes (red blood cells) lack mitochondria, they must
+produce their ATP from anaerobic respiration. This is an effective pathway of ATP production for short periods of time,
+ranging from seconds to a few minutes. The lactic acid produced diffuses into the plasma and is carried to the liver, where
+it is converted back into pyruvate or glucose via the Cori cycle.

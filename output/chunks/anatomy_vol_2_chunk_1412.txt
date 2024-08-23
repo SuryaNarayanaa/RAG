@@ -1,0 +1,15 @@
+Watch this video
+(http://openstaxcollege.org/l/immunity) to see an animated discussion of passive and active immunity. What is an
+example of natural immunity acquired passively?
+
+T cell-dependent versus T cell-independent Antigens
+
+As discussed previously, Th2 cells secrete cytokines that drive the production of antibodies in a B cell, responding to
+complex antigens such as those made by proteins. On the other hand, some antigens are T cell independent. A T cell-
+independent antigen usually is in the form of repeated carbohydrate moieties found on the cell walls of bacteria. Each
+antibody on the B cell surface has two binding sites, and the repeated nature of T cell-independent antigen leads to
+crosslinking of the surface antibodies on the B cell. The crosslinking is enough to activate it in the absence of T cell
+cytokines.
+
+ A T cell-dependent antigen, on the other hand, usually is not repeated to the same degree on the pathogen and thus
+does not crosslink surface antibody with the same efficiency.

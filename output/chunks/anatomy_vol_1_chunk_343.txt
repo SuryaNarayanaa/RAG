@@ -1,0 +1,9 @@
+Mechanisms of Cell Cycle Control
+
+As the cell proceeds through its cycle, each phase involves certain processes that must be completed before the cell should
+advance to the next phase. A checkpoint is a point in the cell cycle at which the cycle can be signaled to move forward or
+stopped. At each of these checkpoints, different varieties of molecules provide the stop or go signals, depending on certain
+conditions within the cell. A cyclin is one of the primary classes of cell cycle control molecules (Figure 3.33). A cyclin-
+dependent kinase (CDK) is one of a group of molecules that work together with cyclins to determine progression past cell
+checkpoints. By interacting with many additional molecules, these triggers push the cell cycle forward unless prevented
+from doing so by “stop” signals, if for some reason the cell is not ready.

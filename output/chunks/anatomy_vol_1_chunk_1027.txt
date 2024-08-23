@@ -1,0 +1,12 @@
+At the NMJ, the axon terminal releases a chemical messenger, or
+neurotransmitter, called acetylcholine (ACh). The ACh molecules diffuse across a minute space called the synaptic cleft
+and bind to ACh receptors located within the motor end-plate of the sarcolemma on the other side of the synapse. Once
+ACh binds, a channel in the ACh receptor opens and positively charged ions can pass through into the muscle fiber, causing
+it to depolarize, meaning that the membrane potential of the muscle fiber becomes less negative (closer to zero.)
+
+ As the membrane depolarizes, another set of ion channels called voltage-gated sodium channels are triggered to open.
+ Sodium ions enter the muscle fiber, and an action potential rapidly spreads (or “fires”) along the entire membrane to initiate
+excitation-contraction coupling.
+
+ Things happen very quickly in the world of excitable membranes (just think about how quickly you can snap your
+fingers as soon as you decide to do it).

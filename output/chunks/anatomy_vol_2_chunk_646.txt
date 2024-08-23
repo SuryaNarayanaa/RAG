@@ -1,0 +1,12 @@
+This means that the sensory deficits will be based on the particular sensory information each pathway conveys. Sensory
+discrimination between touch and painful stimuli will illustrate the difference in how these pathways divide these
+functions.
+
+ On the paralyzed leg, a patient will acknowledge painful stimuli, but not fine touch or proprioceptive sensations.
+ On the functional leg, the opposite is true. The reason for this is that the dorsal column pathway ascends ipsilateral
+to the sensation, so it would be damaged the same way as the lateral corticospinal tract. The spinothalamic pathway
+decussates immediately upon entering the spinal cord and ascends contralateral to the source; it would therefore bypass
+the hemisection.
+
+ The motor system can indicate the loss of input to the ventral horn in the lumbar enlargement where motor neurons
+to the leg are found, but motor function in the trunk is less clear.

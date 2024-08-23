@@ -1,0 +1,21 @@
+This response is called wave
+summation, because the excitation-contraction coupling effects of successive motor neuron signaling is summed, or added
+together (Figure 10.16a). At the molecular level, summation occurs because the second stimulus triggers the release of
+
+more Ca** ions, which become available to activate additional sarcomeres while the muscle is still contracting from the
+first stimulus. Summation results in greater contraction of the motor unit.
+
+ 395
+
+396 CHAPTER 10 | MUSCLE TISSUE
+
+Tension ——>
+
+Tension
+
+Time ——————> ———— Time ————>>
+
+(a) Wave summation (b) Tetanus
+
+Figure 10.16 Wave Summation and Tetanus (a) The excitation-contraction coupling effects of successive motor
+neuron signaling is added together which is referred to as wave summation.

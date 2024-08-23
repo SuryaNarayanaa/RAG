@@ -1,0 +1,12 @@
+Inside the nucleus lies the blueprint that dictates everything a cell will do and all of the products it will make. This
+information is stored within DNA. The nucleus sends “commands” to the cell via molecular messengers that translate the
+information from DNA. Each cell in your body (with the exception of germ cells) contains the complete set of your DNA.
+ When a cell divides, the DNA must be duplicated so that the each new cell receives a full complement of DNA. The
+following section will explore the structure of the nucleus and its contents, as well as the process of DNA replication.
+
+ Organization of the Nucleus and Its DNA
+
+Like most other cellular organelles, the nucleus is surrounded by a membrane called the nuclear envelope. This
+membranous covering consists of two adjacent lipid bilayers with a thin fluid space in between them. Spanning these two
+bilayers are nuclear pores. A nuclear pore is a tiny passageway for the passage of proteins, RNA, and solutes between the
+nucleus and the cytoplasm.

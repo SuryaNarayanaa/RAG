@@ -1,0 +1,13 @@
+A single contraction is called a twitch. A muscle
+twitch has a latent period, a contraction phase, and a relaxation phase. A graded muscle response allows variation in muscle
+tension. Summation occurs as successive stimuli are added together to produce a stronger muscle contraction. Tetanus is the
+‘usion of contractions to produce a continuous contraction. Increasing the number of motor neurons involved increases the
+amount of motor units activated in a muscle, which is called recruitment. Muscle tone is the constant low-level contractions
+that allow for posture and stability.
+
+10.5 Types of Muscle Fibers
+
+ATP provides the energy for muscle contraction. The three mechanisms for ATP regeneration are creatine phosphate,
+anaerobic glycolysis, and aerobic metabolism. Creatine phosphate provides about the first 15 seconds of ATP at the
+beginning of muscle contraction. Anaerobic glycolysis produces small amounts of ATP in the absence of oxygen for a short
+period. Aerobic metabolism utilizes oxygen to produce much more ATP, allowing a muscle to work for longer periods.

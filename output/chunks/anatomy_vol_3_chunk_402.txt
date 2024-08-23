@@ -1,0 +1,11 @@
+The convection currents created by the temperature changes continue to draw heat away from the body
+more quickly than the body can replace it, resulting in hyperthermia. About 15 percent of the body’s heat is lost through
+convection.
+
+ Radiation is the transfer of heat via infrared waves. This occurs between any two objects when their temperatures
+differ. A radiator can warm a room via radiant heat. On a sunny day, the radiation from the sun warms the skin. The same
+principle works from the body to the environment. About 60 percent of the heat lost by the body is lost through radiation.
+
+ Evaporation is the transfer of heat by the evaporation of water. Because it takes a great deal of energy for a water
+molecule to change from a liquid to a gas, evaporating water (in the form of sweat) takes with it a great deal of energy
+from the skin.

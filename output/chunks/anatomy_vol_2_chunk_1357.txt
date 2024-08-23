@@ -1,0 +1,13 @@
+Recognition of Pathogens
+
+Cells of the innate immune response, the phagocytic cells, and the cytotoxic NK cells recognize patterns of pathogen-
+specific molecules, such as bacterial cell wall components or bacterial flagellar proteins, using pattern recognition receptors.
+ A pattern recognition receptor (PRR) is a membrane-bound receptor that recognizes characteristic features of a pathogen
+and molecules released by stressed or damaged cells.
+
+ These receptors, which are thought to have evolved prior to the adaptive immune response, are present on the cell
+surface whether they are needed or not. Their variety, however, is limited by two factors. First, the fact that each receptor
+type must be encoded by a specific gene requires the cell to allocate most or all of its DNA to make receptors able to
+recognize all pathogens. Secondly, the variety of receptors is limited by the finite surface area of the cell membrane. Thus,
+the innate immune system must “get by” using only a limited number of receptors that are active against as wide a variety
+of pathogens as possible.

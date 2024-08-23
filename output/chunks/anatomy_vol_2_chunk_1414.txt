@@ -1,0 +1,14 @@
+To become fully activated, the B cell must receive two signals from the native antigen and the T cell's
+cytokines.
+
+21.5 | The Immune Response against Pathogens
+
+By the end of this section, you will be able to:
+ ¢ Explain the development of immunological competence
+¢ Describe the mucosal immune response
+¢ Discuss immune responses against bacterial, viral, fungal, and animal pathogens
+
+* Describe different ways pathogens evade immune responses
+
+Now that you understand the development of mature, naive B cells and T cells, and some of their major functions, how do all
+of these various cells, proteins, and cytokines come together to actually resolve an infection?

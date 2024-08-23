@@ -1,0 +1,10 @@
+The initial tests of orientation are based on the questions, “Do you know what the date is?” or “Do
+you know where you are?” or “What is your name?” Further understanding of a patient’s awareness of orientation can come
+from questions that address remote memory, such as “Who is the President of the United States?”, or asking what happened
+on a specific date.
+ There are also specific tasks to address memory. One is the three-word recall test. The patient is given three words to
+recall, such as book, clock, and shovel. After a short interval, during which other parts of the interview continue, the patient
+is asked to recall the three words. Other tasks that assess memory—aside from those related to orientation—have the patient
+recite the months of the year in reverse order to avoid the overlearned sequence and focus on the memory of the months in
+an order, or to spell common words backwards, or to recite a list of numbers back.
+

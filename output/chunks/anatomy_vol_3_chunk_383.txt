@@ -1,0 +1,14 @@
+These transporters bind sodium and then bind the amino acid to transport it across the membrane. At the basa
+surface of the mucosal cells, the sodium and amino acid are released. The sodium can be reused in the transporter, whereas
+the amino acids are transferred into the bloodstream to be transported to the liver and cells throughout the body for protein
+synthesis.
+
+ Freely available amino acids are used to create proteins. If amino acids exist in excess, the body has no capacity
+or mechanism for their storage; thus, they are converted into glucose or ketones, or they are decomposed. Amino acid
+decomposition results in hydrocarbons and nitrogenous waste. However, high concentrations of nitrogen are toxic. The urea
+cycle processes nitrogen and facilitates its excretion from the body.
+
+ Urea Cycle
+
+The urea cycle is a set of biochemical reactions that produces urea from ammonium ions in order to prevent a toxic level
+of ammonium in the body.

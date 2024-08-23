@@ -1,0 +1,13 @@
+Acetyl CoA is used to create lipids, triglycerides, steroid
+hormones, cholesterol, and bile salts. Lipolysis is the breakdown of triglycerides into glycerol and fatty acids, making them
+easier for the body to process.
+
+ 24.4 Protein Metabolism
+
+Digestion of proteins begins in the stomach, where HCl and pepsin begin the process of breaking down proteins into their
+constituent amino acids. As the chyme enters the small intestine, it mixes with bicarbonate and digestive enzymes. The
+bicarbonate neutralizes the acidic HCl, and the digestive enzymes break down the proteins into smaller peptides and amino
+acids. Digestive hormones secretin and CCK are released from the small intestine to aid in digestive processes, and digestive
+proenzymes are released from the pancreas (trypsinogen and chymotrypsinogen). Enterokinase, an enzyme located in the
+wall of the small intestine, activates trypsin, which in turn activates chymotrypsin. These enzymes liberate the individual
+amino acids that are then transported via sodium-amino acid transporters across the intestinal wall into the cell.

@@ -1,0 +1,30 @@
+Partial Table of Alleles of the Human MHC (Class 1)
+
+Gene # of alleles # of possible MHC | protein components
+
+A 2132 1527
+
+B |2798 2110
+Cc |1672 1200
+
+E 11 3
+
+Table 21.8
+
+
+960 CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM
+
+Partial Table of Alleles of the Human MHC (Class 1)
+
+Gene # of alleles # of possible MHC | protein components
+
+F 22 4
+G 50 16
+Table 21.8
+
+Partial Table of Alleles of the Human MHC (Class II)
+
+Gene # of alleles # of possible MHC II protein components
+
+DRA 7 2
+DRB 1297 958

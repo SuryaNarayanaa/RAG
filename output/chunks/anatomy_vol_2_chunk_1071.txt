@@ -1,0 +1,12 @@
+Similarly, baroreceptors are stretch receptors located in the aortic sinus, carotid bodies, the venae cavae, and other
+locations, including pulmonary vessels and the right side of the heart itself. Rates of firing from the baroreceptors
+represent blood pressure, level of physical activity, and the relative distribution of blood. The cardiac centers monitor
+baroreceptor firing to maintain cardiac homeostasis, a mechanism called the baroreceptor reflex. With increased pressure
+and stretch, the rate of baroreceptor firing increases, and the cardiac centers decrease sympathetic stimulation and increase
+parasympathetic stimulation. As pressure and stretch decrease, the rate of baroreceptor firing decreases, and the cardiac
+centers increase sympathetic stimulation and decrease parasympathetic stimulation.
+
+ There is a similar reflex, called the atrial reflex or Bainbridge reflex, associated with varying rates of blood flow to
+the atria. Increased venous return stretches the walls of the atria where specialized baroreceptors are located. However, as
+the atrial baroreceptors increase their rate of firing and as they stretch due to the increased blood pressure, the cardiac center
+responds by increasing sympathetic stimulation and inhibiting parasympathetic stimulation to increase HR.

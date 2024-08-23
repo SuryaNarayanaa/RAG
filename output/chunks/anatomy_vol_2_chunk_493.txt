@@ -1,0 +1,14 @@
+Axon from parasympathetic postsynaptic neuron
+Sensory nerves
+
+Figure 15.9 Autonomic Control of Pupillary Size Activation of the pupillary reflex comes from the amount of light
+activating the retinal ganglion cells, as sent along the optic nerve. The output of the sympathetic system projects
+through the superior cervical ganglion, whereas the parasympathetic system originates out of the midbrain and projects
+through the oculomotor nerve to the ciliary ganglion, which then projects to the iris. The postganglionic fibers of
+either division release neurotransmitters onto the smooth muscles of the iris to cause changes in the pupillary size.
+ Norepinephrine results in dilation and ACh results in constriction.
+
+ In this example, the autonomic system is controlling how much light hits the retina. It is a homeostatic reflex
+mechanism that keeps the activation of photoreceptors within certain limits. In the context of avoiding a threat like the
+lioness on the savannah, the sympathetic response for fight or flight will increase pupillary diameter so that more light
+hits the retina and more visual information is available for running away.

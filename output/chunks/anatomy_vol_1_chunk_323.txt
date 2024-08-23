@@ -1,0 +1,20 @@
+This process is called transcription because the mRNA is like a transcript, or copy, 0
+the gene’s DNA code. Transcription begins in a fashion somewhat like DNA replication, in that a region of DNA unwinds
+and the two strands separate, however, only that small portion of the DNA will be split apart. The triplets within the gene on
+this section of the DNA molecule are used as the template to transcribe the complementary strand of RNA (Figure 3.26). A
+codon is a three-base sequence of mRNA, so-called because they directly encode amino acids. Like DNA replication, there
+are three stages to transcription: initiation, elongation, and termination.
+
+
+ 110 CHAPTER 3 | THE CELLULAR LEVEL OF ORGANIZATION
+
+ATGACGGATCAGCCGCAA
+UACUGCCUAGUCGGCGUU
+
+RNA Transcript
+
+TACTGCCTAGTCGGCGTTCGCCTTAACCGCTGTATT
+
+Figure 3.26 Transcription: from DNA to mRNA In the first of the two stages of making protein from DNA, a gene on
+the DNA molecule is transcribed into a complementary MRNA molecule.
+

@@ -1,0 +1,11 @@
+Water as a Component of Liquid Mixtures
+
+A mixture is a combination of two or more substances, each of which maintains its own chemical identity. In other
+words, the constituent substances are not chemically bonded into a new, larger chemical compound. The concept is easy
+to imagine if you think of powdery substances such as flour and sugar; when you stir them together in a bowl, they
+obviously do not bond to form a new compound. The room air you breathe is a gaseous mixture, containing three discrete
+elements—nitrogen, oxygen, and argon—and one compound, carbon dioxide. There are three types of liquid mixtures, all
+of which contain water as a key component. These are solutions, colloids, and suspensions.
+
+ For cells in the body to survive, they must be kept moist in a water-based liquid called a solution. In chemistry, a liquid
+solution consists of a solvent that dissolves a substance called a solute.

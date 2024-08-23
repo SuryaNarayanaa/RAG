@@ -1,0 +1,9 @@
+Moreover, the secretions of exocrine glands
+are not hormones, but compounds that have an immediate physiologic function. For example, pancreatic juice contains enzymes
+that help digest food. 40 True. Neurotransmitters can be classified as paracrines because, upon their release from a neuron’s
+axon terminals, they travel across a microscopically small cleft to exert their effect on a nearby neuron or muscle cell. 41 In
+both cAMP and IP3-calcium signaling, a hormone binds to a cell membrane hormone receptor that is coupled to a G protein.
+ The G protein becomes activated when the hormone binds. In the case of cAMP signaling, the activated G protein activates
+adenylyl cyclase, which causes ATP to be converted to cAMP. This second messenger can then initiate other signaling events,
+such as a phosphorylation cascade. In the case of IP3—calcium signaling, the activated G protein activates phospholipase C, which
+cleaves a membrane phospholipid compound into DAG and IP3.

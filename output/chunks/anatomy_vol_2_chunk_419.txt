@@ -1,0 +1,10 @@
+In response to this stimulation from the sensory neuron,
+the interneuron then inhibits the motor neuron that controls the triceps brachii. This is done by releasing a neurotransmitter
+or other signal that hyperpolarizes the motor neuron connected to the triceps brachii, making it less likely to initiate an
+action potential. With this motor neuron being inhibited, the triceps brachii relaxes. Without the antagonistic contraction,
+withdrawal from the hot stove is faster and keeps further tissue damage from occurring.
+
+ Another example of a withdrawal reflex occurs when you step on a painful stimulus, like a tack or a sharp rock.
+ The nociceptors that are activated by the painful stimulus activate the motor neurons responsible for contraction of the
+tibialis anterior muscle. This causes dorsiflexion of the foot. An inhibitory interneuron, activated by a collateral branch of
+the nociceptor fiber, will inhibit the motor neurons of the gastrocnemius and soleus muscles to cancel plantar flexion.

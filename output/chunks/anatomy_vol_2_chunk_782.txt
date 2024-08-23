@@ -1,0 +1,14 @@
+This is in turn the initial trigger for insulin
+production and secretion by the beta cells of the pancreas. Once nutrient absorption occurs, the resulting surge in blood
+glucose levels further stimulates insulin secretion.
+
+ Precisely how insulin facilitates glucose uptake is not entirely clear. However, insulin appears to activate a tyrosine
+kinase receptor, triggering the phosphorylation of many substrates within the cell. These multiple biochemical reactions
+converge to support the movement of intracellular vesicles containing facilitative glucose transporters to the cell membrane.
+ In the absence of insulin, these transport proteins are normally recycled slowly between the cell membrane and cell interior.
+ Insulin triggers the rapid movement of a pool of glucose transporter vesicles to the cell membrane, where they fuse and
+expose the glucose transporters to the extracellular fluid. The transporters then move glucose by facilitated diffusion into
+the cell interior.
+
+ Visit this link (http://openstaxcollege.org/l/pancreas1) to view an animation describing the location and function of
+the pancreas.

@@ -1,0 +1,26 @@
+Nucleus
+
+Mitochondrion
+Sarcolemma
+
+Sarcoplasmic Sarcomere
+reticulum
+
+/~ 7
+Thin (actin) — | 1 / 5 Thick (myosin )
+filament Z disc H zone a filament
+
+| band A band | band M line
+
+Figure 10.4 Muscle Fiber A skeletal muscle fiber is surrounded by a plasma membrane called the sarcolemma,
+which contains sarcoplasm, the cytoplasm of muscle cells. A muscle fiber is composed of many fibrils, which give the
+cell its striated appearance.
+
+ The Sarcomere
+
+The striated appearance of skeletal muscle fibers is due to the arrangement of the myofilaments of actin and myosin in
+sequential order from one end of the muscle fiber to the other. Each packet of these microfilaments and their regulatory
+proteins, troponin and tropomyosin (along with other proteins) is called a sarcomere.
+
+Watch this video (http://openstaxcollege.org/l/micromacro) to learn more about macro- and microstructures of
+skeletal muscles.

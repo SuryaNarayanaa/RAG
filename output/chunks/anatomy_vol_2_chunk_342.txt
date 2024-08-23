@@ -1,0 +1,67 @@
+The types of nerve endings, their locations, and the stimuli they
+transduce are presented in Table 14.1.
+
+ Mechanoreceptors of Somatosensation
+
+Historical
+Name (eponymous) Location(s) Stimuli
+name
+Free nerve * Dermis, cornea, tongue, joint Pain, temperature, mechanical
+endings capsules, visceral organs deformation
+Mechanoreceptors | Merkel’s discs Epidermal—dermal junction, Low frequency vibration (5-15
+
+mucosal membranes
+
+Hz)
+
+Bulbous corpuscle
+
+Ruffini’s corpuscle
+
+Dermis, joint capsules
+
+Stretch
+
+Tactile corpuscle
+
+Meissner’s corpuscle
+
+Papillary dermis, especially in
+the fingertips and lips
+
+Light touch, vibrations below 50
+Hz
+
+Lamellated
+corpuscle
+
+Hair follicle plexus
+
+Pacinian corpuscle
+
+Deep dermis, subcutaneous
+tissue
+
+Wrapped around hair follicles in
+the dermis
+
+Deep pressure, high-frequency
+vibration (around 250 Hz)
+
+Movement of hair
+
+Muscle spindle
+
+In line with skeletal muscle
+fibers
+
+Muscle contraction and stretch
+
+Tendon stretch
+organ
+
+Golgi tendon organ
+
+In line with tendons
+
+Table 14.1 *

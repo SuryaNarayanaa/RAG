@@ -1,0 +1,13 @@
+In the
+diencephalon, sensory pathways reach the thalamus. This is necessary for all sensory systems to reach the cerebral cortex,
+except for the olfactory system that is directly connected to the frontal and temporal lobes.
+
+ The two major tracts in the spinal cord, originating from sensory neurons in the dorsal root ganglia, are the dorsal
+column system and the spinothalamic tract. The major differences between the two are in the type of information that is
+relayed to the brain and where the tracts decussate. The dorsal column system primarily carries information about touch
+and proprioception and crosses the midline in the medulla. The spinothalamic tract is primarily responsible for pain and
+temperature sensation and crosses the midline in the spinal cord at the level at which it enters. The trigeminal nerve adds
+similar sensation information from the head to these pathways.
+
+ The auditory pathway passes through multiple nuclei in the brain stem in which additional information is extracted
+from the basic frequency stimuli processed by the cochlea.

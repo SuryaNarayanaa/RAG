@@ -1,0 +1,11 @@
+These amino acids have an amino group and a carboxyl group in
+their chemical structures. Glutamate is one of the 20 amino acids that are used to make proteins. Each amino acid
+neurotransmitter would be part of its own system, namely the glutamatergic, GABAergic, and glycinergic systems. They
+each have their own receptors and do not interact with each other. Amino acid neurotransmitters are eliminated from the
+synapse by reuptake. A pump in the cell membrane of the presynaptic element, or sometimes a neighboring glial cell, will
+clear the amino acid from the synaptic cleft so that it can be recycled, repackaged in vesicles, and released again.
+
+ Another class of neurotransmitter is the biogenic amine, a group of neurotransmitters that are enzymatically made
+from amino acids. They have amino groups in them, but no longer have carboxyl groups and are therefore no longer
+classified as amino acids. Serotonin is made from tryptophan. It is the basis of the serotonergic system, which has its own
+specific receptors.

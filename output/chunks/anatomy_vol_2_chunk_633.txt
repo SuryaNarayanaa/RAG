@@ -1,0 +1,11 @@
+The patient would be asked in what direction the stimulus is moving. All of these tests are
+repeated in distal and proximal locations and for different dermatomes to assess the spatial specificity of perception. The
+sense of position and motion, proprioception, is tested by moving the fingers or toes and asking the patient if they sense the
+movement. If the distal locations are not perceived, the test is repeated at increasingly proximal joints.
+
+ The various stimuli used to test sensory input assess the function of the major ascending tracts of the spinal cord.
+ The dorsal column pathway conveys fine touch, vibration, and proprioceptive information, whereas the spinothalamic
+pathway primarily conveys pain and temperature. Testing these stimuli provides information about whether these two major
+ascending pathways are functioning properly. Within the spinal cord, the two systems are segregated. The dorsal column
+information ascends ipsilateral to the source of the stimulus and decussates in the medulla, whereas the spinothalamic
+pathway decussates at the level of entry and ascends contralaterally.

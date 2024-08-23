@@ -1,0 +1,25 @@
+J \
+
+Megakaryocyte Erythrocyte Basophil Neutrophil Eosinophil Monocyte &
+
+T lymphocyte —B lymphocyte
+
+N/
+
+Platelets
+
+Figure 18.4 Hematopoietic System of Bone Marrow Hemopoiesis is the proliferation and differentiation of the
+formed elements of blood.
+
+ Lymphoid and myeloid stem cells do not immediately divide and differentiate into mature formed elements. As
+you can see in Figure 18.4, there are several intermediate stages of precursor cells (literally, forerunner cells), many of
+which can be recognized by their names, which have the suffix -blast. For instance, megakaryoblasts are the precursors
+of megakaryocytes, and proerythroblasts become reticulocytes, which eject their nucleus and most other organelles before
+maturing into erythrocytes.
+
+ Hemopoietic Growth Factors
+
+Development from stem cells to precursor cells to mature cells is again initiated by hemopoietic growth factors. These
+include the following:
+¢ Erythropoietin (EPO) is a glycoprotein hormone secreted by the interstitial fibroblast cells of the kidneys in response
+to low oxygen levels.

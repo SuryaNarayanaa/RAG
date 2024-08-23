@@ -1,0 +1,17 @@
+Cells in a hypertonic solution will shrivel as water leaves the cell via osmosis. In contrast,
+a solution that has a lower concentration of solutes than another solution is said to be hypotonic, and water molecules tend
+to diffuse out of a hypotonic solution. Cells in a hypotonic solution will take on too much water and swell, with the risk of
+eventually bursting. A critical aspect of homeostasis in living things is to create an internal environment in which all of the
+body’s cells are in an isotonic solution. Various organ systems, particularly the kidneys, work to maintain this homeostasis.
+
+ Hypertonic Isotonic Hypotonic
+
+Ts 4 a /Ho)
+
+Figure 3.8 Concentration of Solutions A hypertonic solution has a solute concentration higher than another
+solution. An isotonic solution has a solute concentration equal to another solution. A hypotonic solution has a solute
+concentration lower than another solution.
+
+ Another mechanism besides diffusion to passively transport materials between compartments is filtration. Unlike
+diffusion of a substance from where it is more concentrated to less concentrated, filtration uses a hydrostatic pressure
+gradient that pushes the fluid—and the solutes within it—from a higher pressure area to a lower pressure area.

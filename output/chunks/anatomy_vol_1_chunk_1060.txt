@@ -1,0 +1,16 @@
+The Frequency of Motor Neuron Stimulation
+
+A single action potential from a motor neuron will produce a single contraction in the muscle fibers of its motor unit. This
+isolated contraction is called a twitch. A twitch can last for a few milliseconds or 100 milliseconds, depending on the muscle
+type. The tension produced by a single twitch can be measured by a myogram, an instrument that measures the amount
+of tension produced over time (Figure 10.15). Each twitch undergoes three phases. The first phase is the latent period,
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 10 | MUSCLE TISSUE
+
+during which the action potential is being propagated along the sarcolemma and Ca” ions are released from the SR. This
+is the phase during which excitation and contraction are being coupled but contraction has yet to occur. The contraction
+
+phase occurs next. The Ca" ions in the sarcoplasm have bound to troponin, tropomyosin has shifted away from actin-
+binding sites, cross-bridges formed, and sarcomeres are actively shortening to the point of peak tension.

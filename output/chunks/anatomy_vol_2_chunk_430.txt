@@ -1,0 +1,9 @@
+All of these motor pathways project to the spinal cord to synapse with motor neurons in the ventral horn of the spinal
+cord. These lower motor neurons are the cells that connect to skeletal muscle and cause contractions. These neurons project
+through the spinal nerves to connect to the muscles at neuromuscular junctions. One motor neuron connects to multiple
+muscle fibers within a target muscle. The number of fibers that are innervated by a single motor neuron varies on the
+basis of the precision necessary for that muscle and the amount of force necessary for that motor unit. The quadriceps, for
+example, have many fibers controlled by single motor neurons for powerful contractions that do not need to be precise. The
+extraocular muscles have only a small number of fibers controlled by each motor neuron because moving the eyes does not
+require much force, but needs to be very precise.
+

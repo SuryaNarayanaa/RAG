@@ -1,0 +1,14 @@
+This chapter begins by examining elements and how the structures of atoms, the
+basic units of matter, determine the characteristics of elements by the number of protons, neutrons, and electrons in the
+atoms. The chapter then builds the framework of life from there.
+
+2.1 | Elements and Atoms: The Building Blocks of Matter
+
+By the end of this section, you will be able to:
+ ¢ Discuss the relationships between matter, mass, elements, compounds, atoms, and subatomic particles
+¢ Distinguish between atomic number and mass number
+¢ Identify the key distinction between isotopes of the same element
+¢ Explain how electrons occupy electron shells and their contribution to an atom’s relative stability
+
+The substance of the universe—from a grain of sand to a star—is called matter. Scientists define matter as anything that
+occupies space and has mass. An object’s mass and its weight are related concepts, but not quite the same.

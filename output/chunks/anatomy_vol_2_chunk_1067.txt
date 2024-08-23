@@ -1,0 +1,26 @@
+The ventricles are more richly innervated by sympathetic fibers
+than parasympathetic fibers. Sympathetic stimulation causes the release of the neurotransmitter norepinephrine (NE) at the
+neuromuscular junction of the cardiac nerves. NE shortens the repolarization period, thus speeding the rate of depolarization
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART 819
+
+and contraction, which results in an increase in HR. It opens chemical- or ligand-gated sodium and calcium ion channels,
+allowing an influx of positively charged ions.
+
+ NE binds to the beta-1 receptor. Some cardiac medications (for example, beta blockers) work by blocking these
+receptors, thereby slowing HR and are one possible treatment for hypertension. Overprescription of these drugs may lead to
+bradycardia and even stoppage of the heart.
+
+ Vagus nerve
+(parasympathetic)
+decreases heart rate.
+
+ Sympathetic cardiac nerves
+
+increase heart rate and
+force of contraction.
+
+ Figure 19.32 Autonomic Innervation of the Heart Cardioaccelerator and cardioinhibitory areas are components
+of the paired cardiac centers located in the medulla oblongata of the brain.

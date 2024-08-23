@@ -1,0 +1,9 @@
+In 1970, a physician and researcher named Raymond Damadian noticed that malignant (cancerous) tissue gave
+off different signals than normal body tissue. He applied for a patent for the first MRI scanning device, which was in use
+clinically by the early 1980s. The early MRI scanners were crude, but advances in digital computing and electronics led
+to their advancement over any other technique for precise imaging, especially to discover tumors. MRI also has the major
+advantage of not exposing patients to radiation.
+ Drawbacks of MRI scans include their much higher cost, and patient discomfort with the procedure. The MRI scanner
+subjects the patient to such powerful electromagnets that the scan room must be shielded. The patient must be enclosed in
+a metal tube-like device for the duration of the scan (see Figure 1.19b), sometimes as long as thirty minutes, which can
+be uncomfortable and impractical for ill patients.

@@ -1,0 +1,11 @@
+This occurs when a stimulus changes the cell membrane potential of a sensory neuron. The stimulus
+causes the sensory cell to produce an action potential that is relayed into the central nervous system (CNS), where it is
+integrated with other sensory information—or sometimes higher cognitive functions—to become a conscious perception of
+that stimulus. The central integration may then lead to a motor response.
+
+ Describing sensory function with the term sensation or perception is a deliberate distinction. Sensation is the activation
+of sensory receptor cells at the level of the stimulus. Perception is the central processing of sensory stimuli into a meaningful
+pattern. Perception is dependent on sensation, but not all sensations are perceived. Receptors are the cells or structures that
+detect sensations. A receptor cell is changed directly by a stimulus. A transmembrane protein receptor is a protein in the cell
+membrane that mediates a physiological change in a neuron, most often through the opening of ion channels or changes in
+the cell signaling processes.

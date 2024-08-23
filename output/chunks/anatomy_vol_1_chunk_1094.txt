@@ -1,0 +1,9 @@
+The two types have different locations in the body and have different characteristics. Single-unit muscle has
+its muscle fibers joined by gap junctions so that the muscle contracts as a single unit. This type of smooth muscle is found
+in the walls of all visceral organs except the heart (which has cardiac muscle in its walls), and so it is commonly called
+visceral muscle. Because the muscle fibers are not constrained by the organization and stretchability limits of sarcomeres,
+visceral smooth muscle has a stress-relaxation response. This means that as the muscle of a hollow organ is stretched when
+it fills, the mechanical stress of the stretching will trigger contraction, but this is immediately followed by relaxation so
+that the organ does not empty its contents prematurely. This is important for hollow organs, such as the stomach or urinary
+bladder, which continuously expand as they fill. The smooth muscle around these organs also can maintain a muscle tone
+when the organ empties and shrinks, a feature that prevents “flabbiness” in the empty organ.

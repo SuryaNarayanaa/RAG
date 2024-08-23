@@ -1,0 +1,10 @@
+394 CHAPTER 10 | MUSCLE TISSUE
+
+ There is a wide range of motor units within many skeletal muscles, which gives the nervous system a wide range of
+control over the muscle. The small motor units in the muscle will have smaller, lower-threshold motor neurons that are
+more excitable, firing first to their skeletal muscle fibers, which also tend to be the smallest. Activation of these smaller
+motor units, results in a relatively small degree of contractile strength (tension) generated in the muscle. As more strength
+is needed, larger motor units, with bigger, higher-threshold motor neurons are enlisted to activate larger muscle fibers. This
+increasing activation of motor units produces an increase in muscle contraction known as recruitment. As more motor units
+are recruited, the muscle contraction grows progressively stronger. In some muscles, the largest motor units may generate a
+contractile force of 50 times more than the smallest motor units in the muscle.

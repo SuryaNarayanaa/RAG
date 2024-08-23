@@ -1,0 +1,33 @@
+This is what
+is meant by immunity to a disease. The same pattern of primary and secondary immune responses occurs in B cells and the
+antibody response, as will be discussed later in the chapter.
+
+ T Cell Types and their Functions
+
+In the discussion of T cell development, you saw that mature T cells express either the CD4 marker or the CD8 marker,
+but not both. These markers are cell adhesion molecules that keep the T cell in close contact with the antigen-presenting
+cell by directly binding to the MHC molecule (to a different part of the molecule than does the antigen). Thus, T cells and
+antigen-presenting cells are held together in two ways: by CD4 or CD8 attaching to MHC and by the T cell receptor binding
+to antigen (Figure 21.20).
+
+ Antigen-presenting cell
+
+(dendritic cell) . .
+ Helper T cells release cytokines that activate much of the
+
+adaptive and nonadaptive immune system during infection
+
+(a)
+
+Cytokines
+
+Cytotoxic T cells destroy infected cells by releasing enzymes
+that rupture cell membranes
+
+(b)
+
+Pertorina/” :
+
+Antigens _T cell receptor
+
+Figure 21.20 Pathogen Presentation (a) CD4 is associated with helper and regulatory T cells.

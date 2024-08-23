@@ -1,0 +1,11 @@
+There are twelve cranial nerves, which are designated CNI through CNXII for “Cranial Nerve,” using
+Roman numerals for 1 through 12. They can be classified as sensory nerves, motor nerves, or a combination of both,
+meaning that the axons in these nerves originate out of sensory ganglia external to the cranium or motor nuclei within the
+brain stem. Sensory axons enter the brain to synapse in a nucleus. Motor axons connect to skeletal muscles of the head or
+neck. Three of the nerves are solely composed of sensory fibers; five are strictly motor; and the remaining four are mixed
+nerves.
+
+ Learning the cranial nerves is a tradition in anatomy courses, and students have always used mnemonic devices to
+remember the nerve names. A traditional mnemonic is the rhyming couplet, “On Old Olympus’ Towering Tops/ A Finn And
+German Viewed Some Hops,” in which the initial letter of each word corresponds to the initial letter in the name of each
+nerve.

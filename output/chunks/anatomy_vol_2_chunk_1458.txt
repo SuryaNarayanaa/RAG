@@ -1,0 +1,129 @@
+lymphatic trunks large lymphatics that collect lymph from smaller lymphatic vessels and empties into the blood via
+lymphatic ducts
+
+lymph fluid contained within the lymphatic system
+
+lymphocytes white blood cells characterized by a large nucleus and small rim of cytoplasm
+
+lymphoid nodules unencapsulated patches of lymphoid tissue found throughout the body
+
+MHC class II found on macrophages, dendritic cells, and B cells, it binds to CD4 molecules on T cells
+MHC class | found on most cells of the body, it binds to the CD8 molecule on T cells
+
+MHC polygeny multiple MHC genes and their proteins found in body cells
+
+MHC polymorphism multiple alleles for each individual MHC locus
+
+macrophage oxidative metabolism metabolism turned on in macrophages by T cell signals that help destroy
+intracellular bacteria
+
+macrophage ameboid phagocyte found in several tissues throughout the body
+major histocompatibility complex (MHC) gene cluster whose proteins present antigens to T cells
+
+mast cell cell found in the skin and the lining of body cells that contains cytoplasmic granules with vasoactive
+mediators such as histamine
+
+memory T cells long-lived immune cell reserved for future exposure to an pathogen
+
+monocyte precursor to macrophages and dendritic cells seen in the blood
+
+mucoSa-associated lymphoid tissue (MALT) lymphoid nodule associated with the mucosa
+
+natural killer cell (NK) cytotoxic lymphocyte of innate immune response
+
+naive lymphocyte mature B or T cell that has not yet encountered antigen for the first time
+
+negative selection selection against thymocytes in the thymus that react with self-antigen
+
+neutralization inactivation of a virus by the binding of specific antibody
+
+neutrophil phagocytic white blood cell recruited from the bloodstream to the site of infection via the bloodstream
+opsonization enhancement of phagocytosis by the binding of antibody or antimicrobial protein
+
+passive immunity transfer of immunity to a pathogen to an individual that lacks immunity to this pathogen usually by
+the injection of antibodies
+
+pattern recognition receptor (PRR) leukocyte receptor that binds to specific cell wall components of different
+bacterial species
+
+perforin molecule in NK cell and cytotoxic T cell granules that form pores in the membrane of a target cell
+peripheral tolerance mature B cell made tolerant by lack of T cell help
+
+phagocytosis movement of material from the outside to the inside of the cells via vesicles made from invaginations of
+the plasma membrane
+
+plasma cell differentiated B cell that is actively secreting antibody
+
+polyclonal response response by multiple clones to a complex antigen with many determinants
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM
+
+positive selection selection of thymocytes within the thymus that interact with self, but not non-self, MHC molecules
+primary adaptive response immune system’s response to the first exposure to a pathogen
+
+primary lymphoid organ site where lymphocytes mature and proliferate; red bone marrow and thymus gland
+psychoneuroimmunology study of the connections between the immune, nervous, and endocrine systems
+regulatory T cells (Treg) (also, suppressor T cells) class of CD4 T cells that regulates other T cell responses
+
+right lymphatic duct drains lymph fluid from the upper right side of body into the right subclavian vein
+
+secondary adaptive response immune response observed upon re-exposure to a pathogen, which is stronger and
+faster than a primary response
+
+secondary lymphoid organs sites where lymphocytes mount adaptive immune responses; examples include lymph
+nodes and spleen
+
+sensitization first exposure to an antigen
+seroconversion clearance of pathogen in the serum and the simultaneous rise of serum antibody
+
+severe combined immunodeficiency disease (SCID) genetic mutation that affects both T cell and B cell arms of
+the immune response
+
+spleen secondary lymphoid organ that filters pathogens from the blood (white pulp) and removes degenerating or
+damaged blood cells (red pulp)
+
+T cell tolerance process during T cell differentiation where most T cells that recognize antigens from one’s own body
+are destroyed
+
+T cell-dependent antigen antigen that binds to B cells, which requires signals from T cells to make antibody
+T cell-independent antigen binds to B cells, which do not require signals from T cells to make antibody
+
+T cell lymphocyte that acts by secreting molecules that regulate the immune system or by causing the destruction of
+foreign cells, viruses, and cancer cells
+
+Th1 cells cells that secrete cytokines that enhance the activity of macrophages and other cells
+Th2 cells cells that secrete cytokines that induce B cells to differentiate into antibody-secreting plasma cells
+
+thoracic duct large duct that drains lymph from the lower limbs, left thorax, left upper limb, and the left side of the
+head
+
+thymocyte immature T cell found in the thymus
+
+thymus primary lymphoid organ; where T lymphocytes proliferate and mature
+
+tissue typing typing of MHC molecules between a recipient and donor for use in a potential transplantation procedure
+tonsils lymphoid nodules associated with the nasopharynx
+
+type I hypersensitivity immediate response mediated by mast cell degranulation caused by the crosslinking of the
+antigen-specific IgE molecules on the mast cell surface
+
+type Il hypersensitivity cell damage caused by the binding of antibody and the activation of complement, usually
+against red blood cells
+
+type Ill hypersensitivity damage to tissues caused by the deposition of antibody-antigen (immune) complexes
+followed by the activation of complement
+
+variable region domain part of a lymphocyte antigen receptor that varies considerably between different receptor
+types
+
+967
+
+968 CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM
+CHAPTER REVIEW
+
+21.1 Anatomy of the Lymphatic and Immune Systems
+
+The lymphatic system is a series of vessels, ducts, and trunks that remove interstitial fluid from the tissues and return it the
+blood.

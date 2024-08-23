@@ -1,0 +1,11 @@
+Immediately following depolarization of the membrane, it repolarizes, re-establishing
+the negative membrane potential. Meanwhile, the ACh in the synaptic cleft is degraded by the enzyme acetylcholinesterase
+(AChE) so that the ACh cannot rebind to a receptor and reopen its channel, which would cause unwanted extended muscle
+excitation and contraction.
+
+ Propagation of an action potential along the sarcolemma is the excitation portion of excitation-contraction coupling.
+
+ Recall that this excitation actually triggers the release of calcium ions (Ca’*) from its storage in the cell’s SR. For the action
+potential to reach the membrane of the SR, there are periodic invaginations in the sarcolemma, called T-tubules (“T” stands
+for “transverse”). You will recall that the diameter of a muscle fiber can be up to 100 pm, so these T-tubules ensure that the
+membrane can get close to the SR in the sarcoplasm.

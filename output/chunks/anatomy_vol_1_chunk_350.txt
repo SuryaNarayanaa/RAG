@@ -1,0 +1,16 @@
+Throughout development
+and adulthood, the process of cellular differentiation leads cells to assume their final morphology and physiology.
+ Differentiation is the process by which unspecialized cells become specialized to carry out distinct functions.
+
+ Stem Cells
+
+A stem cell is an unspecialized cell that can divide without limit as needed and can, under specific conditions, differentiate
+into specialized cells. Stem cells are divided into several categories according to their potential to differentiate.
+
+ The first embryonic cells that arise from the division of the zygote are the ultimate stem cells; these stems cells are
+described as totipotent because they have the potential to differentiate into any of the cells needed to enable an organism to
+grow and develop.
+
+ The embryonic cells that develop from totipotent stem cells and are precursors to the fundamental tissue layers of the
+embryo are classified as pluripotent. A pluripotent stem cell is one that has the potential to differentiate into any type of
+human tissue but cannot support the full development of an organism.

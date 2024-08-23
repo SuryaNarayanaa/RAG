@@ -1,0 +1,12 @@
+It should not be confused with emotional or psychological shock. Typically, the patient in circulatory shock will
+demonstrate an increased heart rate but decreased blood pressure, but there are cases in which blood pressure will remain
+normal. Urine output will fall dramatically, and the patient may appear confused or lose consciousness. Urine output less
+than 1 mL/kg body weight/hour is cause for concern. Unfortunately, shock is an example of a positive-feedback loop that,
+if uncorrected, may lead to the death of the patient.
+ There are several recognized forms of shock:
+
+* Hypovolemic shock in adults is typically caused by hemorrhage, although in children it may be caused by fluid
+losses related to severe vomiting or diarrhea. Other causes for hypovolemic shock include extensive burns, exposure
+to some toxins, and excessive urine loss related to diabetes insipidus or ketoacidosis. Typically, patients present with
+a rapid, almost tachycardic heart rate; a weak pulse often described as “thread;” cool, clammy skin, particularly in
+the extremities, due to restricted peripheral blood flow; rapid, shallow breathing; hypothermia; thirst; and dry mouth.

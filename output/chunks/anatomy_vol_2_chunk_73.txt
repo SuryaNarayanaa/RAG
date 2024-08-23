@@ -1,0 +1,9 @@
+The ependymal cell is a glial cell that filters blood to make cerebrospinal fluid (CSF), the fluid that circulates through
+the CNS. Because of the privileged blood supply inherent in the BBB, the extracellular space in nervous tissue does not
+easily exchange components with the blood. Ependymal cells line each ventricle, one of four central cavities that are
+remnants of the hollow center of the neural tube formed during the embryonic development of the brain. The choroid plexus
+is a specialized structure in the ventricles where ependymal cells come in contact with blood vessels and filter and absorb
+components of the blood to produce cerebrospinal fluid. Because of this, ependymal cells can be considered a component of
+the BBB, or a place where the BBB breaks down. These glial cells appear similar to epithelial cells, making a single layer of
+cells with little intracellular space and tight connections between adjacent cells. They also have cilia on their apical surface
+to help move the CSF through the ventricular space.

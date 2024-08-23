@@ -1,0 +1,12 @@
+The main functions of epithelia are protection from the environment, coverage,
+secretion and excretion, absorption, and filtration. Cells are bound together by tight junctions that form an impermeable
+barrier. They can also be connected by gap junctions, which allow free exchange of soluble molecules between cells, and
+anchoring junctions, which attach cell to cell or cell to matrix. The different types of epithelial tissues are characterized by
+their cellular shapes and arrangements: squamous, cuboidal, or columnar epithelia. Single cell layers form simple epithelia,
+whereas stacked cells form stratified epithelia. Very few capillaries penetrate these tissues.
+
+ Glands are secretory tissues and organs that are derived from epithelial tissues. Exocrine glands release their products
+through ducts. Endocrine glands secrete hormones directly into the interstitial fluid and blood stream. Glands are classified
+both according to the type of secretion and by their structure. Merocrine glands secrete products as they are synthesized.
+ Apocrine glands release secretions by pinching off the apical portion of the cell, whereas holocrine gland cells store their
+secretions until they rupture and release their contents.

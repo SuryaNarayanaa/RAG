@@ -1,0 +1,18 @@
+Catabolic reactions
+break materials down and release energy. Metabolism includes both anabolic and catabolic reactions.
+
+ Every cell in your body makes use of a chemical compound, adenosine triphosphate (ATP), to store and release energy.
+ The cell stores energy in the synthesis (anabolism) of ATP, then moves the ATP molecules to the location where energy is
+needed to fuel cellular activities. Then the ATP is broken down (catabolism) and a controlled amount of energy is released,
+which is used by the cell to perform a particular job.
+
+ @ Interactive |LINK
+
+View this animation (http://openstaxcollege.org/l/metabolic) to learn more about metabolic processes. What kind of
+catabolism occurs in the heart?
+
+Responsiveness
+
+Responsiveness is the ability of an organism to adjust to changes in its internal and external environments. An example
+of responsiveness to external stimuli could include moving toward sources of food and water and away from perceived
+dangers.

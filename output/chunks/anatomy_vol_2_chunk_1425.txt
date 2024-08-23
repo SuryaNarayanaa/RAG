@@ -1,0 +1,16 @@
+Different bacterial strains differ in the
+antigens on their surfaces. The immune response against one strain (antigen) does not affect the other; thus, the species
+survives.
+
+ Another method of immune evasion is mutation. Because viruses’ surface molecules mutate continuously, viruses like
+influenza change enough each year that the flu vaccine for one year may not protect against the flu common to the next.
+ New vaccine formulations must be derived for each flu season.
+
+ Genetic recombination—the combining of gene segments from two different pathogens—is an efficient form of
+immune evasion. For example, the influenza virus contains gene segments that can recombine when two different viruses
+infect the same cell. Recombination between human and pig influenza viruses led to the 2010 H1N1 swine flu outbreak.
+
+ Pathogens can produce immunosuppressive molecules that impair immune function, and there are several different
+types. Viruses are especially good at evading the immune response in this way, and many types of viruses have been shown
+to suppress the host immune response in ways much more subtle than the wholesale destruction caused by HIV.
+

@@ -1,0 +1,13 @@
+Neurons are dynamic cells with the ability to make a vast number of connections, to respond incredibly
+quickly to stimuli, and to initiate movements on the basis of those stimuli. They are the focus of intense research
+because failures in physiology can lead to devastating illnesses. Why are neurons only found in animals? Based on
+what this article says about neuron function, why wouldn't they be helpful for plants or microorganisms?
+
+ Types of Neurons
+
+There are many neurons in the nervous system—a number in the trillions. And there are many different types of neurons.
+ They can be classified by many different criteria. The first way to classify them is by the number of processes attached to
+the cell body. Using the standard model of neurons, one of these processes is the axon, and the rest are dendrites. Because
+information flows through the neuron from dendrites or cell bodies toward the axon, these names are based on the neuron's
+polarity (Figure 12.9).
+

@@ -1,0 +1,15 @@
+Somatic and autonomic integrative
+functions may overlap as well.
+
+ A special division of the nervous system is the enteric nervous system, which is responsible for controlling the
+digestive organs. Parts of the autonomic nervous system overlap with the enteric nervous system. The enteric nervous
+system is exclusively found in the periphery because it is the nervous tissue in the organs of the digestive system.
+
+ 12.2 Nervous Tissue
+
+Nervous tissue contains two major cell types, neurons and glial cells. Neurons are the cells responsible for communication
+through electrical signals. Glial cells are supporting cells, maintaining the environment around the neurons.
+
+ Neurons are polarized cells, based on the flow of electrical signals along their membrane. Signals are received at the
+dendrites, are passed along the cell body, and propagate along the axon towards the target, which may be another neuron,
+muscle tissue, or a gland.

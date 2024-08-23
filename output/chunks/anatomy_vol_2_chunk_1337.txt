@@ -1,0 +1,12 @@
+One major cause of age-related immune deficiencies is thymic
+involution, the shrinking of the thymus gland that begins at birth, at a rate of about three percent tissue loss per year,
+and continues until 35-45 years of age, when the rate declines to about one percent loss per year for the rest of one’s
+life. At that pace, the total loss of thymic epithelial tissue and thymocytes would occur at about 120 years of age. Thus,
+this age is a theoretical limit to a healthy human lifespan.
+
+ Thymic involution has been observed in all vertebrate species that have a thymus gland. Animal studies have
+shown that transplanted thymic grafts between inbred strains of mice involuted according to the age of the donor
+and not of the recipient, implying the process is genetically programmed. There is evidence that the thymic
+microenvironment, so vital to the development of naive T cells, loses thymic epithelial cells according to the decreasing
+expression of the FOXN1 gene with age.
+

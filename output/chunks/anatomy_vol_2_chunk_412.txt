@@ -1,0 +1,11 @@
+The pathways of the extrapyramidal system are influenced by subcortical structures. For example, connections between
+the secondary motor cortices and the extrapyramidal system modulate spine and cranium movements. The basal nuclei,
+which are important for regulating movement initiated by the CNS, influence the extrapyramidal system as well as its
+thalamic feedback to the motor cortex.
+
+ The conscious movement of our muscles is more complicated than simply sending a single command from the
+precentral gyrus down to the proper motor neurons. During the movement of any body part, our muscles relay information
+back to the brain, and the brain is constantly sending “revised” instructions back to the muscles. The cerebellum is important
+in contributing to the motor system because it compares cerebral motor commands with proprioceptive feedback. The
+corticospinal fibers that project to the ventral horn of the spinal cord have branches that also synapse in the pons, which
+project to the cerebellum.

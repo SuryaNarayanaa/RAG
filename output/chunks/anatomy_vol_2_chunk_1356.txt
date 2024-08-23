@@ -1,0 +1,16 @@
+NK cells recognize these cells by
+mechanisms that are still not well understood, but that presumably involve their surface receptors. NK cells can induce
+apoptosis, in which a cascade of events inside the cell causes its own death by either of two mechanisms:
+
+1) NK cells are able to respond to chemical signals and express the fas ligand. The fas ligand is a surface molecule
+that binds to the fas molecule on the surface of the infected cell, sending it apoptotic signals, thus killing the cell and the
+pathogen within it; or
+
+2) The granules of the NK cells release perforins and granzymes. A perforin is a protein that forms pores in the
+membranes of infected cells. A granzyme is a protein-digesting enzyme that enters the cell via the perforin pores and
+triggers apoptosis intracellularly.
+
+ Both mechanisms are especially effective against virally infected cells. If apoptosis is induced before the virus has the
+ability to synthesize and assemble all its components, no infectious virus will be released from the cell, thus preventing
+further infection.
+

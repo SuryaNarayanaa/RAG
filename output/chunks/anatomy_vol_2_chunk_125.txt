@@ -1,0 +1,14 @@
+Hyperpolarization in a postsynaptic potential is an inhibitory postsynaptic potential (IPSP) because it causes the
+membrane potential to move away from threshold.
+
+ Summation
+
+All types of graded potentials will result in small changes of either depolarization or hyperpolarization in the voltage of
+a membrane. These changes can lead to the neuron reaching threshold if the changes add together, or summate. The
+combined effects of different types of graded potentials are illustrated in Figure 12.26. If the total change in voltage in the
+membrane is a positive 15 mV, meaning that the membrane depolarizes from -70 mV to -55 mV, then the graded potentials
+will result in the membrane reaching threshold.
+
+ For receptor potentials, threshold is not a factor because the change in membrane potential for receptor cells directly
+causes neurotransmitter release. However, generator potentials can initiate action potentials in the sensory neuron axon, and
+postsynaptic potentials can initiate an action potential in the axon of other neurons.

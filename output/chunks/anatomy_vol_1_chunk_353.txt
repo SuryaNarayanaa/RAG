@@ -1,0 +1,14 @@
+The multipotent hematopoietic stem cells give rise to many different cell types, including the cells of
+the immune system and red blood cells.
+
+ Differentiation
+
+When a cell differentiates (becomes more specialized), it may undertake major changes in its size, shape, metabolic activity,
+and overall function. Because all cells in the body, beginning with the fertilized egg, contain the same DNA, how do the
+different cell types come to be so different? The answer is analogous to a movie script. The different actors in a movie all
+read from the same script, however, they are each only reading their own part of the script. Similarly, all cells contain the
+same full complement of DNA, but each type of cell only “reads” the portions of DNA that are relevant to its own function.
+ In biology, this is referred to as the unique genetic expression of each cell.
+
+ In order for a cell to differentiate into its specialized form and function, it need only manipulate those genes (and thus
+those proteins) that will be expressed, and not those that will remain silent.

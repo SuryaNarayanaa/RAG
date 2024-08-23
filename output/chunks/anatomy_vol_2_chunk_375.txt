@@ -1,0 +1,39 @@
+To assist the visual system, fibers of the vestibular nuclei project to the oculomotor, trochlear, and abducens nuclei to
+influence signals sent along the cranial nerves. These connections constitute the pathway of the vestibulo-ocular reflex
+(VOR), which compensates for head and body movement by stabilizing images on the retina (Figure 14.21). Finally, the
+vestibular nuclei project to the thalamus to join the proprioceptive pathway of the dorsal column system, allowing conscious
+perception of equilibrium.
+
+ Compensating eye movement
+
+Excitation of extraocular muscles Inhibition of extraocular muscles
+on one side. on the other side.
+ Lateral rectus w
+
+Medial rectus
+Oculomotor
+
+nucleus (midbrain)
+
+Abducens
+nucleus (pons)
+
+Vestibular
+nucleus (pons)
+
+Saccule, utricle,
+and semicircular
+canals
+
+Detection of
+rotation
+
+Right
+
+Head rotation
+~~” IB Inhibition
+
+®@ Excitation
+
+Figure 14.21 Vestibulo-ocular Reflex Connections between the vestibular system and the cranial nerves controlling
+eye movement keep the eyes centered on a visual stimulus, even though the head is moving.

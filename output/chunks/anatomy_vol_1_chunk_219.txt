@@ -1,0 +1,9 @@
+Figure 2.26 The Shape of Proteins (a) The primary structure is the sequence of amino acids that make up the
+polypeptide chain. (b) The secondary structure, which can take the form of an alpha-helix or a beta-pleated sheet,
+is maintained by hydrogen bonds between amino acids in different regions of the original polypeptide strand. (c) The
+tertiary structure occurs as a result of further folding and bonding of the secondary structure. (d) The quaternary
+structure occurs as a result of interactions between two or more tertiary subunits. The example shown here is
+hemoglobin, a protein in red blood cells which transports oxygen to body tissues.
+
+ Although some polypeptides exist as linear chains, most are twisted or folded into more complex secondary structures
+that form when bonding occurs between amino acids with different properties at different regions of the polypeptide.

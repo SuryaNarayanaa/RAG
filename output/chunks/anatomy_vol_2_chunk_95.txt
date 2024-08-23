@@ -1,0 +1,18 @@
+Hydrophobic amino acids are found in the domains that are apposed to the
+the phospholipids. Hydrophilic amino acids are exposed to the fluid environments of the extracellu!
+ Additionally, the ions will interact with the hydrophilic amino acids, which will be selective for t
+
+c domains or regions
+hydrocarbon tails of
+lar fluid and cytosol.
+ he charge of the ion.
+
+ Channels for cations (positive ions) will have negatively charged side chains in the pore. Channels for anions (negative ions)
+will have positively charged side chains in the pore. This is called electrochemical exclusion, meaning that the channel
+
+pore is charge-specific.
+
+ Ions can also be specified by the diameter of the pore. The distance between the amino acids will be specific for
+the diameter of the ion when it dissociates from the water molecules surrounding it. Because of the surrounding water
+molecules, larger pores are not ideal for smaller ions because the water molecules will interact, by hydrogen bonds, more
+readily than the amino acid side chains.

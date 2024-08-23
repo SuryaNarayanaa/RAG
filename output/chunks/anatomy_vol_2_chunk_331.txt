@@ -1,0 +1,11 @@
+The basilar membrane is the thin membrane that extends from the central
+core of the cochlea to the edge. What is anchored to this membrane so that they can be activated by movement of the
+fluids within the cochlea?
+
+As stated above, a given region of the basilar membrane will only move if the incoming sound is at a specific
+frequency. Because the tectorial membrane only moves where the basilar membrane moves, the hair cells in this region
+will also only respond to sounds of this specific frequency. Therefore, as the frequency of a sound changes, different hair
+cells are activated all along the basilar membrane. The cochlea encodes auditory stimuli for frequencies between 20 and
+20,000 Hz, which is the range of sound that human ears can detect. The unit of Hertz measures the frequency of sound
+waves in terms of cycles produced per second. Frequencies as low as 20 Hz are detected by hair cells at the apex, or tip, of
+the cochlea.

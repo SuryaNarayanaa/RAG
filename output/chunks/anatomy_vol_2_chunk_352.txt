@@ -1,0 +1,8 @@
+This is because the fovea is where the least amount of incoming light is absorbed by other retinal structures (see
+Figure 14.15). As one moves in either direction from this central point of the retina, visual acuity drops significantly. In
+addition, each photoreceptor cell of the fovea is connected to a single RGC. Therefore, this RGC does not have to integrate
+inputs from multiple photoreceptors, which reduces the accuracy of visual transduction. Toward the edges of the retina,
+several photoreceptors converge on RGCs (through the bipolar cells) up to a ratio of 50 to 1. The difference in visual acuity
+between the fovea and peripheral retina is easily evidenced by looking directly at a word in the middle of this paragraph.
+ The visual stimulus in the middle of the field of view falls on the fovea and is in the sharpest focus. Without moving your
+eyes off that word, notice that words at the beginning or end of the paragraph are not in focus.

@@ -1,0 +1,9 @@
+It is common practice in genetics to use capital and lowercase letters to represent dominant and recessive alleles.
+ Using Mendel’s pea plants as an example, if a tall pea plant is homozygous, it will possess two tall alleles (TT). A dwar!
+pea plant must be homozygous because its dwarfism can only be expressed when two recessive alleles are present (tt). A
+heterozygous pea plant (Tt) would be tall and phenotypically indistinguishable from a tall homozygous pea plant because
+of the dominant tall allele. Mendel deduced that a 3:1 ratio of dominant to recessive would be produced by the random
+segregation of heritable factors (genes) when crossing two heterozygous pea plants. In other words, for any given gene,
+parents are equally likely to pass down either one of their alleles to their offspring in a haploid gamete, and the result wil
+be expressed in a dominant-recessive pattern if both parents are heterozygous for the trait.
+

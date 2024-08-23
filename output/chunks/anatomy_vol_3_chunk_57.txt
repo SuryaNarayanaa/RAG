@@ -1,0 +1,13 @@
+The recoil of the thoracic
+wall during expiration causes compression of the lungs. Contraction and relaxation of the diaphragm and intercostals
+muscles (found between the ribs) cause most of the pressure changes that result in inspiration and expiration. These muscle
+movements and subsequent pressure changes cause air to either rush in or be forced out of the lungs.
+
+ Other characteristics of the lungs influence the effort that must be expended to ventilate. Resistance is a force that
+slows motion, in this case, the flow of gases. The size of the airway is the primary factor affecting resistance. A small
+tubular diameter forces air through a smaller space, causing more collisions of air molecules with the walls of the airways.
+ The following formula helps to describe the relationship between airway resistance and pressure changes:
+
+F=AP/R
+
+As noted earlier, there is surface tension within the alveoli caused by water present in the lining of the alveoli.

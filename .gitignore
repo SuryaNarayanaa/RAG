@@ -1,0 +1,5 @@
+/.env
+/extracted_images
+/extracted_tables
+/faiss_index.index
+/extracted_text.json

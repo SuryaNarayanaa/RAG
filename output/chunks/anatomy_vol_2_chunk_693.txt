@@ -1,0 +1,20 @@
+Once the hormone binds to the receptor, a chain of
+events is initiated that leads to the target cell’s response. Hormones play a critical role in the regulation of physiological
+processes because of the target cell responses they regulate. These responses contribute to human reproduction, growth and
+development of body tissues, metabolism, fluid, and electrolyte balance, sleep, and many other body functions. The major
+hormones of the human body and their effects are identified in Table 17.2.
+
+ Endocrine Glands and Their Major Hormones
+
+Endocrine Associated Chemical
+Effect
+gland hormones class
+Pituitary Growth hormone . .
+ (anterior) (GH) Protein Promotes growth of body tissues
+Pituitary . F . .
+ " Prolactin (PRL) Peptide Promotes milk production
+(anterior)
+Pituitary Thyroid-stimulating . . .
+ (anterior) hormone (TSH) Glycoprotein | Stimulates thyroid hormone release
+Pituitary Adrenocorticotropic F .
+(anterior) hormone (ACTH)

@@ -1,0 +1,42 @@
+In the case of the heart, decreasing parasympathetic stimulation decreases the release of ACh, which allows
+HR to increase up to approximately 100 bpm. Any increases beyond this rate would require sympathetic stimulation. Figure
+19.33 illustrates the effects of parasympathetic and sympathetic stimulation on the normal sinus rhythm.
+
+
+ 820 CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART
+
+Normal Prepotential
+(resting) (spontaneous
+depolarization)
++20
+Membrane
+potential -20
+env) 40; - Threshold
+-60
+-80
++ 13 u
+0.8 1.6 2.4
+Time (s)
+Parasympathetic
+stimulation Slower depolarization
++20
+Membrane °
+potential  -20.
+inv) 40 ~~ Threshold
+-60
+-80 Hyperpolarization:
+T T T
+0.8 1.6 2.4
+Heart rate decreased Time (s)
+Sympathetic Faster depolarization
+stimulation
++20
+Membrane
+potential -20
+(ny) 40
+-60
+-80
+0.8 1.6 2.4
+Heart rate increased Time (s)
+
+Figure 19.33 Effects of Parasympathetic and Sympathetic Stimulation on Normal Sinus Rhythm

@@ -1,0 +1,15 @@
+Water rushes
+into the hyperosmotic cytoplasm, causing the
+pathogen to lyse.
+
+ Figure 21.13 Complement Cascade and Function The classical pathway, used during adaptive immune responses,
+occurs when C1 reacts with antibodies that have bound an antigen.
+
+ The splitting of the C3 protein is the common step to both pathways. In the alternate pathway, C3 is activated
+spontaneously and, after reacting with the molecules factor P, factor B, and factor D, splits apart. The larger fragment, C3b,
+binds to the surface of the pathogen and C3a, the smaller fragment, diffuses outward from the site of activation and attracts
+phagocytes to the site of infection. Surface-bound C3b then activates the rest of the cascade, with the last five proteins,
+C5-C9, forming the membrane-attack complex (MAC). The MAC can kill certain pathogens by disrupting their osmotic
+balance. The MAC is especially effective against a broad range of bacteria. The classical pathway is similar, except the
+early stages of activation require the presence of antibody bound to antigen, and thus is dependent on the adaptive immune
+response.

@@ -1,0 +1,16 @@
+During early development, embryonic myoblasts, each with its own nucleus, fuse with up to hundreds of other
+myoblasts to form the multinucleated skeletal muscle fibers. Multiple nuclei mean multiple copies of genes, permitting the
+production of the large amounts of proteins and enzymes needed for muscle contraction.
+
+ Some other terminology associated with muscle fibers is rooted in the Greek sarco, which means “flesh.” The plasma
+membrane of muscle fibers is called the sarcolemma, the cytoplasm is referred to as sarcoplasm, and the specialized
+smooth endoplasmic reticulum, which stores, releases, and retrieves calcium ions (Ca**) is called the sarcoplasmic
+reticulum (SR) (Figure 10.4). As will soon be described, the functional unit of a skeletal muscle fiber is the sarcomere, a
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 10 | MUSCLE TISSUE
+
+highly organized arrangement of the contractile myofilaments actin (thin filament) and myosin (thick filament), along with
+other support proteins.
+

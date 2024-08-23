@@ -1,0 +1,11 @@
+As a result, oxygen readily dissociates from hemoglobin, which is a mechanism that helps to
+provide active tissues with more oxygen.
+ Certain hormones, such as androgens, epinephrine, thyroid hormones, and growth hormone, can affect the
+oxygen-hemoglobin  saturation/disassociation curve by stimulating the production of a compound called
+2,3-bisphosphoglycerate (BPG) by erythrocytes. BPG is a byproduct of glycolysis. Because erythrocytes do not contain
+mitochondria, glycolysis is the sole method by which these cells produce ATP. BPG promotes the disassociation of oxygen
+rom hemoglobin. Therefore, the greater the concentration of BPG, the more readily oxygen dissociates from hemoglobin,
+despite its partial pressure.
+ The pH of the blood is another factor that influences the oxygen-hemoglobin saturation/dissociation curve (see
+Figure 22.26). The Bohr effect is a phenomenon that arises from the relationship between pH and oxygen’s affinity for
+hemoglobin: A lower, more acidic pH promotes oxygen dissociation from hemoglobin.

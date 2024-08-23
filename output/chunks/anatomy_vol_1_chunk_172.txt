@@ -1,0 +1,30 @@
+Like all catalysts, enzymes work by lowering
+the level of energy that needs to be invested in a chemical reaction. A chemical reaction’s activation energy is the
+“threshold” level of energy needed to break the bonds in the reactants. Once those bonds are broken, new arrangements can
+form. Without an enzyme to act as a catalyst, a much larger investment of energy is needed to ignite a chemical reaction
+(Figure 2.13).
+
+ 60 CHAPTER 2 | THE CHEMICAL LEVEL OF ORGANIZATION
+
+Activation
+energy
+required
+
+é>
+
+Reactants
+
+Less activation
+energy required
+
+Reactants
+
+Energy ———>
+Energy ———>
+
+Product Product
+
+Progress of reaction without enzyme ————> Progress of reaction with enzyme ————>
+(a) (b)
+
+Figure 2.13 Enzymes Enzymes decrease the activation energy required for a given chemical reaction to occur.

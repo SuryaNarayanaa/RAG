@@ -1,0 +1,14 @@
+The baroreceptors in the venae cavae and right atrium monitor blood pressure as the blood returns to the heart from
+the systemic circulation. Normally, blood flow into the aorta is the same as blood flow back into the right atrium. If blood
+is returning to the right atrium more rapidly than it is being ejected from the left ventricle, the atrial receptors will stimulate
+the cardiovascular centers to increase sympathetic firing and increase cardiac output until homeostasis is achieved. The
+opposite is also true. This mechanism is referred to as the atrial reflex.
+
+ Chemoreceptor Reflexes
+
+In addition to the baroreceptors are chemoreceptors that monitor levels of oxygen, carbon dioxide, and hydrogen ions (pH),
+and thereby contribute to vascular homeostasis. Chemoreceptors monitoring the blood are located in close proximity to the
+baroreceptors in the aortic and carotid sinuses. They signal the cardiovascular center as well as the respiratory centers in the
+medulla oblongata.
+ Since tissues consume oxygen and produce carbon dioxide and acids as waste products, when the body is more active,
+oxygen levels fall and carbon dioxide levels rise as cells undergo cellular respiration to meet the energy needs of activities.

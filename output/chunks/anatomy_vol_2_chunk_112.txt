@@ -1,0 +1,9 @@
+The voltage-gated K* channel has only one gate, which is sensitive to a membrane voltage of -50 mV. However, it does
+not open as quickly as the voltage-gated Na* channel does. It might take a fraction of a millisecond for the channel to open
+once that voltage has been reached. The timing of this coincides exactly with when the Na” flow peaks, so voltage-gated K*
+channels open just as the voltage-gated Na* channels are being inactivated. As the membrane potential repolarizes and the
+voltage passes -50 mV again, the channel closes—again, with a little delay. Potassium continues to leave the cell for a short
+while and the membrane potential becomes more negative, resulting in the hyperpolarizing overshoot. Then the channel
+closes again and the membrane can return to the resting potential because of the ongoing activity of the non-gated channels
+and the Na*/K* pump.
+

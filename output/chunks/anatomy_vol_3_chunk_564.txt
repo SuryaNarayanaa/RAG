@@ -1,0 +1,15 @@
+The arteriolar
+myogenic mechanism maintains a steady blood flow by causing arteriolar smooth muscle to contract when blood pressure
+increases and causing it to relax when blood pressure decreases. Tubuloglomerular feedback involves paracrine signaling at
+the JGA to cause vasoconstriction or vasodilation to maintain a steady rate of blood flow.
+
+ 25.8 Endocrine Regulation of Kidney Function
+
+Endocrine hormones act from a distance and paracrine hormones act locally. The renal enzyme renin converts
+angiotensinogen into angiotensin I. The lung enzyme, ACE, converts angiotensin I into active angiotensin II. Angiotensin II
+is an active vasoconstrictor that increases blood pressure. Angiotensin II also stimulates aldosterone release from the adrenal
+
+cortex, causing the collecting duct to retain Na*, which promotes water retention and a longer-term rise in blood pressure.
+ ADH promotes water recovery by the collecting ducts by stimulating the insertion of aquaporin water channels into cell
+
+membranes. Endothelins are elevated in cases of diabetic kidney disease, increasing Na” retention and decreasing GFR.

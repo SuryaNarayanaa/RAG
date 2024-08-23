@@ -1,0 +1,34 @@
+Sound localization is a feature of central processing in the auditory nuclei of the brain stem. Sound localization
+is achieved by the brain calculating the interaural time difference and the interaural intensity difference. A sound
+originating from a specific location will arrive at each ear at different times, unless the sound is directly in front of the
+listener. If the sound source is slightly to the left of the listener, the sound will arrive at the left ear microseconds before it
+arrives at the right ear (Figure 14.20). This time difference is an example of an interaural time difference. Also, the sound
+will be slightly louder in the left ear than in the right ear because some of the sound waves reaching the opposite ear are
+blocked by the head. This is an example of an interaural intensity difference.
+
+ 584 CHAPTER 14| THE BRAIN AND CRANIAL NERVES
+
+Sound source
+
+—__
+N—_
+NX—_EO
+=
+
+a_i
+
+Sound waves arrive at both
+ears at the same time, with
+the same intensity.
+
+@ Sound source
+
+arrives arrives
+first, later,
+louder softer
+
+Connections between neurons on
+either side enable the comparison
+of very slight differences in the
+sound stimuli that arrive at each ear.
+

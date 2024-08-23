@@ -1,0 +1,12 @@
+Smooth muscle can be stimulated by pacesetter cells, by the autonomic
+nervous system, by hormones, spontaneously, or by stretching. The fibers in some smooth muscle have latch-bridges, cross-
+bridges that cycle slowly without the need for ATP; these muscles can maintain low-level contractions for long periods.
+ Single-unit smooth muscle tissue contains gap junctions to synchronize membrane depolarization and contractions so that
+the muscle contracts as a single unit. Single-unit smooth muscle in the walls of the viscera, called visceral muscle, has a
+stress-relaxation response that permits muscle to stretch, contract, and relax as the organ expands. Multiunit smooth muscle
+cells do not possess gap junctions, and contraction does not spread from one cell to the next.
+
+ 10.9 Development and Regeneration of Muscle Tissue
+
+Muscle tissue arises from embryonic mesoderm. Somites give rise to myoblasts and fuse to form a myotube. The nucleus
+of each contributing myoblast remains intact in the mature skeletal muscle cell, resulting in a mature, multinucleate cell.

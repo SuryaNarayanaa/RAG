@@ -1,0 +1,9 @@
+This six-carbon sugar is split to form two phosphorylated three-carbon molecules, glyceraldehyde-3-phosphate and
+dihydroxyacetone phosphate, which are both converted into glyceraldehyde-3-phosphate. The glyceraldehyde-3-phosphate
+is further phosphorylated with groups donated by dihydrogen phosphate present in the cell to form the three-carbon
+molecule 1,3-bisphosphoglycerate. The energy of this reaction comes from the oxidation of (removal of electrons from)
+glyceraldehyde-3-phosphate. In a series of reactions leading to pyruvate, the two phosphate groups are then transferred to
+two ADPs to form two ATPs. Thus, glycolysis uses two ATPs but generates four ATPs, yielding a net gain of two ATPs and
+two molecules of pyruvate. In the presence of oxygen, pyruvate continues on to the Krebs cycle (also called the citric acid
+cycle or tricarboxylic acid cycle (TCA), where additional energy is extracted and passed on.
+

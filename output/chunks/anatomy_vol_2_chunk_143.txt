@@ -1,0 +1,11 @@
+Parkinson’s disease is linked to an increase in a protein known as alpha-synuclein that is toxic to the cells of
+the substantia nigra nucleus in the midbrain.
+
+ For proteins to function correctly, they are dependent on their three-dimensional shape. The linear sequence of
+amino acids folds into a three-dimensional shape that is based on the interactions between and among those amino
+acids. When the folding is disturbed, and proteins take on a different shape, they stop functioning correctly. But the
+disease is not necessarily the result of functional loss of these proteins; rather, these altered proteins start to accumulate
+and may become toxic. For example, in Alzheimer’s, the hallmark of the disease is the accumulation of these amyloid
+plaques in the cerebral cortex. The term coined to describe this sort of disease is “proteopathy” and it includes other
+diseases. Creutzfeld-Jacob disease, the human variant of the prion disease known as mad cow disease in the bovine,
+also involves the accumulation of amyloid plaques, similar to Alzheimer’s.

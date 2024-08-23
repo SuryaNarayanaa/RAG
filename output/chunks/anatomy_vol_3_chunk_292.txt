@@ -1,0 +1,12 @@
+Co-transport uses
+the movement of one molecule through the membrane from higher to lower concentration to power the movement o:
+another from lower to higher. Finally, endocytosis is a transportation process in which the cell membrane engulfs material.
+ It requires energy, generally in the form of ATP.
+
+ Because the cell’s plasma membrane is made up of hydrophobic phospholipids, water-soluble nutrients must use
+transport molecules embedded in the membrane to enter cells. Moreover, substances cannot pass between the epithelial cells
+of the intestinal mucosa because these cells are bound together by tight junctions. Thus, substances can only enter blood
+capillaries by passing through the apical surfaces of epithelial cells and into the interstitial fluid. Water-soluble nutrients
+enter the capillary blood in the villi and travel to the liver via the hepatic portal vein.
+
+ In contrast to the water-soluble nutrients, lipid-soluble nutrients can diffuse through the plasma membrane.

@@ -1,0 +1,11 @@
+That neuron sends a signal along its axon to excite the biceps brachii, causing
+contraction of the muscle and flexion of the forearm at the elbow to withdraw the hand from the hot stove. The withdrawal
+reflex has more components, such as inhibiting the opposing muscle and balancing posture while the arm is forcefully
+withdrawn, which will be further explored at the end of this chapter.
+
+ The basic withdrawal reflex explained above includes sensory input (the painful stimulus), central processing (the
+synapse in the spinal cord), and motor output (activation of a ventral motor neuron that causes contraction of the biceps
+brachii). Expanding the explanation of the withdrawal reflex can include inhibition of the opposing muscle, or cross
+extension, either of which increase the complexity of the example by involving more central neurons. A collateral branch
+of the sensory axon would inhibit another ventral horn motor neuron so that the triceps brachii do not contract and slow the
+withdrawal down.

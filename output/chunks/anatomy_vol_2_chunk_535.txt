@@ -1,0 +1,10 @@
+Drugs can be thought of as chemical tools to effect changes in the system with some precision, based
+on where those drugs are effective.
+
+ Nicotine is not a drug that is used therapeutically, except for smoking cessation. When it is introduced into the body
+via products, it has broad effects on the autonomic system. Nicotine carries a risk for cardiovascular disease because of
+these broad effects. The drug stimulates both sympathetic and parasympathetic ganglia at the preganglionic fiber synapse.
+ For most organ systems in the body, the competing input from the two postganglionic fibers will essentially cancel each
+other out. However, for the cardiovascular system, the results are different. Because there is essentially no parasympathetic
+influence on blood pressure for the entire body, the sympathetic input is increased by nicotine, causing an increase in
+blood pressure. Also, the influence that the autonomic system has on the heart is not the same as for other systems.

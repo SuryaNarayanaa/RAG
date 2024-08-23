@@ -1,0 +1,9 @@
+This reflex is similar to the somatic reflex, but the
+efferent branch is composed of two neurons. The central neuron projects from the spinal cord or brain stem to synapse on
+the ganglionic neuron that projects to the effector. The afferent branch of the somatic and visceral reflexes is very similar, as
+many somatic and special senses activate autonomic responses. However, there are visceral senses that do not form part of
+conscious perception. If a visceral sensation, such as cardiac pain, is strong enough, it will rise to the level of consciousness.
+ However, the sensory homunculus does not provide a representation of the internal structures to the same degree as the
+surface of the body, so visceral sensations are often experienced as referred pain, such as feelings of pain in the left shoulder
+and arm in connection with a heart attack.
+

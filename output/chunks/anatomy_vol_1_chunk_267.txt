@@ -1,0 +1,13 @@
+Having an internal body temperature around 98.6. F thus also
+aids in diffusion of particles within the body.
+
+ Visit this link (http://openstaxcollege.org/I/diffusion) to see diffusion and how it is propelled by the kinetic energy
+of molecules in solution. How does temperature affect diffusion rate, and why?
+
+ Whenever a substance exists in greater concentration on one side of a semipermeable membrane, such as the cell
+membranes, any substance that can move down its concentration gradient across the membrane will do so. Consider
+substances that can easily diffuse through the lipid bilayer of the cell membrane, such as the gases oxygen (O2) and CO2. O2
+generally diffuses into cells because it is more concentrated outside of them, and CO? typically diffuses out of cells because
+it is more concentrated inside of them. Neither of these examples requires any energy on the part of the cell, and therefore
+they use passive transport to move across the membrane.
+

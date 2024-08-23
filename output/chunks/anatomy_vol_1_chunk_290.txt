@@ -1,0 +1,13 @@
+In addition
+
+to lipid synthesis, the smooth ER also sequesters (i.e., stores) and regulates the concentration of cellular Ca**, a function
+
+extremely important in cells of the nervous system where Ca”” is the trigger for neurotransmitter release. The smooth ER
+additionally metabolizes some carbohydrates and performs a detoxification role, breaking down certain toxins.
+
+ In contrast with the smooth ER, the primary job of the rough ER is the synthesis and modification of proteins destined
+for the cell membrane or for export from the cell. For this protein synthesis, many ribosomes attach to the ER (giving it the
+studded appearance of rough ER). Typically, a protein is synthesized within the ribosome and released inside the channel of
+the rough ER, where sugars can be added to it (by a process called glycosylation) before it is transported within a vesicle to
+the next stage in the packaging and shipping process: the Golgi apparatus.
+

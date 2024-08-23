@@ -1,0 +1,12 @@
+If the sensory stimulus is received
+by a specialized sensory receptor cell, the graded potential is called a receptor potential. Graded potentials produced by
+interactions between neurons at synapses are called postsynaptic potentials (PSPs). A depolarizing graded potential at a
+synapse is called an excitatory PSP, and a hyperpolarizing graded potential at a synapse is called an inhibitory PSP.
+
+ Synapses are the contacts between neurons, which can either be chemical or electrical in nature. Chemical synapses
+are far more common. At a chemical synapse, neurotransmitter is released from the presynaptic element and diffuses across
+the synaptic cleft. The neurotransmitter binds to a receptor protein and causes a change in the postsynaptic membrane (the
+PSP). The neurotransmitter must be inactivated or removed from the synaptic cleft so that the stimulus is limited in time.
+
+ The particular characteristics of a synapse vary based on the neurotransmitter system produced by that neuron. The
+cholinergic system is found at the neuromuscular junction and in certain places within the nervous system.

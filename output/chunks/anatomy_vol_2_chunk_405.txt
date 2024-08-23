@@ -1,0 +1,9 @@
+Neurons located in the primary motor cortex, named Betz cells, are large cortical neurons that synapse with
+lower motor neurons in the spinal cord or the brain stem. The two descending pathways travelled by the axons of Betz
+cells are the corticospinal tract and the corticobulbar tract. Both tracts are named for their origin in the cortex and their
+targets—either the spinal cord or the brain stem (the term “bulbar” refers to the brain stem as the bulb, or enlargement, at
+the top of the spinal cord).
+
+ These two descending pathways are responsible for the conscious or voluntary movements of skeletal muscles. Any
+motor command from the primary motor cortex is sent down the axons of the Betz cells to activate upper motor neurons in
+either the cranial motor nuclei or in the ventral horn of the spinal cord.

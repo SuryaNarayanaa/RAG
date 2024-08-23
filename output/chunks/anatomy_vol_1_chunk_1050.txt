@@ -1,0 +1,24 @@
+It primarily affects males, and it is usually
+diagnosed in early childhood. DMD usually first appears as difficulty with balance and motion, and then progresses to
+an inability to walk. It continues progressing upward in the body from the lower extremities to the upper body, where it
+affects the muscles responsible for breathing and circulation. It ultimately causes death due to respiratory failure, and
+those afflicted do not usually live past their 20s.
+
+ Because DMD is caused by a mutation in the gene that codes for dystrophin, it was thought that introducing
+healthy myoblasts into patients might be an effective treatment. Myoblasts are the embryonic cells responsible for
+muscle development, and ideally, they would carry healthy genes that could produce the dystrophin needed for
+normal muscle contraction. This approach has been largely unsuccessful in humans. A recent approach has involved
+attempting to boost the muscle’s production of utrophin, a protein similar to dystrophin that may be able to assume the
+role of dystrophin and prevent cellular damage from occurring.
+
+392 CHAPTER 10 | MUSCLE TISSUE
+
+10.4 | Nervous System Control of Muscle Tension
+
+By the end of this section, you will be able to:
+¢ Explain concentric, isotonic, and eccentric contractions
+¢ Describe the length-tension relationship
+¢ Describe the three phases of a muscle twitch
+¢ Define wave summation, tetanus, and treppe
+
+To move an object, referred to as load, the sarcomeres in the muscle fibers of the skeletal muscle must shorten.

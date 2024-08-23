@@ -1,0 +1,13 @@
+Transmembrane receptors are activated by chemicals called ligands. For example, a molecule
+in food can serve as a ligand for taste receptors. Other transmembrane proteins, which are not accurately called receptors,
+are sensitive to mechanical or thermal changes. Physical changes in these proteins increase ion flow across the membrane,
+and can generate an action potential or a graded potential in the sensory neurons.
+
+ Sensory Receptors
+
+Stimuli in the environment activate specialized receptor cells in the peripheral nervous system. Different types of stimuli
+are sensed by different types of receptor cells. Receptor cells can be classified into types on the basis of three different
+criteria: cell type, position, and function. Receptors can be classified structurally on the basis of cell type and their position
+in relation to stimuli they sense. They can also be classified functionally on the basis of the transduction of stimuli, or how
+the mechanical stimulus, light, or chemical changed the cell membrane potential.
+

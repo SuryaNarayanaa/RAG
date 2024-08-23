@@ -1,0 +1,15 @@
+These
+hormones are essential for fluid and electrolyte balance.
+
+ Aldosterone is the major mineralocorticoid. It is important in the regulation of the concentration of sodium and
+
+potassium ions in urine, sweat, and saliva. For example, it is released in response to elevated blood K’, low blood Na’, low
+
+blood pressure, or low blood volume. In response, aldosterone increases the excretion of K* and the retention of Na‘, which
+in turn increases blood volume and blood pressure. Its secretion is prompted when CRH from the hypothalamus triggers
+ACTH release from the anterior pituitary.
+
+ Aldosterone is also a key component of the renin-angiotensin-aldosterone system (RAAS) in which specialized cells
+of the kidneys secrete the enzyme renin in response to low blood volume or low blood pressure. Renin then catalyzes
+the conversion of the blood protein angiotensinogen, produced by the liver, to the hormone angiotensin I. Angiotensin
+I is converted in the lungs to angiotensin II by angiotensin-converting enzyme (ACE).

@@ -1,0 +1,11 @@
+The six-carbon citrate molecule is systematically converted to a five-carbon molecule and then a four-carbon molecule,
+ending with oxaloacetate, the beginning of the cycle. Along the way, each citrate molecule will produce one ATP, one
+FADHg, and three NADH. The FADH2 and NADH will enter the oxidative phosphorylation system located in the inner
+mitochondrial membrane. In addition, the Krebs cycle supplies the starting materials to process and break down proteins
+and fats.
+
+To start the Krebs cycle, citrate synthase combines acetyl CoA and oxaloacetate to form a six-carbon citrate molecule;
+CoA is subsequently released and can combine with another pyruvate molecule to begin the cycle again. The aconitase
+enzyme converts citrate into isocitrate. In two successive steps of oxidative decarboxylation, two molecules of CO2 and
+two NADH molecules are produced when isocitrate dehydrogenase converts isocitrate into the five-carbon a-ketoglutarate,
+which is then catalyzed and converted into the four-carbon succinyl CoA by a-ketoglutarate dehydrogenase.

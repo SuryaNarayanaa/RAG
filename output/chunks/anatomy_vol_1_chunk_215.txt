@@ -1,0 +1,28 @@
+While carbohydrates
+and lipids are composed of hydrocarbons and oxygen, all proteins also contain nitrogen (N), and many contain sulfur (S),
+in addition to carbon, hydrogen, and oxygen.
+
+Microstructure of Proteins
+
+Proteins are polymers made up of nitrogen-containing monomers called amino acids. An amino acid is a molecule
+composed of an amino group and a carboxyl group, together with a variable side chain. Just 20 different amino acids
+contribute to nearly all of the thousands of different proteins important in human structure and function. Body proteins
+contain a unique combination of a few dozen to a few hundred of these 20 amino acid monomers. All 20 of these amino
+acids share a similar structure (Figure 2.24). All consist of a central carbon atom to which the following are bonded:
+
+¢ ahydrogen atom
+
+¢ an alkaline (basic) amino group NH2 (see Table 2.1)
+
+¢ an acidic carboxyl group COOH (see Table 2.1)
+
+¢ a variable group
+
+Amino group Carboxyl group
+
+« carbon
+
+Figure 2.24 Structure of an Amino Acid
+
+Notice that all amino acids contain both an acid (the carboxyl group) and a base (the amino group) (amine = “nitrogen-
+containing”).

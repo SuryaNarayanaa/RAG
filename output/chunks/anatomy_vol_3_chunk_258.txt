@@ -1,0 +1,10 @@
+Bacterial Flora
+
+Most bacteria that enter the alimentary canal are killed by lysozyme, defensins, HCl, or protein-digesting enzymes.
+ However, trillions of bacteria live within the large intestine and are referred to as the bacterial flora. Most of the more
+than 700 species of these bacteria are nonpathogenic commensal organisms that cause no harm as long as they stay in
+the gut lumen. In fact, many facilitate chemical digestion and absorption, and some synthesize certain vitamins, mainly
+biotin, pantothenic acid, and vitamin K. Some are linked to increased immune response. A refined system prevents these
+bacteria from crossing the mucosal barrier. First, peptidoglycan, a component of bacterial cell walls, activates the release of
+chemicals by the mucosa’s epithelial cells, which draft immune cells, especially dendritic cells, into the mucosa. Dendritic
+cells open the tight junctions between epithelial cells and extend probes into the lumen to evaluate the microbial antigens.

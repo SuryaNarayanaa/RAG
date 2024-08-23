@@ -1,0 +1,24 @@
+Amino acids in the structure of the protein are sensitive to charge and cause the pore to open to the
+selected ion.
+
+ A leakage channel is randomly gated, meaning that it opens and closes at random, hence the reference to leaking.
+ There is no actual event that opens the channel; instead, it has an intrinsic rate of switching between the open and closed
+states. Leakage channels contribute to the resting transmembrane voltage of the excitable membrane (Figure 12.21).
+
+ Leakage channel closed Leakage channel randomly opens
+
+Extracellular fluid
+
+Concentration gradient
+
+membrane
+
+lons
+
+Figure 12.21 Leakage Channels _ In certain situations, ions need to move across the membrane randomly. The
+particular electrical properties of certain cells are modified by the presence of this type of channel.
+
+ The Membrane Potential
+
+The electrical state of the cell membrane can have several variations. These are all variations in the membrane potential.
+ A potential is a distribution of charge across the cell membrane, measured in millivolts (mV).

@@ -1,0 +1,8 @@
+“star”). Astrocytes have many processes extending from their main cell body (not axons or dendrites
+like neurons, just cell extensions). Those processes extend to interact with neurons, blood vessels, or the connective tissue
+covering the CNS that is called the pia mater (Figure 12.11). Generally, they are supporting cells for the neurons in the
+central nervous system. Some ways in which they support neurons in the central nervous system are by maintaining the
+concentration of chemicals in the extracellular space, removing excess signaling molecules, reacting to tissue damage,
+and contributing to the blood-brain barrier (BBB). The blood-brain barrier is a physiological barrier that keeps many
+substances that circulate in the rest of the body from getting into the central nervous system, restricting what can cross from
+circulating blood into the CNS.

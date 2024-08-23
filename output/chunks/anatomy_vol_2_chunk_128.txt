@@ -1,0 +1,16 @@
+Does spatial summation have to happen all at once, or can the separate signals arrive on the postsynaptic
+
+neuron at slightly different times? Explain your answer.
+
+ Synapses
+
+There are two types of connections between electrically active cells, chemical synapses and electrical synapses. In a
+chemical synapse, a chemical signal—namely, a neurotransmitter—is released from one cell and it affects the other cell.
+ In an electrical synapse, there is a direct connection between the two cells so that ions can pass directly from one cell to
+the next. If one cell is depolarized in an electrical synapse, the joined cell also depolarizes because the ions pass between
+the cells. Chemical synapses involve the transmission of chemical information from one cell to the next. This section will
+concentrate on the chemical type of synapse.
+
+ An example of a chemical synapse is the neuromuscular junction (NMJ) described in the chapter on muscle tissue. In
+
+the nervous system, there are many more synapses that are essentially the same as the NMJ.

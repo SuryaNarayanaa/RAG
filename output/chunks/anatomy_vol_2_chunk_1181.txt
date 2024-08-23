@@ -1,0 +1,16 @@
+Water moves by osmosis.
+
+ Bulk Flow
+
+The mass movement of fluids into and out of capillary beds requires a transport mechanism far more efficient than mere
+diffusion. This movement, often referred to as bulk flow, involves two pressure-driven mechanisms: Volumes of fluid move
+from an area of higher pressure in a capillary bed to an area of lower pressure in the tissues via filtration. In contrast,
+the movement of fluid from an area of higher pressure in the tissues into an area of lower pressure in the capillaries is
+reabsorption. Two types of pressure interact to drive each of these movements: hydrostatic pressure and osmotic pressure.
+
+ Hydrostatic Pressure
+
+The primary force driving fluid transport between the capillaries and tissues is hydrostatic pressure, which can be defined
+as the pressure of any fluid enclosed in a space. Blood hydrostatic pressure is the force exerted by the blood confined
+within blood vessels or heart chambers. Even more specifically, the pressure exerted by blood against the wall of a capillary
+is called capillary hydrostatic pressure (CHP), and is the same as capillary blood pressure.

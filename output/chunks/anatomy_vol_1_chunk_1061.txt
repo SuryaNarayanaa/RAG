@@ -1,0 +1,24 @@
+The last phase is
+
+the relaxation phase, when tension decreases as contraction stops. Ca” ions are pumped out of the sarcoplasm into the
+SR, and cross-bridge cycling stops, returning the muscle fibers to their resting state.
+
+ Latent Contraction Relaxation
+
+period period period
+c
+2
+a
+c
+oO
+=
+
+(e) 10 20 30 40 50 60 70 80 90 100
+Time (msec)
+
+Single stimulus
+
+Figure 10.15 A Myogram of a Muscle Twitch A single muscle twitch has a latent period, a contraction phase when
+tension increases, and a relaxation phase when tension decreases. During the latent period, the action potential is
+being propagated along the sarcolemma. During the contraction phase, Ca** ions in the sarcoplasm bind to troponin,
+tropomyosin moves from actin-binding sites, cross-bridges form, and sarcomeres shorten.

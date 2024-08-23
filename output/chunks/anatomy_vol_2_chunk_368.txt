@@ -1,0 +1,13 @@
+The spinothalamic tract also begins with neurons in a dorsal root ganglion. These neurons extend their axons to the
+dorsal horn, where they synapse with the second neuron in their respective pathway. The name “spinothalamic” comes from
+this second neuron, which has its cell body in the spinal cord gray matter and connects to the thalamus. Axons from these
+second neurons then decussate within the spinal cord and ascend to the brain and enter the thalamus, where each synapses
+with the third neuron in its respective pathway. The neurons in the thalamus then project their axons to the spinothalamic
+tract, which synapses in the postcentral gyrus of the cerebral cortex.
+
+
+ 582 CHAPTER 14| THE BRAIN AND CRANIAL NERVES
+
+These two systems are similar in that they both begin with dorsal root ganglion cells, as with most general sensory
+information. The dorsal column system is primarily responsible for touch sensations and proprioception, whereas the
+spinothalamic tract pathway is primarily responsible for pain and temperature sensations.

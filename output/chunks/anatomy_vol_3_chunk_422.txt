@@ -1,0 +1,14 @@
+24.2 Carbohydrate Metabolism
+
+Metabolic enzymes catalyze catabolic reactions that break down carbohydrates contained in food. The energy released is
+used to power the cells and systems that make up your body. Excess or unutilized energy is stored as fat or glycogen for
+later use. Carbohydrate metabolism begins in the mouth, where the enzyme salivary amylase begins to break down complex
+sugars into monosaccharides. These can then be transported across the intestinal membrane into the bloodstream and then to
+body tissues. In the cells, glucose, a six-carbon sugar, is processed through a sequence of reactions into smaller sugars, and
+the energy stored inside the molecule is released. The first step of carbohydrate catabolism is glycolysis, which produces
+pyruvate, NADH, and ATP. Under anaerobic conditions, the pyruvate can be converted into lactate to keep glycolysis
+working. Under aerobic conditions, pyruvate enters the Krebs cycle, also called the citric acid cycle or tricarboxylic acid
+
+1122 CHAPTER 24 | METABOLISM AND NUTRITION
+
+cycle.

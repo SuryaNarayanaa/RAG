@@ -1,0 +1,14 @@
+Mixing a drop of blood and saline into each well enables the blood to interact with a preparation of
+type-specific antibodies, also called anti-seras. Agglutination of RBCs in a given site indicates a positive identification
+of the blood antigens, in this case A and Rh antigens for blood type A*. For the purpose of transfusion, the donor’s and
+recipient's blood types must match.
+
+ ABO Transfusion Protocols
+
+To avoid transfusion reactions, it is best to transfuse only matching blood types; that is, a type B” recipient should ideally
+
+receive blood only from a type B* donor and so on. That said, in emergency situations, when acute hemorrhage threatens
+the patient’s life, there may not be time for cross matching to identify blood type. In these cases, blood from a universal
+
+donor—an individual with type O blood—may be transfused. Recall that type O erythrocytes do not display A or B
+antigens.

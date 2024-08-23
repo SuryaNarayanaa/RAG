@@ -1,0 +1,13 @@
+Relate characteristics of an electrocardiogram to events in the cardiac cycle
+¢ Identify blocks that can interrupt the cardiac cycle
+
+Recall that cardiac muscle shares a few characteristics with both skeletal muscle and smooth muscle, but it has some unique
+properties of its own. Not the least of these exceptional properties is its ability to initiate an electrical potential at a fixed
+rate that spreads rapidly from cell to cell to trigger the contractile mechanism. This property is known as autorhythmicity.
+ Neither smooth nor skeletal muscle can do this. Even though cardiac muscle has autorhythmicity, heart rate is modulated by
+the endocrine and nervous systems.
+
+ There are two major types of cardiac muscle cells: myocardial contractile cells and myocardial conducting cells. The
+myocardial contractile cells constitute the bulk (99 percent) of the cells in the atria and ventricles. Contractile cells conduct
+impulses and are responsible for contractions that pump blood through the body. The myocardial conducting cells (1
+percent of the cells) form the conduction system of the heart.

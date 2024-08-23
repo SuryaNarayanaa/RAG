@@ -1,0 +1,16 @@
+There are also acquired immunodeficiencies with potentially devastating
+effects on the immune system, such as HIV.
+
+ Inherited Immunodeficiencies
+
+A list of all inherited immunodeficiencies is well beyond the scope of this book. The list is almost as long as the list of cells,
+proteins, and signaling molecules of the immune system itself. Some deficiencies, such as those for complement, cause
+only a higher susceptibility to some Gram-negative bacteria. Others are more severe in their consequences. Certainly, the
+most serious of the inherited immunodeficiencies is severe combined immunodeficiency disease (SCID). This disease is
+complex because it is caused by many different genetic defects. What groups them together is the fact that both the B cell
+and T cell arms of the adaptive immune response are affected.
+
+ Children with this disease usually die of opportunistic infections within their first year of life unless they receive
+a bone marrow transplant. Such a procedure had not yet been perfected for David Vetter, the “boy in the bubble,” who
+was treated for SCID by having to live almost his entire life in a sterile plastic cocoon for the 12 years before his death
+from infection in 1984.

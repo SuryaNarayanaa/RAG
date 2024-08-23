@@ -1,0 +1,11 @@
+Figure 22.24 Hyperbaric Chamber (credit: “komunews’/flickr.com)
+
+ Hyperbaric chamber treatment is based on the behavior of gases. As you recall, gases move from a region of
+higher partial pressure to a region of lower partial pressure. In a hyperbaric chamber, the atmospheric pressure is
+increased, causing a greater amount of oxygen than normal to diffuse into the bloodstream of the patient. Hyperbaric
+chamber therapy is used to treat a variety of medical problems, such as wound and graft healing, anaerobic bacterial
+infections, and carbon monoxide poisoning. Exposure to and poisoning by carbon monoxide is difficult to reverse,
+because hemoglobin’s affinity for carbon monoxide is much stronger than its affinity for oxygen, causing carbon
+monoxide to replace oxygen in the blood. Hyperbaric chamber therapy can treat carbon monoxide poisoning, because
+the increased atmospheric pressure causes more oxygen to diffuse into the bloodstream. At this increased pressure and
+increased concentration of oxygen, carbon monoxide is displaced from hemoglobin.

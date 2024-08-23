@@ -1,0 +1,10 @@
+The CNS and the PNS both contribute to the same functions, but those functions can be attributed to different
+regions of the brain (such as the cerebral cortex or the hypothalamus) or to different ganglia in the periphery. The problem
+with trying to fit functional differences into anatomical divisions is that sometimes the same structure can be part of several
+functions. For example, the optic nerve carries signals from the retina that are either used for the conscious perception
+of visual stimuli, which takes place in the cerebral cortex, or for the reflexive responses of smooth muscle tissue that are
+processed through the hypothalamus.
+
+ There are two ways to consider how the nervous system is divided functionally. First, the basic functions of the nervous
+system are sensation, integration, and response. Secondly, control of the body can be somatic or autonomic—divisions that
+are largely defined by the structures that are involved in the response.

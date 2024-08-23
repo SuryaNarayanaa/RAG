@@ -1,0 +1,10 @@
+Because carbon dioxide is released from the lungs, blood that leaves
+the lungs and reaches body tissues has a lower partial pressure of carbon dioxide than is found in the tissues. As a result,
+carbon dioxide leaves the tissues because of its higher partial pressure, enters the blood, and then moves into red blood cells,
+binding to hemoglobin. In contrast, in the pulmonary capillaries, the partial pressure of carbon dioxide is high compared
+to within the alveoli. As a result, carbon dioxide dissociates readily from hemoglobin and diffuses across the respiratory
+membrane into the air.
+
+ In addition to the partial pressure of carbon dioxide, the oxygen saturation of hemoglobin and the partial pressure of
+oxygen in the blood also influence the affinity of hemoglobin for carbon dioxide. The Haldane effect is a phenomenon
+that arises from the relationship between the partial pressure of oxygen and the affinity of hemoglobin for carbon dioxide.

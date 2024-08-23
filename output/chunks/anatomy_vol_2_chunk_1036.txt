@@ -1,0 +1,12 @@
+Occasional occurances are generally transitory and nonlife threatening, but if the condition becomes chronic, it
+may lead to either an arrhythmia, a deviation from the normal pattern of impulse conduction and contraction, or to
+fibrillation, an uncoordinated beating of the heart.
+
+ While interpretation of an ECG is possible and extremely valuable after some training, a full understanding of
+the complexities and intricacies generally requires several years of experience. In general, the size of the electrical
+variations, the duration of the events, and detailed vector analysis provide the most comprehensive picture of cardiac
+function. For example, an amplified P wave may indicate enlargement of the atria, an enlarged Q wave may indicate
+a MI, and an enlarged suppressed or inverted Q wave often indicates enlarged ventricles. T waves often appear flatter
+when insufficient oxygen is being delivered to the myocardium. An elevation of the ST segment above baseline is
+often seen in patients with an acute MI, and may appear depressed below the baseline when hypoxia is occurring.
+

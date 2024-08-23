@@ -1,0 +1,26 @@
+In addition, alveolar air contains
+a greater amount of carbon dioxide and less oxygen than atmospheric air. This is no surprise, as gas exchange removes
+oxygen from and adds carbon dioxide to alveolar air. Both deep and forced breathing cause the alveolar air composition to
+be changed more rapidly than during quiet breathing. As a result, the partial pressures of oxygen and carbon dioxide change,
+affecting the diffusion process that moves these materials across the membrane. This will cause oxygen to enter and carbon
+dioxide to leave the blood more quickly.
+
+
+998 CHAPTER 22 | THE RESPIRATORY SYSTEM
+
+Composition and Partial Pressures of Alveolar Air
+
+Partial pressure
+
+Gas Percent of total composition (mm Hg)
+Nitrogen (N2) 74.9 569
+Oxygen (O2) 13.7 104
+Water (H20) 6.2 40
+Carbon dioxide (CO2) 5.2 47
+Total composition/total alveolar pressure | 100% 760.0
+
+Table 22.3
+
+Ventilation and Perfusion
+
+Two important aspects of gas exchange in the lung are ventilation and perfusion.

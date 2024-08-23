@@ -1,0 +1,17 @@
+Explain topographical representations of sensory information in at least two systems
+
+¢ Describe two pathways of visual processing and the functions associated with each
+
+Sensory Pathways
+
+Specific regions of the CNS coordinate different somatic processes using sensory inputs and motor outputs of peripheral
+nerves. A simple case is a reflex caused by a synapse between a dorsal sensory neuron axon and a motor neuron in the
+ventral horn. More complex arrangements are possible to integrate peripheral sensory information with higher processes.
+ The important regions of the CNS that play a role in somatic processes can be separated into the spinal cord brain stem,
+diencephalon, cerebral cortex, and subcortical structures.
+
+ Spinal Cord and Brain Stem
+
+A sensory pathway that carries peripheral sensations to the brain is referred to as an ascending pathway, or ascending
+tract. The various sensory modalities each follow specific pathways through the CNS. Tactile and other somatosensory
+stimuli activate receptors in the skin, muscles, tendons, and joints throughout the entire body.

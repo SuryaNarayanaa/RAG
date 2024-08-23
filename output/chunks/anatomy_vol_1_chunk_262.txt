@@ -1,0 +1,12 @@
+A ligand is the specific molecule that binds
+to and activates a receptor. Some integral proteins serve dual roles as both a receptor and an ion channel. One example of a
+receptor-ligand interaction is the receptors on nerve cells that bind neurotransmitters, such as dopamine. When a dopamine
+molecule binds to a dopamine receptor protein, a channel within the transmembrane protein opens to allow certain ions to
+flow into the cell.
+
+ Some integral membrane proteins are glycoproteins. A glycoprotein is a protein that has carbohydrate molecules
+attached, which extend into the extracellular matrix. The attached carbohydrate tags on glycoproteins aid in cell recognition.
+ The carbohydrates that extend from membrane proteins and even from some membrane lipids collectively form the
+glycocalyx. The glycocalyx is a fuzzy-appearing coating around the cell formed from glycoproteins and other carbohydrates
+attached to the cell membrane. The glycocalyx can have various roles. For example, it may have molecules that allow the
+cell to bind to another cell, it may contain receptors for hormones, or it might have enzymes to break down nutrients.

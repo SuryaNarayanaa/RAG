@@ -1,0 +1,11 @@
+The rapid but nonspecific innate immune response, which consists of a variety of specialized cells and soluble factors
+* The slower but more specific and effective adaptive immune response, which involves many cell types and soluble
+factors, but is primarily controlled by white blood cells (leukocytes) known as lymphocytes, which help control
+immune responses
+The cells of the blood, including all those involved in the immune response, arise in the bone marrow via various
+differentiation pathways from hematopoietic stem cells (Figure 21.5). In contrast with embryonic stem cells, hematopoietic
+stem cells are present throughout adulthood and allow for the continuous differentiation of blood cells to replace those lost
+to age or function. These cells can be divided into three classes based on function:
+* Phagocytic cells, which ingest pathogens to destroy them
+* Lymphocytes, which specifically coordinate the activities of adaptive immunity
+*

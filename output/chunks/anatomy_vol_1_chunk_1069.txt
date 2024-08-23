@@ -1,0 +1,10 @@
+The primary metabolic pathway
+used by a muscle fiber determines whether the fiber is classified as oxidative or glycolytic. If a fiber primarily produces
+ATP through aerobic pathways it is oxidative. More ATP can be produced during each metabolic cycle, making the fiber
+more resistant to fatigue. Glycolytic fibers primarily create ATP through anaerobic glycolysis, which produces less ATP per
+cycle. As a result, glycolytic fibers fatigue at a quicker rate.
+
+ The oxidative fibers contain many more mitochondria than the glycolytic fibers, because aerobic metabolism, which
+uses oxygen (O2) in the metabolic pathway, occurs in the mitochondria. The SO fibers possess a large number of
+mitochondria and are capable of contracting for longer periods because of the large amount of ATP they can produce, but
+they have a relatively small diameter and do not produce a large amount of tension.

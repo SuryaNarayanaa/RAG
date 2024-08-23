@@ -1,0 +1,18 @@
+The extended refractory period allows the cell to fully contract before another electrical event can occur.
+
+(b) The action potential for heart muscle is compared to that of skeletal muscle.
+
+ Calcium lons
+
+Calcium ions play two critical roles in the physiology of cardiac muscle. Their influx through slow calcium channels
+accounts for the prolonged plateau phase and absolute refractory period that enable cardiac muscle to function properly.
+ Calcium ions also combine with the regulatory protein troponin in the troponin-tropomyosin complex; this complex
+removes the inhibition that prevents the heads of the myosin molecules from forming cross bridges with the active sites
+on actin that provide the power stroke of contraction. This mechanism is virtually identical to that of skeletal muscle.
+ Approximately 20 percent of the calcium required for contraction is supplied by the influx of Ca** during the plateau phase.
+
+ The remaining Ca?* for contraction is released from storage in the sarcoplasmic reticulum.
+ Comparative Rates of Conduction System Firing
+
+The pattern of prepotential or spontaneous depolarization, followed by rapid depolarization and repolarization just
+described, are seen in the SA node and a few other conductive cells in the heart.

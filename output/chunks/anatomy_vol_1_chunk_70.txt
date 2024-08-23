@@ -1,0 +1,13 @@
+Control centers in the brain play roles in regulating physiological parameters
+and keeping them within the normal range. As the body works to maintain homeostasis, any significant deviation from the
+normal range will be resisted and homeostasis restored through a process called negative feedback. Negative feedback is
+a mechanism that prevents a physiological response from going beyond the normal range by reversing the action once the
+normal range is exceeded. The maintenance of homeostasis by negative feedback goes on throughout the body at all times,
+and an understanding of negative feedback is thus fundamental to an understanding of human physiology.
+
+ Negative Feedback
+
+A negative feedback system has three basic components (Figure 1.10a). A sensor, also referred to a receptor, is a
+component of a feedback system that monitors a physiological value. This value is reported to the control center. The
+control center is the component in a feedback system that compares the value to the normal range. If the value deviates too
+much from the set point, then the control center activates an effector.

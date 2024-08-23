@@ -1,0 +1,19 @@
+An excellent example of this is seroconversion during HIV disease (Figure 21.26). Notice that antibodies are made
+early in this disease, and the increase in anti-HIV antibodies correlates with a decrease in detectable virus in the blood.
+ Although these antibodies are an important marker for diagnosing the disease, they are not sufficient to completely clear
+the virus. Several years later, the vast majority of these individuals, if untreated, will lose their entire adaptive immune
+response, including the ability to make antibodies, during the final stages of AIDS.
+
+ Ty, cell count
+
+Concentration in blood
+
+Virus cultured from blood
+
+1 2 3 4 5 6 1 2 3
+Months > Yeas ———>
+
+Time
+
+Figure 21.26 HIV Disease Progression Seroconversion, the rise of anti-HIV antibody levels and the concomitant
+decline in measurable virus levels, happens during the first several months of HIV disease.

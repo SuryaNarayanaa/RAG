@@ -1,0 +1,25 @@
+Clonal selection is the process of antigen binding only to those T cells that have receptors specific to that antigen.
+ Each T cell that is activated has a specific receptor “hard-wired” into its DNA, and all of its progeny will have identical
+DNA and T cell receptors, forming clones of the original T cell.
+
+ Naive Tg cell
+
+Antigen-presenting cell T cell receptor
+(dendritic cell)
+
+Antigen extracted
+from a pathogen
+
+Activated T, cells are cloned and destroy Memory Tc cells are produced and are
+infected cells in the body - activated if this antigen is encountered
+ a ~ again
+
+On*s
+
+Figure 21.19 Clonal Selection and Expansion of T Lymphocytes Stem cells differentiate into T cells with specific
+receptors, called clones. The clones with receptors specific for antigens on the pathogen are selected for and
+expanded.
+
+ Clonal Selection and Expansion
+
+The clonal selection theory was proposed by Frank Burnet in the 1950s.

@@ -1,0 +1,11 @@
+In this case, the patient’s blood is normally diverted to an artificial heart-
+lung machine to maintain the body’s blood supply and gas exchange until the surgery is complete, and sinus rhythm can
+be restored. Excessive hyperthermia and hypothermia will both result in death, as enzymes drive the body systems to cease
+normal function, beginning with the central nervous system.
+
+ Stroke Volume
+
+Many of the same factors that regulate HR also impact cardiac function by altering SV. While a number of variables are
+involved, SV is ultimately dependent upon the difference between EDV and ESV. The three primary factors to consider are
+preload, or the stretch on the ventricles prior to contraction; the contractility, or the force or strength of the contraction itself;
+and afterload, the force the ventricles must generate to pump blood against the resistance in the vessels.

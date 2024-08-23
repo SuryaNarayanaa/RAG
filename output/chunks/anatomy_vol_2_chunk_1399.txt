@@ -1,0 +1,14 @@
+After secreting antibodies for a specific period, they die, as most of their energy is devoted
+to making antibodies and not to maintaining themselves. Thus, plasma cells are said to be terminally differentiated.
+
+ The final B cell of interest is the memory B cell, which results from the clonal expansion of an activated B cell.
+ Memory B cells function in a way similar to memory T cells. They lead to a stronger and faster secondary response when
+compared to the primary response, as illustrated below.
+
+ Antibody Structure
+
+Antibodies are glycoproteins consisting of two types of polypeptide chains with attached carbohydrates. The heavy chain
+and the light chain are the two polypeptides that form the antibody. The main differences between the classes of antibodies
+are in the differences between their heavy chains, but as you shall see, the light chains have an important role, forming part
+of the antigen-binding site on the antibody molecules.
+

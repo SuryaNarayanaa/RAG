@@ -1,0 +1,18 @@
+The worst cases of over-
+reactive immune responses are autoimmune diseases, where an individual’s immune system attacks his or her own body
+because of the breakdown of immunological tolerance. These diseases are more common in the aged, so treating them will
+be a challenge in the future as the aged population in the world increases.
+
+21.7 Transplantation and Cancer Immunology
+
+Blood transfusion and organ transplantation both require an understanding of the immune response to prevent medical
+complications. Blood needs to be typed so that natural antibodies against mismatched blood will not destroy it, causing
+more harm than good to the recipient. Transplanted organs must be matched by their MHC molecules and, with the use of
+immunosuppressive drugs, can be successful even if an exact tissue match cannot be made. Another aspect to the immune
+response is its ability to control and eradicate cancer. Although this has been shown to occur with some rare cancers and
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 21 | THE LYMPHATIC AND IMMUNE SYSTEM 969
+
+those caused by known viruses, the normal immune response to most cancers is not sufficient to control cancer growth.

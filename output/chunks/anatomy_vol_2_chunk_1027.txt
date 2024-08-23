@@ -1,0 +1,36 @@
+This extended period is critical, since the heart muscle must contract
+to pump blood effectively and the contraction must follow the electrical events. Without extended refractory periods,
+premature contractions would occur in the heart and would not be compatible with life.
+
+ Na* channels
+close
+
+Slow Ca?* channels open
+
+xy Slow Ca?* channels close
+
+The plateau
+Repolarization
+
+Rapid depolarization K* channels close
+mV
+
+Voltage-gated Refractory period
+ion channels ry ye
+open Absolute hee
+
+Influx of Na* ; m 200 =
+Time (ms)
+(a)
+Skeletal muscle Cardiac muscle
++30 Action potential +30 4 Action potential
+) o4
+mV mV
+-85 -90
+Contraction Contraction
+Tension Tension
+0 100 200 300 [) 100 200 300
+Time (ms) Time (ms)
+(b)
+Figure 19.21 Action Potential in Cardiac Contractile Cells (a) Note the long plateau phase due to the influx of
+calcium ions.

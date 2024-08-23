@@ -1,0 +1,15 @@
+In the technique, a patient lies on a motorized platform while a computerized
+axial tomography (CAT) scanner rotates 360 degrees around the patient, taking X-ray images. A computer combines these
+images into a two-dimensional view of the scanned area, or “slice.”
+
+36 CHAPTER 1] AN INTRODUCTION TO THE HUMAN BODY
+
+Figure 1.19 Medical Imaging Techniques (a) The results of a CT scan of the head are shown as successive
+transverse sections. (b) An MRI machine generates a magnetic field around a patient. (c) PET scans use
+radiopharmaceuticals to create images of active blood flow and physiologic activity of the organ or organs being
+targeted. (d) Ultrasound technology is used to monitor pregnancies because it is the least invasive of imaging
+techniques and uses no electromagnetic radiation. (credit a: Akira Ohgaki/flickr; credit b: “Digital Cate”/flickr; credit c:
+“Raziel”/Wikimedia Commons; credit d: “Isis’/Wikimedia Commons)
+
+Since 1970, the development of more powerful computers and more sophisticated software has made CT scanning
+routine for many types of diagnostic evaluations.

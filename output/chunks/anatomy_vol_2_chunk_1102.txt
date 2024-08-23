@@ -1,0 +1,15 @@
+The second heart sound, S2 or dub, occurs when the semilunar valves close. When the
+pressure falls below that of the atria, blood moves from the atria into the ventricles, opening the atrioventricular valves and
+marking one complete heart cycle. The valves prevent backflow of blood. Failure of the valves to operate properly produces
+turbulent blood flow within the heart; the resulting heart murmur can often be heard with a stethoscope.
+
+ 19.4 Cardiac Physiology
+
+Many factors affect HR and SV, and together, they contribute to cardiac function. HR is largely determined and regulated
+by autonomic stimulation and hormones. There are several feedback loops that contribute to maintaining homeostasis
+dependent upon activity levels, such as the atrial reflex, which is determined by venous return.
+
+ 834 CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART
+
+SV is regulated by autonomic innervation and hormones, but also by filling time and venous return. Venous return
+is determined by activity of the skeletal muscles, blood volume, and changes in peripheral circulation.

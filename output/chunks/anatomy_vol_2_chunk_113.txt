@@ -1,0 +1,9 @@
+All of this takes place within approximately 2 milliseconds (Figure 12.24). While an action potential is in progress,
+another one cannot be initiated. That effect is referred to as the refractory period. There are two phases of the refractory
+period: the absolute refractory period and the relative refractory period. During the absolute phase, another action
+potential will not start. This is because of the inactivation gate of the voltage-gated Na® channel. Once that channel is back
+to its resting conformation (less than -55 mV), a new action potential could be started, but only by a stronger stimulus than
+the one that initiated the current action potential. This is because of the flow of K” out of the cell. Because that ion is rushing
+
+out, any Na’ that tries to enter will not depolarize the cell, but will only keep the cell from hyperpolarizing.
+

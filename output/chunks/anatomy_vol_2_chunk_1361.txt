@@ -1,0 +1,13 @@
+Made in the liver, they have a variety of functions in the innate immune response, using what is known
+as the “alternate pathway” of complement activation. Additionally, complement functions in the adaptive immune response
+as well, in what is called the classical pathway. The complement system consists of several proteins that enzymatically
+alter and fragment later proteins in a series, which is why it is termed cascade. Once activated, the series of reactions is
+irreversible, and releases fragments that have the following actions:
+
+* Bind to the cell membrane of the pathogen that activates it, labeling it for phagocytosis (opsonization)
+
+* Diffuse away from the pathogen and act as chemotactic agents to attract phagocytic cells to the site of inflammation
+
+¢ Form damaging pores in the plasma membrane of the pathogen
+
+Figure 21.13 shows the classical pathway, which requires antibodies of the adaptive immune response.

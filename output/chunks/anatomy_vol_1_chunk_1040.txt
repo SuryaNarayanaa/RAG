@@ -1,0 +1,10 @@
+This energy is expended as the myosin
+head moves through the power stroke, and at the end of the power stroke, the myosin head is in a low-energy position.
+ After the power stroke, ADP is released; however, the formed cross-bridge is still in place, and actin and myosin are bound
+together. As long as ATP is available, it readily attaches to myosin, the cross-bridge cycle can recur, and muscle contraction
+can continue.
+
+ Note that each thick filament of roughly 300 myosin molecules has multiple myosin heads, and many cross-bridges
+form and break continuously during muscle contraction. Multiply this by all of the sarcomeres in one myofibril, all the
+myofibrils in one muscle fiber, and all of the muscle fibers in one skeletal muscle, and you can understand why so much
+energy (ATP) is needed to keep skeletal muscles working.

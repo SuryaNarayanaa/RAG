@@ -1,0 +1,15 @@
+Some types of stimuli cause depolarization of the
+membrane, whereas others cause hyperpolarization. It depends on the specific ion channels that are activated in the
+cell membrane.
+
+ Types of Graded Potentials
+
+For the unipolar cells of sensory neurons—both those with free nerve endings and those within encapsulations—graded
+potentials develop in the dendrites that influence the generation of an action potential in the axon of the same cell. This
+is called a generator potential. For other sensory receptor cells, such as taste cells or photoreceptors of the retina, graded
+potentials in their membranes result in the release of neurotransmitters at synapses with sensory neurons. This is called a
+receptor potential.
+
+ A postsynaptic potential (PSP) is the graded potential in the dendrites of a neuron that is receiving synapses from
+other cells. Postsynaptic potentials can be depolarizing or hyperpolarizing. Depolarization in a postsynaptic potential is
+called an excitatory postsynaptic potential (EPSP) because it causes the membrane potential to move toward threshold.

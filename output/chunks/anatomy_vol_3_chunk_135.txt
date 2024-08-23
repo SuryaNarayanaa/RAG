@@ -1,0 +1,13 @@
+Respiratory rate is the number of
+breaths taken per minute, which may change during certain diseases or conditions.
+
+ Both respiratory rate and depth are controlled by the respiratory centers of the brain, which are stimulated by factors
+such as chemical and pH changes in the blood. These changes are sensed by central chemoreceptors, which are located in
+the brain, and peripheral chemoreceptors, which are located in the aortic arch and carotid arteries. A rise in carbon dioxide
+or a decline in oxygen levels in the blood stimulates an increase in respiratory rate and depth.
+
+22.4 Gas Exchange
+
+The behavior of gases can be explained by the principles of Dalton’s law and Henry’s law, both of which describe aspects of
+gas exchange. Dalton’s law states that each specific gas in a mixture of gases exerts force (its partial pressure) independently
+of the other gases in the mixture.

@@ -1,0 +1,11 @@
+41 Axons of pain sensing sensory neurons are thin and unmyelinated so that it takes longer for that sensation
+to reach the brain than other sensations. 42 EPSP1 = +5 mV, EPSP2 = +7 mV, EPSP 3 = +10 mV, IPSP1 = -4 mV, IPSP2 =
+-3mV.5+7+10-4-3=+15 mV. 43 Different neurotransmitters have different receptors. Thus, the type of receptor in the
+postsynaptic cell is what determines which ion channels open. Acetylcholine binding to the nicotinic receptor causes cations to
+cross the membrane. GABA binding to its receptor causes the anion chloride to cross the membrane.
+
+ Chapter 13
+
+1 The three regions (forebrain, midbrain, and hindbrain) appear to be approximately equal in size when they are first established,
+but the midbrain in the adult is much smaller than the others—suggesting that it does not increase in size nearly as much as the
+forebrain or hindbrain.

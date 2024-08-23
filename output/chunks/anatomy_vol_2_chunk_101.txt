@@ -1,0 +1,26 @@
+The standard is to compare
+the inside of the cell relative to the outside, so the membrane potential is a value representing the charge on the intracellular
+side of the membrane based on the outside being zero, relatively speaking (Figure 12.22).
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE 491
+
+Reference electrode Recording microelectrode
+
+Extracellular fluid
+ + + + + + + + +
+OOOO OOO OOOO)
+
++ + + + +
+DO OOOOOOOO"T PO?
+
+COOCOO
+
+Cytosol
+
+Figure 12.22 Measuring Charge across a Membrane with a Voltmeter A recording electrode is inserted into the
+cell and a reference electrode is outside the cell. By comparing the charge measured by these two electrodes, the
+transmembrane voltage is determined. It is conventional to express that value for the cytosol relative to the outside.
+
+ The concentration of ions in extracellular and intracellular fluids is largely balanced, with a net neutral charge.

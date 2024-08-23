@@ -1,0 +1,70 @@
+This is
+called negative selection
+(selection for cells that
+don’t bind).
+
+ (from body
+
+cells)
+
+Medulla of
+thymus
+
+Neither CD4
+
+Either CD4 or
+D8 receptor
+
+— | norcbDs —_——
+[ binds to self-
+
+receptor binds
+to self-antigen
+
+Dendritic
+cell
+
+Dendritic
+cell
+
+Thymocyte
+(CD4* CD8*)
+
+(>
+
+Medulla of
+
+® Cell signals cause the
+thymus
+
+Thymocyte
+self-tolerant thymocytes
+
+(CD4* CD8-)
+
+Thymocyte
+(CD4-CD8*)
+to express either the CD4 =~ ——
+
+or the CD8 receptor, but \
+not both. Those that = 0)
+express the CD4 receptor \
+become helper T cells (T}4)
+while those that express
+the CD8 receptor become
+cytotoxic T cells (Tc).
+
+(@»
+oa
+
+Rel
+Mature Tg cell ripgined
+
+Mature T,, cell lymphatic system
+
+(CD4* D8") (CD4-CD8*)
+
+Figure 21.18 Differentiation of T Cells within the Thymus Thymocytes enter the thymus and go through a series of
+developmental stages that ensures both function and tolerance before they leave and become functional components
+of the adaptive immune response.
+

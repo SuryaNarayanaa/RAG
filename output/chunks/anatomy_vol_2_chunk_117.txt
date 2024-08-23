@@ -1,0 +1,20 @@
+If the nodes were any closer together, the speed of propagation would be slower.
+
+ Propagation along an unmyelinated axon is referred to as continuous conduction; along the length of a myelinated
+
+axon, it is saltatory conduction. Continuous conduction is slow because there are always voltage-gated Na’ channels
+
+opening, and more and more Na’ is rushing into the cell. Saltatory conduction is faster because the action potential basically
+
+jumps from one node to the next (saltare = “to leap”), and the new influx of Na* renews the depolarized membrane. Along
+with the myelination of the axon, the diameter of the axon can influence the speed of conduction. Much as water runs faster
+in a wide river than in a narrow creek, Na*-based depolarization spreads faster down a wide axon than down a narrow
+one. This concept is known as resistance and is generally true for electrical wires or plumbing, just as it is true for axons,
+although the specific conditions are different at the scales of electrons or ions versus water in a river.
+
+—
+Homeostatic MBALANCES
+
+Potassium Concentration
+
+Glial cells, especially astrocytes, are responsible for maintaining the chemical environment of the CNS tissue.

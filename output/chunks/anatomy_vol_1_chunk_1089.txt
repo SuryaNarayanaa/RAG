@@ -1,0 +1,14 @@
+Although they do not have striations and sarcomeres, smooth
+muscle fibers do have actin and myosin contractile proteins, and thick and thin filaments. These thin filaments are anchored
+by dense bodies. A dense body is analogous to the Z-discs of skeletal and cardiac muscle fibers and is fastened to the
+sarcolemma. Calcium ions are supplied by the SR in the fibers and by sequestration from the extracellular fluid through
+membrane indentations called calveoli.
+
+ 404 CHAPTER 10 | MUSCLE TISSUE
+
+Because smooth muscle cells do not contain troponin, cross-bridge formation is not regulated by the troponin-
+tropomyosin complex but instead by the regulatory protein calmodulin. In a smooth muscle fiber, external Ca** ions
+passing through opened calcium channels in the sarcolemma, and additional Ca** released from SR, bind to calmodulin.
+
+ The Ca**-calmodulin complex then activates an enzyme called myosin (light chain) kinase, which, in turn, activates the
+myosin heads by phosphorylating them (converting ATP to ADP and Pi, with the Pj attaching to the head).

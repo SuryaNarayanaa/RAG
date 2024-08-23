@@ -1,0 +1,17 @@
+The QT interval represents the time from the start of depolarization to repolarization of the ventricles,
+and includes the period of ventricular systole. Extremely high levels of calcium may induce cardiac arrest. Drugs known as
+calcium channel blockers slow HR by binding to these channels and blocking or slowing the inward movement of calcium
+ions.
+
+ Caffeine and Nicotine
+
+Caffeine and nicotine are not found naturally within the body. Both of these nonregulated drugs have an excitatory effect
+on membranes of neurons in general and have a stimulatory effect on the cardiac centers specifically, causing an increase in
+HR. Caffeine works by increasing the rates of depolarization at the SA node, whereas nicotine stimulates the activity of the
+sympathetic neurons that deliver impulses to the heart.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART 823
+
+Although it is the world’s most widely consumed psychoactive drug, caffeine is legal and not regulated.

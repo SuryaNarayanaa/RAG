@@ -1,0 +1,15 @@
+An extracellular
+pathogen is processed and presented in the binding cleft of a class Il MHC molecule, and this interaction is
+strengthened by the CD4 molecule. (b) CD8 is associated with cytotoxic T cells. An intracellular pathogen is presented
+by aclass | MHC molecule, and CD8 interacts with it.
+
+ Although the correlation is not 100 percent, CD4-bearing T cells are associated with helper functions and CD8-bearing
+T cells are associated with cytotoxicity. These functional distinctions based on CD4 and CD8 markers are useful in defining
+the function of each type.
+
+ Helper T Cells and their Cytokines
+
+Helper T cells (Th), bearing the CD4 molecule, function by secreting cytokines that act to enhance other immune
+responses. There are two classes of Th cells, and they act on different components of the immune response. These cells are
+not distinguished by their surface molecules but by the characteristic set of cytokines they secrete (Table 21.5).
+

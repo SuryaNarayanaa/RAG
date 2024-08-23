@@ -1,0 +1,9 @@
+Each new DNA molecule contains one strand from the original molecule and one newly synthesized strand. The term
+for this mode of replication is “semiconservative,” because half of the original DNA molecule is conserved in each new
+DNA molecule. This process continues until the cell’s entire genome, the entire complement of an organism’s DNA, is
+replicated. As you might imagine, it is very important that DNA replication take place precisely so that new cells in the body
+contain the exact same genetic material as their parent cells. Mistakes made during DNA replication, such as the accidental
+addition of an inappropriate nucleotide, have the potential to render a gene dysfunctional or useless. Fortunately, there are
+mechanisms in place to minimize such mistakes. A DNA proofreading process enlists the help of special enzymes that scan
+the newly synthesized molecule for mistakes and corrects them. Once the process of DNA replication is complete, the cell
+is ready to divide.

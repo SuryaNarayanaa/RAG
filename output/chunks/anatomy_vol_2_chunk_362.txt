@@ -1,0 +1,11 @@
+For example, in the retina, axons from
+RGCs in the fovea are located at the center of the optic nerve, where they are surrounded by axons from the more peripheral
+RGCs.
+
+ Spinal Nerves
+
+Generally, spinal nerves contain afferent axons from sensory receptors in the periphery, such as from the skin, mixed with
+efferent axons travelling to the muscles or other effector organs. As the spinal nerve nears the spinal cord, it splits into
+dorsal and ventral roots. The dorsal root contains only the axons of sensory neurons, whereas the ventral roots contain only
+the axons of the motor neurons. Some of the branches will synapse with local neurons in the dorsal root ganglion, posterior
+(dorsal) horn, or even the anterior (ventral) horn, at the level of the spinal cord where they enter.

@@ -1,0 +1,12 @@
+A colloid is a mixture that is somewhat like a heavy solution. The solute particles consist of tiny clumps of molecules
+large enough to make the liquid mixture opaque (because the particles are large enough to scatter light). Familiar examples
+of colloids are milk and cream. In the thyroid glands, the thyroid hormone is stored as a thick protein mixture also called a
+colloid.
+
+ A suspension is a liquid mixture in which a heavier substance is suspended temporarily in a liquid, but over time,
+settles out. This separation of particles from a suspension is called sedimentation. An example of sedimentation occurs in
+the blood test that establishes sedimentation rate, or sed rate. The test measures how quickly red blood cells in a test tube
+settle out of the watery portion of blood (known as plasma) over a set period of time. Rapid sedimentation of blood cells
+does not normally happen in the healthy body, but aspects of certain diseases can cause blood cells to clump together, and
+these heavy clumps of blood cells settle to the bottom of the test tube more quickly than do normal blood cells.
+

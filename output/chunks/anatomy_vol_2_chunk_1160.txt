@@ -1,0 +1,22 @@
+Normally this
+value is extremely difficult to measure, but it can be calculated from this known relationship:
+
+=—_ AP
+Blood flow = Resistance
+If we rearrange this slightly,
+ A = AP
+Resistance = Blood flow
+Then by substituting Pouseille’s equation for blood flow:
+Resistance 8.
+mw
+
+By examining this equation, you can see that there are only three variables: viscosity, vessel length, and radius, since
+8 and nm are both constants. The important thing to remember is this: Two of these variables, viscosity and vessel length,
+will change slowly in the body. Only one of these factors, the radius, can be changed rapidly by vasoconstriction and
+vasodilation, thus dramatically impacting resistance and flow. Further, small changes in the radius will greatly affect flow,
+since it is raised to the fourth power in the equation.
+
+ We have briefly considered how cardiac output and blood volume impact blood flow and pressure; the next step is to
+see how the other variables (contraction, vessel length, and viscosity) articulate with Pouseille’s equation and what they can
+teach us about the impact on blood flow.
+

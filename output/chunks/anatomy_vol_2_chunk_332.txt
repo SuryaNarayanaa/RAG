@@ -1,0 +1,28 @@
+Frequencies in the higher ranges of 20 KHz are encoded by hair cells at the base of the cochlea, close to the
+round and oval windows (Figure 14.10). Most auditory stimuli contain a mixture of sounds at a variety of frequencies and
+intensities (represented by the amplitude of the sound wave). The hair cells along the length of the cochlear duct, which are
+each sensitive to a particular frequency, allow the cochlea to separate auditory stimuli by frequency, just as a prism separates
+visible light into its component colors.
+
+ Oval window base
+
+Tectorial
+Schematic of expanded cochlea A membrane
+EERE == ADEX
+
+| |
+
+ [www] = ww} [A]
+
+20,000 Hz 1500 Hz 20 Hz
+(high frequency) (medium frequency) —_(low frequency)
+
+Basilar
+membrane
+
+Round window
+
+Relative length of fibers in basilar membrane
+
+Figure 14.10 Frequency Coding in the Cochlea The standing sound wave generated in the cochlea by the
+movement of the oval window deflects the basilar membrane on the basis of the frequency of sound.

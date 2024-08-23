@@ -1,0 +1,12 @@
+Contractility
+
+It is virtually impossible to consider preload or ESV without including an early mention of the concept of contractility.
+ Indeed, the two parameters are intimately linked. Contractility refers to the force of the contraction of the heart muscle,
+which controls SV, and is the primary parameter for impacting ESV. The more forceful the contraction is, the greater the SV
+and smaller the ESV are. Less forceful contractions result in smaller SVs and larger ESVs. Factors that increase contractility
+are described as positive inotropic factors, and those that decrease contractility are described as negative inotropic factors
+(ino- = “fiber;” -tropic = “turning toward”).
+
+ Not surprisingly, sympathetic stimulation is a positive inotrope, whereas parasympathetic stimulation is a negative
+inotrope. Sympathetic stimulation triggers the release of NE at the neuromuscular junction from the cardiac nerves and
+also stimulates the adrenal cortex to secrete epinephrine and NE.

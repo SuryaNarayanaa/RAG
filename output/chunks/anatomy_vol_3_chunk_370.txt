@@ -1,0 +1,37 @@
+The newly formed acetyl CoA enters the Krebs cycle and is used to produce ATP in the same way as acetyl
+CoA derived from pyruvate.
+
+1100 CHAPTER 24 | METABOLISM AND NUTRITION
+
+Start:
+Fatty acid
+R—CHy CH CHh-F—OH
+
+1) Converting a fatty acid to fatty acyl carnitine allows transport through the mitochondrial membranes.
+
+ 9 HS-CoA
+C—CH,—CH,—CH,—R =>
+
+Fatty acid Fatty acyl CoA
+
+* | -
+HyC—"N—CH,—CH—CH, COO" + HS-CoAl
+
+CHs Fatty acyl carnitine
+
+Fatty acyl carnitine enters mitochondrial matrix
+
+HS-CoA °
+
+iN]
+CoA-S—C—CH,—CH,—CH,—R
+Fatty acyl CoA
+
++! I a
+Hyo—"N—CH,—CH—CH,—COO™ + HS-CoA
+CH, Fatty acyl carnitine
+
+3) Fatty acyl CoA is converted to f-ketoacyl CoA, which is split into an Acyl CoA and Acetyl CoA.
+B-carbon oxidation
+
+FAD" FADH, H,¢ a FAD*

@@ -1,0 +1,12 @@
+When light hits the retina, specialized photosensitive
+ganglion cells send a signal along the optic nerve to the pretectal nucleus in the superior midbrain. A neuron from this
+nucleus projects to the Eddinger—Westphal nuclei in the oculomotor complex in both sides of the midbrain. Neurons
+in this nucleus give rise to the preganglionic parasympathetic fibers that project through the oculomotor nerve to the
+ciliary ganglion in the posterior orbit. The postganglionic parasympathetic fibers from the ganglion project to the iris,
+where they release acetylcholine onto circular fibers that constrict the pupil to reduce the amount of light hitting the
+retina. The sympathetic nervous system is responsible for dilating the pupil when light levels are low.
+
+ Shining light in one eye will elicit constriction of both pupils. The efferent limb of the pupillary light reflex
+is bilateral. Light shined in one eye causes a constriction of that pupil, as well as constriction of the contralateral
+pupil. Shining a penlight in the eye of a patient is a very artificial situation, as both eyes are normally exposed to the
+same light sources.

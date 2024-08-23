@@ -1,0 +1,12 @@
+Transport across the Cell Membrane
+
+One of the great wonders of the cell membrane is its ability to regulate the concentration of substances inside the cell. These
+
+substances include ions such as Ca**, Na’, K’, and CI ; nutrients including sugars, fatty acids, and amino acids; and waste
+products, particularly carbon dioxide (CO2), which must leave the cell.
+
+ The membrane’s lipid bilayer structure provides the first level of control. The phospholipids are tightly packed
+together, and the membrane has a hydrophobic interior. This structure causes the membrane to be selectively permeable.
+ A membrane that has selective permeability allows only substances meeting certain criteria to pass through it unaided.
+ In the case of the cell membrane, only relatively small, nonpolar materials can move through the lipid bilayer (remember,
+the lipid tails of the membrane are nonpolar).

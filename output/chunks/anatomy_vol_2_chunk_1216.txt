@@ -1,0 +1,11 @@
+Treatments generally involve providing intravenous fluids to restore the patient to normal function and various drugs
+such as dopamine, epinephrine, and norepinephrine to raise blood pressure.
+
+ * Cardiogenic shock results from the inability of the heart to maintain cardiac output. Most often, it results from a
+myocardial infarction (heart attack), but it may also be caused by arrhythmias, valve disorders, cardiomyopathies,
+cardiac failure, or simply insufficient flow of blood through the cardiac vessels. Treatment involves repairing the
+damage to the heart or its vessels to resolve the underlying cause, rather than treating cardiogenic shock directly.
+
+ * Vascular shock occurs when arterioles lose their normal muscular tone and dilate dramatically. It may arise from a
+variety of causes, and treatments almost always involve fluid replacement and medications, called inotropic or pressor
+agents, which restore tone to the muscles of the vessels.

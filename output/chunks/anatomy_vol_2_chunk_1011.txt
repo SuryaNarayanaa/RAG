@@ -1,0 +1,11 @@
+The T tubules are only found at the Z discs, whereas in skeletal muscle, they are found at the junction of
+the A and I bands. Therefore, there are one-half as many T tubules in cardiac muscle as in skeletal muscle. In addition, the
+sarcoplasmic reticulum stores few calcium ions, so most of the calcium ions must come from outside the cells. The result
+is a slower onset of contraction. Mitochondria are plentiful, providing energy for the contractions of the heart. Typically,
+cardiomyocytes have a single, central nucleus, but two or more nuclei may be found in some cells.
+
+ Cardiac muscle cells branch freely. A junction between two adjoining cells is marked by a critical structure called an
+intercalated disc, which helps support the synchronized contraction of the muscle (Figure 19.17b). The sarcolemmas from
+adjacent cells bind together at the intercalated discs. They consist of desmosomes, specialized linking proteoglycans, tight
+junctions, and large numbers of gap junctions that allow the passage of ions between the cells and help to synchronize the
+contraction (Figure 19.17c).

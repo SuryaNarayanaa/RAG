@@ -1,0 +1,13 @@
+When blood volume decreases due to sweating, from what source is water taken in by the blood?
+
+Most body fluids are neutral in charge. Thus, cations, or positively charged ions, and anions, or negatively charged
+
+ions, are balanced in fluids. As seen in the previous graph, sodium (Na*) ions and chloride (Cl) ions are concentrated in
+
+1178 CHAPTER 26 | FLUID, ELECTROLYTE, AND ACID-BASE BALANCE
+
+the ECF of the body, whereas potassium (K*) ions are concentrated inside cells. Although sodium and potassium can “leak”
+through “pores” into and out of cells, respectively, the high levels of potassium and low levels of sodium in the ICF are
+maintained by sodium-potassium pumps in the cell membranes. These pumps use the energy supplied by ATP to pump
+sodium out of the cell and potassium into the cell (Figure 26.6).
+

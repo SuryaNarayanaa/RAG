@@ -1,0 +1,20 @@
+Not only do T cells directly destroy pathogens, but they regulate nearly all other types of the adaptive immune response
+as well, as evidenced by the functions of the T cell types, their surface markers, the cells they work on, and the types of
+pathogens they work against (see Table 21.5).
+
+ Functions of T Cell Types and Their Cytokines
+
+u etn Function Pathogen SUES MHC yen or
+cell target marker mediators
+Tc Infected Cytotoxicity [Intracellular |CD8 Class | Perforins, granzymes, and
+cells fas ligand
+
+Helper
+
+Th1 Macrophage inducer Extracellular |CD4 Class II |Interferon-y and TGF-B
+
+Th2 | Bell Helper Extracellular |CD4 Class Il |IL-4, IL-6, IL-10, and others
+inducer
+
+Treg Th cell Suppressor |None CD4, CD25 2? TGF-B and IL-10
+

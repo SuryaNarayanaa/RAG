@@ -1,0 +1,95 @@
+In contrast, adult stem cells isolated from a patient are not seen as foreign by the body, but they have a limited
+range of differentiation. Some individuals bank the cord blood or deciduous teeth of their child, storing away those
+sources of stem cells for future use, should their child need it. Induced pluripotent stem cells are considered a promising
+advance in the field because using them avoids the legal, ethical, and immunological pitfalls of embryonic stem cells.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 3 | THE CELLULAR LEVEL OF ORGANIZATION
+
+KEY TERMS
+active transport form of transport across the cell membrane that requires input of cellular energy
+
+amphipathic describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in
+water solubility
+
+anaphase third stage of mitosis (and meiosis), during which sister chromatids separate into two new nuclear regions of
+a dividing cell
+
+anticodon consecutive sequence of three nucleotides on atRNA molecule that is complementary to a specific codon on
+an mRNA molecule
+
+autolysis breakdown of cells by their own enzymatic action
+autophagy lysosomal breakdown of a cell’s own components
+cell cycle life cycle of a single cell, from its birth until its division into two new daughter cells
+
+cell membrane membrane surrounding all animal cells, composed of a lipid bilayer interspersed with various
+molecules; also known as plasma membrane
+
+centriole small, self-replicating organelle that provides the origin for microtubule growth and moves DNA during cell
+division
+
+centromere region of attachment for two sister chromatids
+centrosome cellular structure that organizes microtubules during cell division
+
+channel protein membrane-spanning protein that has an inner pore which allows the passage of one or more
+substances
+
+checkpoint progress point in the cell cycle during which certain conditions must be met in order for the cell to proceed
+to a subsequence phase
+
+chromatin substance consisting of DNA and associated proteins
+chromosome condensed version of chromatin
+
+cilia small appendage on certain cells formed by microtubules and modified for movement of materials across the
+cellular surface
+
+cleavage furrow contractile ring that forms around a cell during cytokinesis that pinches the cell into two halves
+codon consecutive sequence of three nucleotides on an MRNA molecule that corresponds to a specific amino acid
+concentration gradient difference in the concentration of a substance between two regions
+
+cyclin-dependent kinase (CDK) one of a group of enzymes associated with cyclins that help them perform their
+functions
+
+cyclin one of a group of proteins that function in the progression of the cell cycle
+cytokinesis final stage in cell division, where the cytoplasm divides to form two separate daughter cells
+
+cytoplasm internal material between the cell membrane and nucleus of a cell, mainly consisting of a water-based fluid
+called cytosol, within which are all the other organelles and cellular solute and suspended materials
+
+cytoskeleton “skeleton” of a cell; formed by rod-like proteins that support the cell’s shape and provide, among other
+functions, locomotive abilities
+
+cytosol clear, semi-fluid medium of the cytoplasm, made up mostly of water
+
+DNA polymerase enzyme that functions in adding new nucleotides to a growing strand of DNA during DNA
+replication
+
+123
+
+124 CHAPTER 3| THE CELLULAR LEVEL OF ORGANIZATION
+
+DNA replication process of duplicating a molecule of DNA
+diffusion movement of a substance from an area of higher concentration to one of lower concentration
+
+diploid condition marked by the presence of a double complement of genetic material (two sets of chromosomes, one
+set inherited from each of two parents)
+
+electrical gradient difference in the electrical charge (potential) between two regions
+endocytosis import of material into the cell by formation of a membrane-bound vesicle
+
+endoplasmic reticulum (ER) cellular organelle that consists of interconnected membrane-bound tubules, which may
+or may not be associated with ribosomes (rough type or smooth type, respectively)
+
+exocytosis export of a substance out of a cell by formation of a membrane-bound vesicle
+exon one of the coding regions of an mRNA molecule that remain after splicing
+
+extracellular fluid (ECF) fluid exterior to cells; includes the interstitial fluid, blood plasma, and fluid found in other
+reservoirs in the body
+
+facilitated diffusion diffusion of a substance with the aid of a membrane protein
+flagellum appendage on certain cells formed by microtubules and modified for movement
+
+Go phase phase of the cell cycle, usually entered from the G1 phase; characterized by long or permanent periods where
+the cell does not move forward into the DNA synthesis phase
+

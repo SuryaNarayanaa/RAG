@@ -1,0 +1,10 @@
+The technique for determining an Apgar score is quick and easy, painless for the newborn, and does not require
+any instruments except for a stethoscope. A convenient way to remember the five scoring criteria is to apply the
+mnemonic APGAR, for “appearance” (skin color), “pulse” (heart rate), “grimace” (reflex), “activity” (muscle tone),
+and “respiration.”
+
+Of the five Apgar criteria, heart rate and respiration are the most critical. Poor scores for either of these
+measurements may indicate the need for immediate medical attention to resuscitate or stabilize the newborn. In general,
+any score lower than 7 at the 5-minute mark indicates that medical assistance may be needed. A total score below
+5 indicates an emergency situation. Normally, a newborn will get an intermediate score of 1 for some of the Apgar
+criteria and will progress to a 2 by the 5-minute assessment.

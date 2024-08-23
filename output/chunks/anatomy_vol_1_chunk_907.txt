@@ -1,0 +1,11 @@
+This allows the two bones to fit together like a rider sitting on a saddle. Saddle joints
+are functionally classified as biaxial joints. The primary example is the first carpometacarpal joint, between the trapezium (a
+carpal bone) and the first metacarpal bone at the base of the thumb. This joint provides the thumb the ability to move away
+from the palm of the hand along two planes. Thus, the thumb can move within the same plane as the palm of the hand, or
+it can jut out anteriorly, perpendicular to the palm. This movement of the first carpometacarpal joint is what gives humans
+their distinctive “opposable” thumbs. The sternoclavicular joint is also classified as a saddle joint.
+
+ Plane Joint
+
+At a plane joint (gliding joint), the articulating surfaces of the bones are flat or slightly curved and of approximately
+the same size, which allows the bones to slide against each other (see Figure 9.10d).

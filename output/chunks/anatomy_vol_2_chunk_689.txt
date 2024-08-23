@@ -1,0 +1,13 @@
+The ductless endocrine glands are not to be confused with the body’s exocrine system, whose glands release their
+secretions through ducts. Examples of exocrine glands include the sebaceous and sweat glands of the skin. As just noted,
+the pancreas also has an exocrine function: most of its cells secrete pancreatic juice through the pancreatic and accessory
+ducts to the lumen of the small intestine.
+
+Other Types of Chemical Signaling
+
+In endocrine signaling, hormones secreted into the extracellular fluid diffuse into the blood or lymph, and can then travel
+great distances throughout the body. In contrast, autocrine signaling takes place within the same cell. An autocrine (auto-
+= “self”) is a chemical that elicits a response in the same cell that secreted it. Interleukin-1, or IL-1, is a signaling molecule
+that plays an important role in inflammatory response. The cells that secrete IL-1 have receptors on their cell surface that
+bind these molecules, resulting in autocrine signaling.
+

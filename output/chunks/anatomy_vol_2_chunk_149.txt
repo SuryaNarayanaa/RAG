@@ -1,0 +1,9 @@
+The sensory endings in the skin initiate an electrical signal that travels along the sensory axon within a nerve
+into the spinal cord, where it synapses with a neuron in the gray matter of the spinal cord. The temperature information
+represented in that electrical signal is passed to the next neuron by a chemical signal that diffuses across the small gap of
+the synapse and initiates a new electrical signal in the target cell. That signal travels through the sensory pathway to the
+brain, passing through the thalamus, where conscious perception of the water temperature is made possible by the cerebral
+cortex. Following integration of that information with other cognitive processes and sensory information, the brain sends a
+command back down to the spinal cord to initiate a motor response by controlling a skeletal muscle. The motor pathway is
+composed of two cells, the upper motor neuron and the lower motor neuron. The upper motor neuron has its cell body in the
+cerebral cortex and synapses on a cell in the gray matter of the spinal cord.

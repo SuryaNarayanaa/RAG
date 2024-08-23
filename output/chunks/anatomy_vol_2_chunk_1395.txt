@@ -1,0 +1,18 @@
+Table 21.5
+
+21.4 | The Adaptive Immune Response: B-lymphocytes
+and Antibodies
+
+ By the end of this section, you will be able to:
+ ¢ Explain how B cells mature and how B cell tolerance develops
+¢ Discuss how B cells are activated and differentiate into plasma cells
+
+ ¢ Describe the structure of the antibody classes and their functions
+
+Antibodies were the first component of the adaptive immune response to be characterized by scientists working on the
+immune system. It was already known that individuals who survived a bacterial infection were immune to re-infection
+with the same pathogen. Early microbiologists took serum from an immune patient and mixed it with a fresh culture of the
+same type of bacteria, then observed the bacteria under a microscope. The bacteria became clumped in a process called
+agglutination. When a different bacterial species was used, the agglutination did not happen. Thus, there was something in
+the serum of immune individuals that could specifically bind to and agglutinate bacteria.
+

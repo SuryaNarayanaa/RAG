@@ -1,0 +1,14 @@
+Their diffusion is facilitated by membrane proteins that form sodium channels (or “pores”), so that Na*
+ions can move down their concentration gradient from outside the cells to inside the cells. There are many other solutes that
+must undergo facilitated diffusion to move into a cell, such as amino acids, or to move out of a cell, such as wastes. Because
+facilitated diffusion is a passive process, it does not require energy expenditure by the cell.
+
+ Water also can move freely across the cell membrane of all cells, either through protein channels or by slipping
+between the lipid tails of the membrane itself. Osmosis is the diffusion of water through a semipermeable membrane
+(Figure 3.7).
+
+ Semipermeable membrane
+
+Figure 3.7 Osmosis Osmosis is the diffusion of water through a semipermeable membrane down its concentration
+gradient. If a membrane is permeable to water, though not to a solute, water will equalize its own concentration by
+diffusing to the side of lower water concentration (and thus the side of higher solute concentration).

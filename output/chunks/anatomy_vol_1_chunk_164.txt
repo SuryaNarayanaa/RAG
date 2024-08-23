@@ -1,0 +1,12 @@
+Just as you can express mathematical calculations in equations such as 2 + 7 = 9, you can use chemical equations
+to show how reactants become products. As in math, chemical equations proceed from left to right, but instead of
+an equal sign, they employ an arrow or arrows indicating the direction in which the chemical reaction proceeds. For
+example, the chemical reaction in which one atom of nitrogen and three atoms of hydrogen produce ammonia would
+be written as N + 3H > NH;. Correspondingly, the breakdown of ammonia into its components would be written as
+
+NH, + N+3H.
+
+Notice that, in the first example, a nitrogen (N) atom and three hydrogen (H) atoms bond to form a compound.
+ This anabolic reaction requires energy, which is then stored within the compound’s bonds. Such reactions are referred to
+as synthesis reactions. A synthesis reaction is a chemical reaction that results in the synthesis (joining) of components
+that were formerly separate (Figure 2.12a).

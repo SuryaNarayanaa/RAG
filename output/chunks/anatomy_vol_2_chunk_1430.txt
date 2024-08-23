@@ -1,0 +1,11 @@
+CD4 is the receptor that HIV uses to get inside T
+
+cells and reproduce. Given that CD4* helper T cells play an important role in other in T cell immune responses and antibody
+responses, it should be no surprise that both types of immune responses are eventually seriously compromised.
+
+ Treatment for the disease consists of drugs that target virally encoded proteins that are necessary for viral replication
+but are absent from normal human cells. By targeting the virus itself and sparing the cells, this approach has been successful
+in significantly prolonging the lives of HIV-positive individuals. On the other hand, an HIV vaccine has been 30 years in
+development and is still years away. Because the virus mutates rapidly to evade the immune system, scientists have been
+looking for parts of the virus that do not change and thus would be good targets for a vaccine candidate.
+

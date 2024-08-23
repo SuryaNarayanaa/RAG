@@ -1,0 +1,20 @@
+Indirect activation involves a prolonged response, amplified over time
+
+Figure 12.28 Receptor Types (a) An ionotropic receptor is a channel that opens when the neurotransmitter binds
+to it. (b) A metabotropic receptor is a complex that causes metabolic changes in the cell when the neurotransmitter
+binds to it (1). After binding, the G protein hydrolyzes GTP and moves to the effector protein (2). When the G protein
+contacts the effector protein, a second messenger is generated, such as cAMP (3). The second messenger can then
+go on to cause changes in the neuron, such as opening or closing ion channels, metabolic changes, and changes in
+gene transcription.
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE 501
+
+LINK
+
+Derr acl
+
+Int
+
+Watch this video (http://openstaxcollege.org/l/neurotrans) to learn about the release of a neurotransmitter.

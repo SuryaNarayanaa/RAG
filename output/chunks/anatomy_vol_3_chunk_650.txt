@@ -1,0 +1,11 @@
+26.4 Acid-Base Balance
+
+A variety of buffering systems exist in the body that helps maintain the pH of the blood and other fluids within a narrow
+range—between pH 7.35 and 7.45. A buffer is a substance that prevents a radical change in fluid pH by absorbing excess
+hydrogen or hydroxyl ions. Most commonly, the substance that absorbs the ion is either a weak acid, which takes up a
+
+hydroxyl ion (OH’), or a weak base, which takes up a hydrogen ion (H”). Several substances serve as buffers in the body,
+including cell and plasma proteins, hemoglobin, phosphates, bicarbonate ions, and carbonic acid. The bicarbonate buffer
+is the primary buffering system of the IF surrounding the cells in tissues throughout the body. The respiratory and renal
+systems also play major roles in acid-base homeostasis by removing CO2 and hydrogen ions, respectively, from the body.
+

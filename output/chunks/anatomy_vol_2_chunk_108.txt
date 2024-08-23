@@ -1,0 +1,13 @@
+The description above conveniently glosses over that point.
+ But it is vital to understanding what is happening. The membrane potential will stay at the resting voltage until something
+
+changes. The description above just says that a Na” channel opens. Now, to say “a channel opens” does not mean that one
+individual transmembrane protein changes. Instead, it means that one kind of channel opens. There are a few different types
+of channels that allow Na* to cross the membrane. A ligand-gated Na* channel will open when a neurotransmitter binds
+to it and a mechanically gated Na” channel will open when a physical stimulus affects a sensory receptor (like pressure
+applied to the skin compresses a touch receptor). Whether it is a neurotransmitter binding to its receptor protein or a sensory
+stimulus activating a sensory receptor cell, some stimulus gets the process started. Sodium starts to enter the cell and the
+membrane becomes less negative.
+
+ A third type of channel that is an important part of depolarization in the action potential is the voltage-gated Na”
+channel.

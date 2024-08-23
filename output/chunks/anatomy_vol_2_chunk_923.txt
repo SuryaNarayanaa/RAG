@@ -1,0 +1,7 @@
+Thus, anti-A or anti-B antibodies that might be circulating in the patient’s blood plasma will not encounter any
+erythrocyte surface antigens on the donated blood and therefore will not be provoked into a response. One problem with
+this designation of universal donor is if the O- individual had prior exposure to Rh antigen, Rh antibodies may be present
+in the donated blood. Also, introducing type O blood into an individual with type A, B, or AB blood will nevertheless
+introduce antibodies against both A and B antigens, as these are always circulating in the type O blood plasma. This may
+cause problems for the recipient, but because the volume of blood transfused is much lower than the volume of the patient’s
+own blood, the adverse effects of the relatively few infused plasma antibodies are typically limited.

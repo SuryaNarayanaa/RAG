@@ -1,0 +1,13 @@
+There are two chains in the T cell receptor, and each chain consists of two domains. The variable region domain
+is furthest away from the T cell membrane and is so named because its amino acid sequence varies between receptors.
+ In contrast, the constant region domain has less variation. The differences in the amino acid sequences of the variable
+domains are the molecular basis of the diversity of antigens the receptor can recognize. Thus, the antigen-binding site of the
+receptor consists of the terminal ends of both receptor chains, and the amino acid sequences of those two areas combine to
+determine its antigenic specificity. Each T cell produces only one type of receptor and thus is specific for a single particular
+antigen.
+
+ Antigens
+
+Antigens on pathogens are usually large and complex, and consist of many antigenic determinants. An antigenic
+determinant (epitope) is one of the small regions within an antigen to which a receptor can bind, and antigenic determinants
+are limited by the size of the receptor itself.

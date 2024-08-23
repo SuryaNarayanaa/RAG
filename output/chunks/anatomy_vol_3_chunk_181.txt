@@ -1,0 +1,19 @@
+The digestive processes are ingestion, propulsion, mechanical digestion, chemical
+digestion, absorption, and defecation.
+
+ Some chemical digestion occurs in the mouth. Some absorption can occur in the mouth and stomach, for example,
+alcohol and aspirin.
+
+ Regulatory Mechanisms
+
+Neural and endocrine regulatory mechanisms work to maintain the optimal conditions in the lumen needed for digestion
+and absorption. These regulatory mechanisms, which stimulate digestive activity through mechanical and chemical activity,
+are controlled both extrinsically and intrinsically.
+
+ Neural Controls
+
+The walls of the alimentary canal contain a variety of sensors that help regulate digestive functions. These include
+mechanoreceptors, chemoreceptors, and osmoreceptors, which are capable of detecting mechanical, chemical, and osmotic
+stimuli, respectively. For example, these receptors can sense when the presence of food has caused the stomach to expand,
+whether food particles have been sufficiently broken down, how much liquid is present, and the type of nutrients in the
+food (lipids, carbohydrates, and/or proteins).

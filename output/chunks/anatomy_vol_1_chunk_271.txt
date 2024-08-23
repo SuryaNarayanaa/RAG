@@ -1,0 +1,11 @@
+Channel proteins are less selective than
+carrier proteins, and usually mildly discriminate between their cargo based on size and charge. (b) Carrier proteins are
+more selective, often only allowing one particular type of molecule to cross.
+
+ In some cases, facilitated diffusion might move two substances in the same direction across the membrane, called a
+“symport.” For example, in intestinal cells, sodium ions and glucose molecules are co-transported into the cells. In other
+cases, the facilitated diffusion might only require a tunnel-like channel for particular solutes, such as electrolytes (small
+
+charged ions), to pass through the membrane (this is called a “uniport”). As an example, even though sodium ions (Na*)
+are highly concentrated outside of cells, these electrolytes are polarized and cannot pass through the nonpolar lipid bilayer
+of the membrane.

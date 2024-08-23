@@ -1,0 +1,8 @@
+Also, those changes are the same for every action potential, which means that once the threshold is reached, the exact same
+thing happens. A stronger stimulus, which might depolarize the membrane well past threshold, will not make a “bigger”
+action potential. Action potentials are “all or none.” Either the membrane reaches the threshold and everything occurs as
+described above, or the membrane does not reach the threshold and nothing else happens. All action potentials peak at the
+same voltage (+30 mV), so one action potential is not bigger than another. Stronger stimuli will initiate multiple action
+potentials more quickly, but the individual signals are not bigger. Thus, for example, you will not feel a greater sensation of
+pain, or have a stronger muscle contraction, because of the size of the action potential because they are not different sizes.
+

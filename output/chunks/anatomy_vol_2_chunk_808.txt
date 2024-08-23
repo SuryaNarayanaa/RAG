@@ -1,0 +1,12 @@
+Insulin and glucagon are involved in the regulation of glucose metabolism. Insulin is produced by the beta cells
+in response to high blood glucose levels. It enhances glucose uptake and utilization by target cells, as well as the storage of
+excess glucose for later use. Dysfunction of the production of insulin or target cell resistance to the effects of insulin causes
+diabetes mellitus, a disorder characterized by high blood glucose levels. The hormone glucagon is produced and secreted
+by the alpha cells of the pancreas in response to low blood glucose levels. Glucagon stimulates mechanisms that increase
+blood glucose levels, such as the catabolism of glycogen into glucose.
+
+ 17.10 Organs with Secondary Endocrine Functions
+
+Some organs have a secondary endocrine function. For example, the walls of the atria of the heart produce the hormone
+atrial natriuretic peptide (ANP), the gastrointestinal tract produces the hormones gastrin, secretin, and cholecystokinin,
+which aid in digestion, and the kidneys produce erythropoietin (EPO), which stimulates the formation of red blood cells.

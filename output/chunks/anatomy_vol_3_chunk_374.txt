@@ -1,0 +1,12 @@
+This keeps the brain functioning when glucose is limited. When ketones are produced faster
+than they can be used, they can be broken down into CO2 and acetone. The acetone is removed by exhalation. One symptom
+of ketogenesis is that the patient’s breath smells sweet like alcohol. This effect provides one way of telling if a diabetic
+is properly controlling the disease. The carbon dioxide produced can acidify the blood, leading to diabetic ketoacidosis, a
+dangerous condition in diabetics.
+
+ Ketones oxidize to produce energy for the brain. beta (B)-hydroxybutyrate is oxidized to acetoacetate and NADH is
+released. An HS-CoA molecule is added to acetoacetate, forming acetoacetyl CoA. The carbon within the acetoacetyl CoA
+that is not bonded to the CoA then detaches, splitting the molecule in two. This carbon then attaches to another free HS-
+CoA, resulting in two acetyl CoA molecules. These two acetyl CoA molecules are then processed through the Krebs cycle
+to generate energy (Figure 24.15).
+

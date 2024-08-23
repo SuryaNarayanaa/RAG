@@ -1,0 +1,11 @@
+The reverse is true of tissues, such
+as adipose (body fat), which have lower metabolic rates. Because less oxygen is used by these cells, the partial pressure
+of oxygen within such tissues remains relatively high, resulting in fewer oxygen molecules dissociating from hemoglobin
+and entering the tissue interstitial fluid. Although venous blood is said to be deoxygenated, some oxygen is still bound to
+hemoglobin in its red blood cells. This provides an oxygen reserve that can be used when tissues suddenly demand more
+oxygen.
+ Factors other than partial pressure also affect the oxygen—hemoglobin saturation/dissociation curve. For example, a
+higher temperature promotes hemoglobin and oxygen to dissociate faster, whereas a lower temperature inhibits dissociation
+(see Figure 22.26, middle). However, the human body tightly regulates temperature, so this factor may not affect gas
+exchange throughout the body. The exception to this is in highly active tissues, which may release a larger amount of energy
+than is given off as heat.

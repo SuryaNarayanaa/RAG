@@ -1,0 +1,13 @@
+Both of these requirements
+are fulfilled by other types of RNA. The substrate on which translation takes place is the ribosome.
+
+ Remember that many of a cell’s ribosomes are found associated with the rough ER, and carry out the synthesis of
+proteins destined for the Golgi apparatus. Ribosomal RNA (rRNA) is a type of RNA that, together with proteins, composes
+the structure of the ribosome. Ribosomes exist in the cytoplasm as two distinct components, a small and a large subunit.
+ When an mRNA molecule is ready to be translated, the two subunits come together and attach to the mRNA. The ribosome
+provides a substrate for translation, bringing together and aligning the mRNA molecule with the molecular “translators”
+that must decipher its code.
+
+ The other major requirement for protein synthesis is the translator molecules that physically “read” the mRNA codons.
+ Transfer RNA (tRNA) is a type of RNA that ferries the appropriate corresponding amino acids to the ribosome, and
+attaches each new amino acid to the last, building the polypeptide chain one-by-one.

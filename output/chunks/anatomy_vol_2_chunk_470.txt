@@ -1,0 +1,26 @@
+Similarly, norepinephrine and noradrenaline are two names for the same molecule.
+
+ Having understood the cholinergic and adrenergic systems, their role in the autonomic system is relatively simple
+to understand. All preganglionic fibers, both sympathetic and parasympathetic, release ACh. All ganglionic neurons—the
+targets of these preganglionic fibers—have nicotinic receptors in their cell membranes. The nicotinic receptor is a ligand-
+gated cation channel that results in depolarization of the postsynaptic membrane. The postganglionic parasympathetic
+fibers also release ACh, but the receptors on their targets are muscarinic receptors, which are G protein—coupled receptors
+and do not exclusively cause depolarization of the postsynaptic membrane. Postganglionic sympathetic fibers release
+norepinephrine, except for fibers that project to sweat glands and to blood vessels associated with skeletal muscles, which
+release ACh (Table 15.1).
+
+ Autonomic System Signaling Molecules
+
+Sympathetic Parasympathetic
+
+Acetylcholine —
+
+Preganglionic | Acetylcholine — nicotinic receptor nicotinic receptor
+
+Norepinephrine — a- or B-adrenergic receptors
+Postganglionic | Acetylcholine — muscarinic receptor (associated with sweat glands
+and the blood vessels associated with skeletal muscles only
+
+Acetylcholine —
+muscarinic receptor
+

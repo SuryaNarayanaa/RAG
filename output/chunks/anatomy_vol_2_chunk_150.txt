@@ -1,0 +1,18 @@
+The lower motor neuron is that cell in the gray
+matter of the spinal cord and its axon extends into the periphery where it synapses with a skeletal muscle in a neuromuscular
+junction.
+
+ 12.4 The Action Potential
+
+The nervous system is characterized by electrical signals that are sent from one area to another. Whether those areas are
+close or very far apart, the signal must travel along an axon. The basis of the electrical signal is the controlled distribution of
+
+508 CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE
+
+ions across the membrane. Transmembrane ion channels regulate when ions can move in or out of the cell, so that a precise
+signal is generated. This signal is the action potential which has a very characteristic shape based on voltage changes across
+the membrane in a given time period.
+
+ The membrane is normally at rest with established Na” and K* concentrations on either side. A stimulus will start the
+depolarization of the membrane, and voltage-gated channels will result in further depolarization followed by repolarization
+of the membrane.

@@ -1,0 +1,12 @@
+A disulfide bond is
+a covalent bond between sulfur atoms in a polypeptide. Often, two or more separate polypeptides bond to form an even
+larger protein with a quaternary structure (see Figure 2.26d). The polypeptide subunits forming a quaternary structure
+can be identical or different. For instance, hemoglobin, the protein found in red blood cells is composed of four tertiary
+polypeptides, two of which are called alpha chains and two of which are called beta chains.
+
+ When they are exposed to extreme heat, acids, bases, and certain other substances, proteins will denature.
+ Denaturation is a change in the structure of a molecule through physical or chemical means. Denatured proteins lose their
+functional shape and are no longer able to carry out their jobs. An everyday example of protein denaturation is the curdling
+of milk when acidic lemon juice is added.
+ The contribution of the shape of a protein to its function can hardly be exaggerated. For example, the long, slender
+shape of protein strands that make up muscle tissue is essential to their ability to contract (shorten) and relax (lengthen).

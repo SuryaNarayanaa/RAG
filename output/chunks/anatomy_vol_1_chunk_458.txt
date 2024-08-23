@@ -1,0 +1,12 @@
+A typical neuron displays a distinctive morphology: a large cell body branches out into short extensions called
+dendrites, which receive chemical signals from other neurons, and a long tail called an axon, which relays signals away
+from the cell to other neurons, muscles, or glands. Many axons are wrapped by a myelin sheath, a lipid derivative that acts
+as an insulator and speeds up the transmission of the action potential. Other cells in the nervous tissue, the neuroglia, include
+the astrocytes, microglia, oligodendrocytes, and Schwann cells.
+
+4.6 Tissue Injury and Aging
+
+Inflammation is the classic response of the body to injury and follows a common sequence of events. The area is red,
+feels warm to the touch, swells, and is painful. Injured cells, mast cells, and resident macrophages release chemical signals
+that cause vasodilation and fluid leakage in the surrounding tissue. The repair phase includes blood clotting, followed
+by regeneration of tissue as fibroblasts deposit collagen.

@@ -1,0 +1,11 @@
+An example already mentioned is in
+Mycobactrium tuberculosis, which has evolved a complex cell wall that is resistant to the digestive enzymes of the
+macrophages that ingest them, and thus persists in the host, causing the chronic disease tuberculosis. This section briefly
+summarizes other ways in which pathogens can “outwit” immune responses. But keep in mind, although it seems as if
+pathogens have a will of their own, they do not. All of these evasive “strategies” arose strictly by evolution, driven by
+selection.
+
+ Bacteria sometimes evade immune responses because they exist in multiple strains, such as different groups of
+Staphylococcus aureus. S. aureus is commonly found in minor skin infections, such as boils, and some healthy people
+harbor it in their nose. One small group of strains of this bacterium, however, called methicillin-resistant Staphylococcus
+aureus, has become resistant to multiple antibiotics and is essentially untreatable.

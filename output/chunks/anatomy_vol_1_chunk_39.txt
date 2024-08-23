@@ -1,0 +1,9 @@
+Like anatomists, physiologists typically specialize in a particular branch of physiology. For example, neurophysiology
+is the study of the brain, spinal cord, and nerves and how these work together to perform functions as complex and diverse
+as vision, movement, and thinking. Physiologists may work from the organ level (exploring, for example, what different
+parts of the brain do) to the molecular level (such as exploring how an electrochemical signal travels along nerves).
+
+ Form is closely related to function in all living things. For example, the thin flap of your eyelid can snap down to
+clear away dust particles and almost instantaneously slide back up to allow you to see again. At the microscopic level, the
+arrangement and function of the nerves and muscles that serve the eyelid allow for its quick action and retreat. At a smaller
+level of analysis, the function of these nerves and muscles likewise relies on the interactions of specific molecules and ions.

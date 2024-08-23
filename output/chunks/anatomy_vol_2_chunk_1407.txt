@@ -1,0 +1,12 @@
+These memory cells lead to the differentiation of more plasma cells and
+memory B cells during secondary responses.
+
+ Primary versus Secondary B Cell Responses
+
+Primary and secondary responses as they relate to T cells were discussed earlier. This section will look at these responses
+with B cells and antibody production. Because antibodies are easily obtained from blood samples, they are easy to follow
+and graph (Figure 21.24). As you will see from the figure, the primary response to an antigen (representing a pathogen)
+is delayed by several days. This is the time it takes for the B cell clones to expand and differentiate into plasma cells. The
+level of antibody produced is low, but it is sufficient for immune protection. The second time a person encounters the same
+antigen, there is no time delay, and the amount of antibody made is much higher. Thus, the secondary antibody response
+overwhelms the pathogens quickly and, in most situations, no symptoms are felt.

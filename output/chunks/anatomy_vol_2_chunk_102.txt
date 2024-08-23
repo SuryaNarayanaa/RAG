@@ -1,0 +1,13 @@
+However, a slight difference in charge occurs right at the membrane surface, both internally and externally. It is the
+difference in this very limited region that has all the power in neurons (and muscle cells) to generate electrical signals,
+including action potentials.
+
+ Before these electrical signals can be described, the resting state of the membrane must be explained. When the cell is
+at rest, and the ion channels are closed (except for leakage channels which randomly open), ions are distributed across the
+
+membrane in a very predictable way. The concentration of Na” outside the cell is 10 times greater than the concentration
+
+inside. Also, the concentration of K” inside the cell is greater than outside. The cytosol contains a high concentration of
+anions, in the form of phosphate ions and negatively charged proteins. Large anions are a component of the inner cell
+membrane, including specialized phospholipids and proteins associated with the inner leaflet of the membrane (leaflet is a
+term used for one side of the lipid bilayer membrane).

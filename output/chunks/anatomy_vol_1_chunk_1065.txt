@@ -1,0 +1,20 @@
+Treppe
+
+When a skeletal muscle has been dormant for an extended period and then activated to contract, with all other things being
+equal, the initial contractions generate about one-half the force of later contractions. The muscle tension increases in a
+graded manner that to some looks like a set of stairs. This tension increase is called treppe, a condition where muscle
+contractions become more efficient. It’s also known as the “staircase effect” (Figure 10.17).
+
+ Tension
+
+rAAANN
+
+Time ——————>
+
+Treppe
+
+Figure 10.17 Treppe When muscle tension increases in a graded manner that looks like a set of stairs, it is called
+treppe. The bottom of each wave represents the point of stimulus.
+
+ It is believed that treppe results from a higher concentration of Ca** in the sarcoplasm resulting from the steady stream
+of signals from the motor neuron.

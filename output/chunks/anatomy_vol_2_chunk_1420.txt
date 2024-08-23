@@ -1,0 +1,19 @@
+Immune responses in some mucosal tissues such as the Peyer’s patches (see Figure 21.11) in the small intestine take
+up particulate antigens by specialized cells known as microfold or M cells (Figure 21.27). These cells allow the body to
+sample potential pathogens from the intestinal lumen. Dendritic cells then take the antigen to the regional lymph nodes,
+where an immune response is mounted.
+
+ Epithelial cell
+
+Organized
+lymphoid
+follicles
+
+Figure 21.27 IgA Immunity The nasal-associated lymphoid tissue and Peyer’s patches of the small intestine
+generate IgA immunity. Both use M cells to transport antigen inside the body so that immune responses can be
+mounted.
+
+Defenses against Bacteria and Fungi
+
+The body fights bacterial pathogens with a wide variety of immunological mechanisms, essentially trying to find one that is
+effective.

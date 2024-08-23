@@ -1,0 +1,16 @@
+Hydrogen bonds are relatively
+weak, and therefore are indicated with a dotted (rather than a solid) line.
+
+ Water molecules also strongly attract other types of charged molecules as well as ions. This explains why “table salt,”
+for example, actually is a molecule called a “salt” in chemistry, which consists of equal numbers of positively-charged
+sodium (Na*) and negatively-charged chloride (CI’), dissolves so readily in water, in this case forming dipole-ion bonds
+between the water and the electrically-charged ions (electrolytes). Water molecules also repel molecules with nonpolar
+covalent bonds, like fats, lipids, and oils. You can demonstrate this with a simple kitchen experiment: pour a teaspoon of
+vegetable oil, a compound formed by nonpolar covalent bonds, into a glass of water. Instead of instantly dissolving in the
+water, the oil forms a distinct bead because the polar water molecules repel the nonpolar oil.
+
+2.3 | Chemical Reactions
+
+By the end of this section, you will be able to:
+¢ Distinguish between kinetic and potential energy, and between exergonic and endergonic chemical reactions
+¢ Identify four forms of energy important in human functioning

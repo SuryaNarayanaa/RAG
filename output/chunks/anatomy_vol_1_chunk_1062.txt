@@ -1,0 +1,13 @@
+During the relaxation phase,
+
+tension decreases as Ca*™ ions are pumped out of the sarcoplasm and cross-bridge cycling stops.
+
+ Although a person can experience a muscle “twitch,” a single twitch does not produce any significant muscle activity in
+a living body. A series of action potentials to the muscle fibers is necessary to produce a muscle contraction that can produce
+work. Normal muscle contraction is more sustained, and it can be modified by input from the nervous system to produce
+varying amounts of force; this is called a graded muscle response. The frequency of action potentials (nerve impulses)
+from a motor neuron and the number of motor neurons transmitting action potentials both affect the tension produced in
+skeletal muscle.
+
+ The rate at which a motor neuron fires action potentials affects the tension produced in the skeletal muscle. If the fibers
+are stimulated while a previous twitch is still occurring, the second twitch will be stronger.

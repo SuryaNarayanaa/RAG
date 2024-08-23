@@ -1,0 +1,13 @@
+With RBCs in particular, you may see the antigens
+referred to as isoantigens or agglutinogens (surface antigens) and the antibodies referred to as isoantibodies or agglutinins.
+ In this chapter, we will use the more common terms antigens and antibodies.
+
+ Antigens are generally large proteins, but may include other classes of organic molecules, including carbohydrates,
+lipids, and nucleic acids. Following an infusion of incompatible blood, erythrocytes with foreign antigens appear in the
+bloodstream and trigger an immune response. Proteins called antibodies (immunoglobulins), which are produced by certain
+B lymphocytes called plasma cells, attach to the antigens on the plasma membranes of the infused erythrocytes and cause
+them to adhere to one another.
+
+* Because the arms of the Y-shaped antibodies attach randomly to more than one nonself erythrocyte surface, they form
+clumps of erythrocytes. This process is called agglutination.
+ ¢ The clumps of erythrocytes block small blood vessels throughout the body, depriving tissues of oxygen and nutrients.

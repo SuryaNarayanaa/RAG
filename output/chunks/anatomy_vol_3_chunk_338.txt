@@ -1,0 +1,44 @@
+Polysaccharides serve as energy storage (e.g., starch and glycogen) and as structural
+components (e.g., chitin in insects and cellulose in plants).
+
+ During digestion, carbohydrates are broken down into simple, soluble sugars that can be transported across the
+intestinal wall into the circulatory system to be transported throughout the body. Carbohydrate digestion begins in the mouth
+with the action of salivary amylase on starches and ends with monosaccharides being absorbed across the epithelium of
+the small intestine. Once the absorbed monosaccharides are transported to the tissues, the process of cellular respiration
+begins (Figure 24.4). This section will focus first on glycolysis, a process where the monosaccharide glucose is oxidized,
+releasing the energy stored in its bonds to produce ATP.
+
+ Glycolysis
+
+Glucose
+
+vN
+
+Pyruvate
+molecules
+
+Cytoplasm
+Transformation of pyruvate
+into acetyl CoA
+
+Krebs cycle
+
+Mitochondrial
+matrix
+
+Electrons
+
+removed
+
+from glucose,
+
+pyruvate, and Mitochondrial
+acetyl CoA inner
+membrane
+
+Redox
+reactions
+
+Figure 24.4 Cellular Respiration Cellular respiration oxidizes glucose molecules through glycolysis, the Krebs cycle,
+and oxidative phosphorylation to produce ATP.
+

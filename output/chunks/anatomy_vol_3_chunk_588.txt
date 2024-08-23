@@ -1,0 +1,10 @@
+As hydrostatic pressure in the kidneys increases, the amount of water
+leaving the capillaries also increases, and more urine filtrate is formed. If hydrostatic pressure in the kidneys drops too low,
+as can happen in dehydration, the functions of the kidneys will be impaired, and less nitrogenous wastes will be removed
+from the bloodstream. Extreme dehydration can result in kidney failure.
+
+ Fluid also moves between compartments along an osmotic gradient. Recall that an osmotic gradient is produced by
+the difference in concentration of all solutes on either side of a semi-permeable membrane. The magnitude of the osmotic
+gradient is proportional to the difference in the concentration of solutes on one side of the cell membrane to that on the other
+side. Water will move by osmosis from the side where its concentration is high (and the concentration of solute is low) to
+the side of the membrane where its concentration is low (and the concentration of solute is high).

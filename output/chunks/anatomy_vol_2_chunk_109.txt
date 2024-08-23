@@ -1,0 +1,15 @@
+The channels that start depolarizing the membrane because of a stimulus help the cell to depolarize from -70 mV
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 12 | THE NERVOUS SYSTEM AND NERVOUS TISSUE 493
+
+to -55 mV. Once the membrane reaches that voltage, the voltage-gated Na” channels open. This is what is known as the
+threshold. Any depolarization that does not change the membrane potential to -55 mV or higher will not reach threshold
+and thus will not result in an action potential. Also, any stimulus that depolarizes the membrane to -55 mV or beyond will
+cause a large number of channels to open and an action potential will be initiated.
+
+ Because of the threshold, the action potential can be likened to a digital event—it either happens or it does not. If
+the threshold is not reached, then no action potential occurs. If depolarization reaches -55 mV, then the action potential
+
+continues and runs all the way to +30 mV, at which K* causes repolarization, including the hyperpolarizing overshoot.

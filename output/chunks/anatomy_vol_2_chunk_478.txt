@@ -1,0 +1,12 @@
+Figure 15.6 Comparison of Somatic and Visceral Reflexes The afferent inputs to somatic and visceral reflexes
+are essentially the same, whereas the efferent branches are different. Somatic reflexes, for instance, involve a direct
+connection from the ventral horn of the spinal cord to the skeletal muscle. Visceral reflexes involve a projection from
+the central neuron to a ganglion, followed by a second projection from the ganglion to the target effector.
+
+ Afferent Branch
+
+The afferent branch of a reflex arc does differ between somatic and visceral reflexes in some instances. Many of the inputs
+to visceral reflexes are from special or somatic senses, but particular senses are associated with the viscera that are not part
+of the conscious perception of the environment through the somatic nervous system. For example, there is a specific type of
+mechanoreceptor, called a baroreceptor, in the walls of the aorta and carotid sinuses that senses the stretch of those organs
+when blood volume or pressure increases.

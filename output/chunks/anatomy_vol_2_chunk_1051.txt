@@ -1,0 +1,10 @@
+The semilunar
+valves close to prevent backflow into the heart. Since the atrioventricular valves remain closed at this point, there is no
+change in the volume of blood in the ventricle, so the early phase of ventricular diastole is called the isovolumic ventricular
+relaxation phase, also called isovolumetric ventricular relaxation phase (see Figure 19.27).
+
+ In the second phase of ventricular diastole, called late ventricular diastole, as the ventricular muscle relaxes, pressure
+on the blood within the ventricles drops even further. Eventually, it drops below the pressure in the atria. When this occurs,
+blood flows from the atria into the ventricles, pushing open the tricuspid and mitral valves. As pressure drops within the
+ventricles, blood flows from the major veins into the relaxed atria and from there into the ventricles. Both chambers are in
+diastole, the atrioventricular valves are open, and the semilunar valves remain closed (see Figure 19.27).

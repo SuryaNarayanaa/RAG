@@ -1,0 +1,18 @@
+Nutrient molecules, such as glucose or amino acids, can pass through the BBB, but other
+molecules cannot. This actually causes problems with drug delivery to the CNS. Pharmaceutical companies are challenged
+to design drugs that can cross the BBB as well as have an effect on the nervous system.
+
+ Microglial cell we aw
+
+Astrocyte
+
+oS
+
+Ependymal cells all Oligodendrocytes
+Figure 12.11 Glial Cells of the CNS The CNS has astrocytes, oligodendrocytes, microglia, and ependymal cells that
+support the neurons of the CNS in several ways.
+
+ Like a few other parts of the body, the brain has a privileged blood supply. Very little can pass through by diffusion.
+ Most substances that cross the wall of a blood vessel into the CNS must do so through an active transport process. Because
+of this, only specific types of molecules can enter the CNS. Glucose—the primary energy source—is allowed, as are amino
+acids. Water and some other small particles, like gases and ions, can enter.

@@ -1,0 +1,17 @@
+BLOOD 743
+
+Hemopoiesis begins when the hemopoietic stem cell is exposed to appropriate chemical stimuli collectively called
+hemopoietic growth factors, which prompt it to divide and differentiate. One daughter cell remains a hemopoietic stem
+cell, allowing hemopoiesis to continue. The other daughter cell becomes either of two types of more specialized stem cells
+(Figure 18.4):
+
+¢ Lymphoid stem cells give rise to a class of leukocytes known as lymphocytes, which include the various T cells,
+
+B cells, and natural killer (NK) cells, all of which function in immunity. However, hemopoiesis of lymphocytes
+
+progresses somewhat differently from the process for the other formed elements. In brief, lymphoid stem cells quickly
+
+migrate from the bone marrow to lymphatic tissues, including the lymph nodes, spleen, and thymus, where their
+production and differentiation continues. B cells are so named since they mature in the bone marrow, while T cells
+mature in the thymus.
+

@@ -1,0 +1,9 @@
+This will ultimately decrease blood osmolarity toward the physiologic norm.
+ If the osmolarity of the filtrate is too low, the juxtaglomerular cells will relax, increasing the GFR and enhancing the loss of
+water to the urine, causing blood osmolarity to rise. In other words, when osmolarity goes up, filtration and urine formation
+decrease and water is retained. When osmolarity goes down, filtration and urine formation increase and water is lost by way
+of the urine. The net result of these opposing actions is to keep the rate of filtration relatively constant. A second function
+of the macula densa cells is to regulate renin release from the juxtaglomerular cells of the afferent arteriole (Figure 25.14).
+ Active renin is a protein comprised of 304 amino acids that cleaves several amino acids from angiotensinogen to produce
+angiotensin I. Angiotensin I is not biologically active until converted to angiotensin II by angiotensin-converting enzyme
+(ACE) from the lungs.

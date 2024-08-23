@@ -1,0 +1,21 @@
+It is especially useful for soft tissue scanning, such as of the brain and the
+thoracic and abdominal viscera. Its level of detail is so precise that it can allow physicians to measure the size of a mass
+down to a millimeter. The main disadvantage of CT scanning is that it exposes patients to a dose of radiation many times
+higher than that of X-rays. In fact, children who undergo CT scans are at increased risk of developing cancer, as are adults
+who have multiple CT scans.
+
+ @-Interactive ILINK
+
+A CT or CAT scan relies on a circling scanner that revolves around the patient’s body. Watch this video
+(http://openstaxcollege.org/l/CATscan) to learn more about CT and CAT scans. What type of radiation does a CT
+scanner use?
+
+ This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-1-2014/ or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 1| AN INTRODUCTION TO THE HUMAN BODY 37
+
+Magnetic Resonance Imaging
+
+Magnetic resonance imaging (MRI) is a noninvasive medical imaging technique based on a phenomenon of nuclear
+physics discovered in the 1930s, in which matter exposed to magnetic fields and radio waves was found to emit radio
+signals.

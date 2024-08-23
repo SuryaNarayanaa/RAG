@@ -1,0 +1,18 @@
+Axons from these ganglionic neurons then project the short distance to those target effectors.
+
+ Chemical Signaling in the Autonomic Nervous System
+
+Where an autonomic neuron connects with a target, there is a synapse. The electrical signal of the action potential causes
+the release of a signaling molecule, which will bind to receptor proteins on the target cell. Synapses of the autonomic
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-2 or at http://cnx.org/content/col11496/1.6
+
+CHAPTER 15 | THE AUTONOMIC NERVOUS SYSTEM 619
+
+system are classified as either cholinergic, meaning that acetylcholine (ACh) is released, or adrenergic, meaning that
+norepinephrine is released. The terms cholinergic and adrenergic refer not only to the signaling molecule that is released
+but also to the class of receptors that each binds.
+
+ The cholinergic system includes two classes of receptor: the nicotinic receptor and the muscarinic receptor. Both
+receptor types bind to ACh and cause changes in the target cell. The nicotinic receptor is a ligand-gated cation channel
+and the muscarinic receptor is a G protein-coupled receptor.

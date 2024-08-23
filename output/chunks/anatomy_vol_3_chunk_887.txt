@@ -1,0 +1,26 @@
+The pattern is shown in Figure 28.27, using a diagram that tracks
+the likely incidence of an autosomal recessive disorder on the basis of parental genotypes.
+
+ On the other hand, a child born to a CF carrier and someone with two unaffected alleles would have a 0 percent
+probability of inheriting CF, but would have a 50 percent chance of being a carrier. Other examples of autosome recessive
+genetic illnesses include the blood disorder sickle-cell anemia, the fatal neurological disorder Tay-Sachs disease, and the
+metabolic disorder phenylketonuria.
+
+ Autosomal recessive
+
+Carrier Carrier
+father mother
+Of
+Mother
+Cc c
+Cc cc Cc
+Probabilities:
+f Father > 75% cystic fibrosis
+CG not expressed
+ae Oo Of Oo . . 2 25% cystic fibrosis
+
+Unaffected Carrier Carrier Affected
+son daughter son daughter
+
+Figure 28.27 Autosomal Recessive Inheritance The inheritance pattern of an autosomal recessive disorder with
+two carrier parents reflects a 3:1 probability of expression among offspring.

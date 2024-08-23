@@ -1,0 +1,18 @@
+Each 1,3-bisphosphoglycerate is subsequently dephosphorylated (i.e., a phosphate is removed) by phosphoglycerate
+kinase into 3-phosphoglycerate. Each phosphate released in this reaction can convert one molecule of ADP into one high-
+energy ATP molecule, resulting in a gain of two ATP molecules.
+
+ The enzyme phosphoglycerate mutase then converts the 3-phosphoglycerate molecules into 2-phosphoglycerate. The
+enolase enzyme then acts upon the 2-phosphoglycerate molecules to convert them into phosphoenolpyruvate molecules.
+ The last step of glycolysis involves the dephosphorylation of the two phosphoenolpyruvate molecules by pyruvate kinase
+to create two pyruvate molecules and two ATP molecules.
+
+ In summary, one glucose molecule breaks down into two pyruvate molecules, and creates two net ATP molecules and
+two NADH molecules by glycolysis. Therefore, glycolysis generates energy for the cell and creates pyruvate molecules
+that can be processed further through the aerobic Krebs cycle (also called the citric acid cycle or tricarboxylic acid
+
+This content is available for free at http://textbookequity.org/anatomy-and-physiology-volume-3/ or at http://cnx.org/content/col11496/1.6
+
+cycle); converted into lactic acid or alcohol (in yeast) by fermentation; or used
+gluconeogenesis.
+

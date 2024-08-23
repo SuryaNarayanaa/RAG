@@ -1,0 +1,22 @@
+Explain the organization of the DNA molecule within the nucleus
+* Describe the process of DNA replication
+
+The nucleus is the largest and most prominent of a cell’s organelles (Figure 3.19). The nucleus is generally considered
+the control center of the cell because it stores all of the genetic instructions for manufacturing proteins. Interestingly, some
+cells in the body, such as muscle cells, contain more than one nucleus (Figure 3.20), which is known as multinucleated.
+Other cells, such as mammalian red blood cells (RBCs), do not contain nuclei at all. RBCs eject their nuclei as they mature,
+making space for the large numbers of hemoglobin molecules that carry oxygen throughout the body (Figure 3.21). Without
+nuclei, the life span of RBCs is short, and so the body must produce new ones constantly.
+
+ Nuclear pores
+Nuclear envelope
+Chromatin
+(condensed)
+
+Nucleus
+
+Nucleolus
+
+Cisternae
+
+Figure 3.19 The Nucleus

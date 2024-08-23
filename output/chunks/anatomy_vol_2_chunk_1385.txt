@@ -1,0 +1,10 @@
+Later, the cells become double positives that express both CD4 and CD8 markers and move from the cortex to the
+junction between the cortex and medulla. It is here that negative selection takes place. In negative selection, self-antigens
+are brought into the thymus from other parts of the body by professional antigen-presenting cells. The T cells that bind to
+these self-antigens are selected for negatively and are killed by apoptosis. In summary, the only T cells left are those that
+can bind to MHC molecules of the body with foreign antigens presented on their binding clefts, preventing an attack on
+one’s own body tissues, at least under normal circumstances. Tolerance can be broken, however, by the development of an
+autoimmune response, to be discussed later in this chapter.
+
+ The cells that leave the thymus become single positives, expressing either CD4 or CD8, but not both (see Figure
+21.18).

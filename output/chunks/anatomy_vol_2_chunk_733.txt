@@ -1,0 +1,13 @@
+The release of ACTH is regulated by the corticotropin-releasing hormone (CRH) from the hypothalamus in response
+to normal physiologic rhythms. A variety of stressors can also influence its release, and the role of ACTH in the stress
+response is discussed later in this chapter.
+
+ Follicle-Stimulating Hormone and Luteinizing Hormone
+
+The endocrine glands secrete a variety of hormones that control the development and regulation of the reproductive system
+(these glands include the anterior pituitary, the adrenal cortex, and the gonads—the testes in males and the ovaries in
+emales). Much of the development of the reproductive system occurs during puberty and is marked by the development
+of sex-specific characteristics in both male and female adolescents. Puberty is initiated by gonadotropin-releasing hormone
+(GnRH), a hormone produced and secreted by the hypothalamus. GnRH stimulates the anterior pituitary to secrete
+gonadotropins—hormones that regulate the function of the gonads. The levels of GnRH are regulated through a negative
+eedback loop; high levels of reproductive hormones inhibit the release of GnRH.

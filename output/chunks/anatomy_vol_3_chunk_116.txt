@@ -1,0 +1,9 @@
+A lower partial pressure of oxygen means that there is a smaller difference
+in partial pressures between the alveoli and the blood, so less oxygen crosses the respiratory membrane. As a result, fewer
+oxygen molecules are bound by hemoglobin. Despite this, the tissues of the body still receive a sufficient amount of oxygen
+during rest at high altitudes. This is due to two major mechanisms. First, the number of oxygen molecules that enter the
+tissue from the blood is nearly equal between sea level and high altitudes. At sea level, hemoglobin saturation is higher,
+but only a quarter of the oxygen molecules are actually released into the tissue. At high altitudes, a greater proportion of
+molecules of oxygen are released into the tissues. Secondly, at high altitudes, a greater amount of BPG is produced by
+erythrocytes, which enhances the dissociation of oxygen from hemoglobin. Physical exertion, such as skiing or hiking, can
+lead to altitude sickness due to the low amount of oxygen reserves in the blood at high altitudes.

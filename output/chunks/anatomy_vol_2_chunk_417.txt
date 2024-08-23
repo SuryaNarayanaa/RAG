@@ -1,0 +1,13 @@
+This depolarizes the sarcolemma, initiating muscle
+contraction. Whereas other synapses result in graded potentials that must reach a threshold in the postsynaptic target,
+activity at the neuromuscular junction reliably leads to muscle fiber contraction with every nerve impulse received from a
+motor neuron. However, the strength of contraction and the number of fibers that contract can be affected by the frequency
+of the motor neuron impulses.
+
+ Reflexes
+
+This chapter began by introducing reflexes as an example of the basic elements of the somatic nervous system. Simple
+somatic reflexes do not include the higher centers discussed for conscious or voluntary aspects of movement. Reflexes
+can be spinal or cranial, depending on the nerves and central components that are involved. The example described at
+the beginning of the chapter involved heat and pain sensations from a hot stove causing withdrawal of the arm through a
+connection in the spinal cord that leads to contraction of the biceps brachii.

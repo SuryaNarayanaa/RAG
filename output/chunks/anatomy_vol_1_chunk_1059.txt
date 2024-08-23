@@ -1,0 +1,27 @@
+Eventually,
+there is nowhere else for the thin filaments to go and the amount of tension is diminished. If the muscle is stretched to the
+point where thick and thin filaments do not overlap at all, no cross-bridges can be formed, and no tension is produced in that
+sarcomere. This amount of stretching does not usually occur, as accessory proteins and connective tissue oppose extreme
+stretching.
+
+ 100
+80
+60
+
+40
+
+Tension
+(percent of maximum)
+
+20
+
+40 60 80 100 120 140 160 180 200 220
+
+Decreased Increased No cross bridges
+length length
+acm ae tt)
+
+Percentage sarcomere length
+Figure 10.14 The Ideal Length of aSarcomere Sarcomeres produce maximal tension when thick and thin filaments
+overlap between about 80 percent to 120 percent.
+

@@ -1,0 +1,10 @@
+When the first sperm fuses with the oocyte, the oocyte deploys two mechanisms to prevent polyspermy, which is
+
+penetration by more than one sperm. This is critical because if more than one sperm were to fertilize the oocyte, the resulting
+zygote would be a triploid organism with three sets of chromosomes. This is incompatible with life.
+ The first mechanism is the fast block, which involves a near instantaneous change in sodium ion permeability upon
+binding of the first sperm, depolarizing the oocyte plasma membrane and preventing the fusion of additional sperm cells.
+ The fast block sets in almost immediately and lasts for about a minute, during which time an influx of calcium ions
+ollowing sperm penetration triggers the second mechanism, the slow block. In this process, referred to as the cortical
+reaction, cortical granules sitting immediately below the oocyte plasma membrane fuse with the membrane and release
+zonal inhibiting proteins and mucopolysaccharides into the space between the plasma membrane and the zona pellucida.

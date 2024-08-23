@@ -1,0 +1,11 @@
+The actin sites are exposed after Ca”* enters the sarcoplasm from its SR storage to activate the
+troponin-tropomyosin complex so that the tropomyosin shifts away from the sites. The cross-bridging of myposin heads
+docking into actin-binding sites is followed by the “power stroke”—the sliding of the thin filaments by thick filaments. The
+power strokes are powered by ATP. Ultimately, the sarcomeres, myofibrils, and muscle fibers shorten to produce movement.
+
+ 10.4 Nervous System Control of Muscle Tension
+
+[he number of cross-bridges formed between actin and myosin determines the amount of tension produced by a muscle.
+ The length of a sarcomere is optimal when the zone of overlap between thin and thick filaments is greatest. Muscles that are
+stretched or compressed too greatly do not produce maximal amounts of power. A motor unit is formed by a motor neuron
+and all of the muscle fibers that are innervated by that same motor neuron.

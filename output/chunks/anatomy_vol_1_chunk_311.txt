@@ -1,0 +1,34 @@
+When a cell is in the process of division, the chromatin condenses into
+chromosomes, so that the DNA can be safely transported to the “daughter cells.” The chromosome is composed of DNA
+and proteins; it is the condensed form of chromatin. It is estimated that humans have almost 22,000 genes distributed on 46
+chromosomes.
+
+ TI
+TI
+
+
+106 CHAPTER 3| THE CELLULAR LEVEL OF ORGANIZATION
+
+Chromosome
+
+Histones
+
+zor <I
+Chromatin
+
+Nucleosome
+
+DNA helix
+
+ATGACGGATCAGCCGCAAGCGGAAT TGGCGACATAA
+
+TACTGCCTAGTCGGCGTTCGCCTTAACCGCTGTATT
+
+Figure 3.22 DNA Macrostructure Strands of DNA are wrapped around supporting histones. These proteins are
+increasingly bundled and condensed into chromatin, which is packed tightly into chromosomes when the cell is ready
+to divide.
+
+ DNA Replication
+
+ In order for an organism to grow, develop, and maintain its health, cells must reproduce themselves by dividing to produce
+two new daughter cells, each with the full complement of DNA as found in the original cell.

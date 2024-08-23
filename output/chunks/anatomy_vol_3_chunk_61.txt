@@ -1,0 +1,13 @@
+Instead, the
+elasticity of the lung tissue causes the lung to recoil, as the diaphragm and intercostal muscles relax following inspiration. In
+turn, the thoracic cavity and lungs decrease in volume, causing an increase in interpulmonary pressure. The interpulmonary
+pressure rises above atmospheric pressure, creating a pressure gradient that causes air to leave the lungs.
+
+ There are different types, or modes, of breathing that require a slightly different process to allow inspiration and
+expiration. Quiet breathing, also known as eupnea, is a mode of breathing that occurs at rest and does not require the
+cognitive thought of the individual. During quiet breathing, the diaphragm and external intercostals must contract.
+
+ A deep breath, called diaphragmatic breathing, requires the diaphragm to contract. As the diaphragm relaxes, air
+passively leaves the lungs. A shallow breath, called costal breathing, requires contraction of the intercostal muscles. As the
+intercostal muscles relax, air passively leaves the lungs.
+
