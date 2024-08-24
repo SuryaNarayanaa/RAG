@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookGPT</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+          <button class="sidebarbtn" onclick="toggleSidebar()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-layout-sidebar" viewBox="0 0 16 16">
+              <path d="M0 3a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm5-1v12h9a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1zM4 2H2a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h2z"/>
+            </svg>
+          </button>
+            <h1><a style="text-decoration: none; color: white;" href="/">BookGPT</a></h1>
+        </div>
+        <div class="chat-box-wrapper">
+          <div class="chat-box">
+            <div class="sidebar" id="sidebar">
+              <form action="/newchat" method="post">
+                <input type="text" name="chatname" required placeholder="Chat Name" style="height: 40px;background-color:#353333;border: none;color: white;margin: 0;padding: 0;border-radius: 10px;">
+                <button type="submit" class="start-chat-btn" style="border-radius: 10px; margin-top: 10px;margin-bottom: 10px;font-size:medium;height: 40px; ">Create Chat</button>
+              </form>
+              <h3 style="color: white; margin-bottom: 20px;">Recent Chats</h3>
+              <ul>
+                <% if(locals.chatnames){ %>
+                  <% chatnames.forEach( obj=> {%>
+                    <li>
+                      <form action="/chats" method="get">
+                        <input type="hidden" name="chatid" value="<%= obj.id %>">
+                        <button type="submit" style="color: white;border: none;background-color:#1a1a1b;cursor: pointer;"><%= obj.chatname %></button>
+                      </form>
+                    </li>
+                  <%}); %>
+                <% }else{ %>
+                  <li style="color: white;">No Chats</li>
+                <% } %>
+              </ul>
+            </div>
+            <% if(locals.chatnames){ %>
+              <% if(locals.chat){ %>
+                <%chat.forEach(chatobj => {%>
+                  <div class="chat-message user-message">
+                    <p><%= chatobj.message%></p>
+                  </div>
+                  <div class="chat-message bot-message">
+                    <p><%= chatobj.response %></p>
+                  </div>
+                <%}); %>
+              <% }else{ %>
+                <div class="nochat"></div>
+              <% } %>
+            <% }else{ %>
+              <div class="error">
+                <p style="color: white;font-size: 2rem;margin-bottom: 20px;">Start a new conversation!</p>
+                <p style="color: white;font-size: 2rem;margin-bottom: 20px;">Create New Chat in the Side Bar
+                </p>
+              </div>
+            <% } %>
+          </div>
+          <div class="chat-input">
+            <form class="chat-input" action="/chat" method="post" id="inputsumbitform">
+              <input type="text" id="userInput" name="message" placeholder="Message BookGPT.." />
+              <button id="sendButton" type="submit">
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" class="bi bi-send-fill" viewBox="0 0 16 16">
+                  <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.494-7.494 1.178-.471z"/>
+                </svg>
+              </button>
+            </form>
+          </div>
+        </div>
+    </div>
+
+    <script>
+      let input = document.querySelector("#inputsumbitform input");
+      let send = document.querySelector("#inputsubmitform");
+      input.addEventListener("keydown",(e)=>{
+        if(e.key == 'Enter'){
+          send.submit();
+        }
+      })
+
+      function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      sidebar.classList.toggle('open');
+      }
+    </script>
+</body>
+</html>
