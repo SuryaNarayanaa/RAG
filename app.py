@@ -1,25 +1,25 @@
 from flask import Flask, render_template, request, jsonify
-from TheUltimateModel.pdf_scanners import 
+from flask_cors import CORS  # Import CORS
+from searching import return_formated_text
+
 app = Flask(__name__)
 
-# Route for the home page
-@app.route('/' ,methods = ['POST'] )
-def home():
-    return "HOME PAGE"
+# Initialize CORS
+CORS(app)  # Enable CORS for all routes
 
 
-# Route with a dynamic URL
-@app.route('/hello/<name>')
-def hello(name):
-    return f"Hello, {name}!"
+@app.route('/', methods=['POST'])
+def handle_question():
+    # Extract the question from the POST request
+    data = request.get_json()  # Assuming the request data is in JSON format
+    question = data.get('question', '')  # Get the 'question' key from the JSON data
 
-# Route with POST method
-@app.route('/submit', methods=['POST'])
-def submit():
-    data = request.get_json()
-    name = data.get('name', 'Unknown')
-    return jsonify({"message": f"Data received from {name}!"})
+    # Process the question (this is where your logic would go)
+    # For now, let's just send back a simple response
+    response_text = return_formated_text(question)
 
-# Run the app
+    # Send the response back as JSON
+    return jsonify({'response': response_text})
+
 if __name__ == '__main__':
     app.run(debug=True)
