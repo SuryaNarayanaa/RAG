@@ -250,3 +250,21 @@ body {
   }
 
 }
+
+@media only screen and (max-width: 767.98px) {
+  .chat-box{
+    width: 100%;
+  }
+  .chat-input{
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 991.98px ) {
+  .chat-box{
+    width: 90%;
+  }
+  .chat-input{
+    width: 90%;
+  }
+}
