@@ -54,19 +54,28 @@ app.get("/chats",async (req,res)=>{
 
 app.post("/newchat" , async (req,res)=>{
   const {chatname} = req.body;
-  await db.query("insert into chat (chatname) values ($1)",[chatname]);
-  res.redirect("/");
+  try {
+    await db.query("insert into chat (chatname) values ($1)",[chatname]);
+    res.redirect("/");
+  } catch (error) {
+    res.send({error:error});
+  }
+
 }
 )
 
 app.post("/chat" , async (req,res)=>{
   const chatid = curr_chatid;
   const message = req.body.message;
-  const response = await axios.post("https://gbrh7rr7-5000.inc1.devtunnels.ms/",{
-    question:message
-  });
-  await db.query("insert into chatmesages (message,response,chatid) values ($1,$2,$3)",[message,response.data.response,chatid]);
-  res.redirect(`/chats?chatid=${chatid}`);
+  try{
+    const response = await axios.post("https://gbrh7rr7-5000.inc1.devtunnels.ms/",{
+      question:message
+    });
+    await db.query("insert into chatmesages (message,response,chatid) values ($1,$2,$3)",[message,response.data.response,chatid]);
+    res.redirect(`/chats?chatid=${chatid}`);
+  }catch(error){
+    res.send({error:error});
+  }
 })
 
 app.listen(PORT,()=>console.log('Server is running'));

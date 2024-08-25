@@ -83,8 +83,8 @@ body {
   flex-direction: column;
   padding: 20px;
   overflow-y: auto;
-  height: 80vh;
-  width: 60%;
+  height: 75vh;
+  width: 65%;
 }
 
 .chat-message {
@@ -94,6 +94,8 @@ body {
 
 .user-message {
   align-self: flex-end;
+  margin-bottom: 2rem;
+
 }
 
 .user-message p {
@@ -106,6 +108,7 @@ body {
 
 .bot-message {
   align-self: flex-start;
+  margin-bottom: 2rem;
 }
 
 .bot-message p {
@@ -125,9 +128,10 @@ body {
 }
 
 .chat-input {
+  margin-top: 1rem;
   display: flex;
   justify-content: center;
-  width: 60%;
+  width: 65%;
 }
 
 .chat-input input {
@@ -203,4 +207,13 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: #555;
+}
+
+@media only screen and (max-width: 575.98px) {
+  .chat-box{
+    width: 100%;
+  }
+  .chat-input{
+    width: 100%;
+  }
 }
