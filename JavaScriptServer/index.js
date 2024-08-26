@@ -27,7 +27,7 @@ app.use(express.static("public"));
 app.use(bodyParser.urlencoded({extended:"true"}));
 
 app.get("/",async(req,res)=>{
-  chatnames = await db.query("select * from chat");
+  chatnames = await db.query("select * from chat order by id desc");
   if(chatnames.rows.length===0){
     chatnames = undefined;
   }
