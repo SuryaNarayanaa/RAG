@@ -38,6 +38,16 @@ app.get("/",async(req,res)=>{
   });
 })
 
+app.get("/review",(req,res)=>{
+  res.render("review.ejs");
+})
+
+app.post("/review",async (req,res)=>{
+  const {username,review} = req.body;
+  await db.query("insert into reviews (name,review) values ($1,$2)",[username,review]);
+  res.redirect("/");
+})
+
 app.get("/chats",async (req,res)=>{
   const {chatid} = req.query;
   curr_chatid = chatid;
