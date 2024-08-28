@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookGPT</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1><a style="text-decoration: none; color: white;" href="/">BookGPT</a></h1>
+        </div>
+        <div class="chat-box-wrapper">
+          <div class="chat-box">
+            <form  class="review-form" action="/review" method="post">
+              <input type="text" class="name-input" name="username" required placeholder="Enter you name">
+              <input type="text" class="review-input" name="review" required placeholder="Enter your review">
+              <button type="submit" class="createchatbtn">Submit</button>
+            </form>
+          </div>
+        </div>
+    </div>
