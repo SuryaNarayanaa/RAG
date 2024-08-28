@@ -3,3 +3,5 @@
 /extracted_tables
 /faiss_index.index
 /extracted_text.json
+/JavaSciptServer/node_modules/
+/JavaScriptServer/.env

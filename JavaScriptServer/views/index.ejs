@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookGPT</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+          <button class="sidebarbtn" onclick="toggleSidebar()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-layout-sidebar" viewBox="0 0 16 16">
+              <path d="M0 3a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm5-1v12h9a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1zM4 2H2a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h2z"/>
+            </svg>
+          </button>
+            <h1><a style="text-decoration: none; color: white;" href="/">BookGPT</a></h1>
+              <a href="/review" class="review-button">Add Review</a>
+        </div>
+        <div class="chat-box-wrapper">
+          <div class="chat-box">
+            <div class="sidebar" id="sidebar">
+              <form action="/newchat" method="post">
+                <input type="text" name="chatname" required placeholder="Chat Name" class="sidebarinput">
+                <button type="submit" class="createchatbtn">Create Chat</button>
+              </form>
+              <h3 style="color: white; margin-bottom: 20px;">Recent Chats</h3>
+              <ul>
+                <% if(locals.chatnames){ %>
+                  <% chatnames.forEach( obj=> {%>
+                    <li>
+                      <form action="/chats" method="get">
+                        <input type="hidden" name="chatid" value="<%= obj.id %>">
+                        <button type="submit" style="color: white;border: none;background-color:#1a1a1b;cursor: pointer;font-size: 1rem;"><%= obj.chatname %></button>
+                      </form>
+                    </li>
+                  <%}); %>
+                <% }else{ %>
+                  <li style="color: white;">No Chats</li>
+                <% } %>
+              </ul>
+            </div>
+            <% if(locals.chatnames){ %>
+              <% if(locals.chat){ %>
+                <%chat.forEach(chatobj => {%>
+                  <div class="chat-message user-message">
+                    <p><%= chatobj.message%></p>
+                  </div>
+                  <div class="chat-message bot-message">
+                    <svg style="margin-right: 1rem;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-book" viewBox="0 0 16 16">
+                      <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783"/>
+                    </svg>
+                    <p><%= chatobj.response %></p>
+                  </div>
+                <%}); %>
+              <% }else{ %>
+                <div class="nochat">
+                  <p style="color: white;text-align: center;font-size: 2rem;font-weight:600;">Start Chatting with BookGPT</p>
+                </div>
+              <% } %>
+            <% }else{ %>
+              <div class="error">
+                <p style="color: white;font-size: 2rem;margin-bottom: 20px;">Start a new conversation!</p>
+                <p style="color: white;font-size: 2rem;margin-bottom: 20px;">Create New Chat in the Side Bar
+                </p>
+              </div>
+            <% } %>
+          </div>
+          <div class="chat-input">
+            <form class="chat-input" action="/chat" method="post" id="inputsumbitform">
+              <input type="text" id="userInput" required name="message" placeholder="Message BookGPT.." />
+              <button id="sendButton" type="submit">
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" class="bi bi-send-fill" viewBox="0 0 16 16">
+                  <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.494-7.494 1.178-.471z"/>
+                </svg>
+              </button>
+              <div id="loadingSpinner" class="loading-spinner"></div>
+            </form>
+          </div>
+        </div>
+    </div>
+
+    <script>
+      let input = document.querySelector("#inputsumbitform input");
+      let send = document.querySelector("#inputsubmitform");
+      let loadingSpinner = document.getElementById("loadingSpinner");
+      let sendbutton = document.querySelector("#sendButton");
+
+      sendbutton.addEventListener("click",()=>{
+        showLoadingSpinner();
+      })
+
+      input.addEventListener("keydown",(e)=>{
+        if(e.key == 'Enter'){
+          showLoadingSpinner();
+          send.submit();
+        }
+      })
+      function showLoadingSpinner() {
+        sendbutton.style.display = "none";
+        loadingSpinner.style.display = "block";
+        send.querySelector("button").disabled = true;
+      }
+      function hideLoadingSpinner() {
+        loadingSpinner.style.display = "none";
+        send.querySelector("button").disabled = false;
+      }
+      window.addEventListener('load', () => {
+        hideLoadingSpinner();
+      });
+
+      function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      sidebar.classList.toggle('open');
+      }
+    </script>
+</body>
+</html>
