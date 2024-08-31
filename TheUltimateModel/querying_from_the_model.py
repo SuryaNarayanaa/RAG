@@ -76,7 +76,7 @@ def search_faiss(query, index, model, k=5):
     D, I = index.search(np.array(query_embedding), k)  
     return I[0]  
 
-def retrieve_and_format_results(query, index, text_chunks, model):
+def retrieve_and_format_results(query, index, text_chunks, model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')):
     indices = search_faiss(query, index, model)
     
     if not indices.size:
@@ -84,7 +84,6 @@ def retrieve_and_format_results(query, index, text_chunks, model):
 
     valid_indices = [i for i in indices if 0 <= i < len(text_chunks)]
     results = " ".join([text_chunks[i] for i in valid_indices]) 
-    print(f"\n---------------------------------------------------------------\{results}---------------------------------------------")
     formatted_results = format_output(results ,query)
     return formatted_results
 
@@ -102,24 +101,19 @@ def load_embeddings(path):
 # In[35]:
 
 
-text_chunks, embeddings = load_embeddings(EMBEDDINGS_PATH)
 
 def build_faiss_index(embeddings):
     dim = embeddings.shape[1]  # Dimension of embeddings
     index = faiss.IndexFlatL2(dim)  # L2 distance index
     index.add(embeddings)  # Add embeddings to index
     return index
-faiss_index = build_faiss_index(embeddings)
 
 
 
 # In[38]:
 
 
-query = "WHO AUTHOR THIS BOOK" 
-formatted_results = retrieve_and_format_results(query, faiss_index, text_chunks, embedding_model)
-print("RAG :(\n")
-print(formatted_results)
+
 
 
 # In[ ]:

@@ -1,9 +1,0 @@
-Before the mRNA molecule leaves the nucleus and proceeds to protein synthesis, it is modified in a number of ways.
- For this reason, it is often called a pre-mRNA at this stage. For example, your DNA, and thus complementary mRNA,
-contains long regions called non-coding regions that do not code for amino acids. Their function is still a mystery, but the
-process called splicing removes these non-coding regions from the pre-mRNA transcript (Figure 3.27). A spliceosome—a
-structure composed of various proteins and other molecules—attaches to the mRNA and “splices” or cuts out the non-
-coding regions. The removed segment of the transcript is called an intron. The remaining exons are pasted together.
- An exon is a segment of RNA that remains after splicing. Interestingly, some introns that are removed from mRNA are
-not always non-coding. When different coding regions of mRNA are spliced out, different variations of the protein will
-eventually result, with differences in structure and function.

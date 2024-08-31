@@ -1,9 +1,0 @@
-Instead, atoms link by forming a chemical bond. A bond is a weak or strong electrical attraction that holds atoms in
-the same vicinity. The new grouping is typically more stable—less likely to react again—than its component atoms were
-when they were separate. A more or less stable grouping of two or more atoms held together by chemical bonds is called
-a molecule. The bonded atoms may be of the same element, as in the case of H2, which is called molecular hydrogen or
-hydrogen gas. When a molecule is made up of two or more atoms of different elements, it is called a chemical compound.
- Thus, a unit of water, or H2O, is a compound, as is a single molecule of the gas methane, or CH4.
-
- Three types of chemical bonds are important in human physiology, because they hold together substances that are used
-by the body for critical aspects of homeostasis, signaling, and energy production, to name just a few important processes.

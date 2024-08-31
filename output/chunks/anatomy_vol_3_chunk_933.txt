@@ -1,8 +1,0 @@
-If DNA replication did not take place fully, or at all, the offspring cells would be missing some or
-all of the genome. This could be disastrous if a cell was missing genes necessary for its function and health. 37 Transcription
-and DNA replication both involve the synthesis of nucleic acids. These processes share many common features—particularly, the
-similar processes of initiation, elongation, and termination. In both cases the DNA molecule must be untwisted and separated,
-and the coding (i.e., sense) strand will be used as a template. Also, polymerases serve to add nucleotides to the growing DNA
-or mRNA strand. Both processes are signaled to terminate when completed. 38 Transcription is really a “copy” process and
-translation is really an “interpretation” process, because transcription involves copying the DNA message into a very similar RNA
-message whereas translation involves converting the RNA message into the very different amino acid message.

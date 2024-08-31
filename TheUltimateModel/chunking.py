@@ -19,10 +19,7 @@ from semantic_router.encoders import HuggingFaceEncoder
 
 
 CHUNK_OP_DIRECTORY_TXT = ".\\output\\chunks"
-FILE_PATH = ".\output\\text\\Metamorphosis by Franz Kafka.txt"
 
-
-TEXT_FILE_NAME = os.path.splitext(os.path.basename(FILE_PATH))[0]
 
 
 # In[60]:
@@ -55,17 +52,29 @@ def read_entire_txt_file(FILE_PATH):
 # In[53]:
 
 
-def chunk_and_save_as_txt(text):
+def chunk_and_save_as_txt(text ,chat_id):
+
 
     chunks= chunker([text])
     splits = [chunk.splits for sublist in chunks for chunk in sublist]
+
+    chuk_with_chat_id = os.path.join(CHUNK_OP_DIRECTORY_TXT , chat_id)
+    os.makedirs(chuk_with_chat_id ,exist_ok=True)
+
+    chmks_files= os.listdir(chuk_with_chat_id)
+    for f in chmks_files:
+        f = os.path.join(chuk_with_chat_id ,f)
+        os.remove(f)
+
     for i , indv_chunk in enumerate(splits):
-        CHUNK_PATH = os.path.join(CHUNK_OP_DIRECTORY_TXT , f"chunk_{i+1}")
+        CHUNK_PATH = os.path.join(chuk_with_chat_id , f"chunk_{i+1}.txt")
         with open(CHUNK_PATH , 'w') as f:
             f.write(str(indv_chunk))
             f.close()
-    
     print("CHUNK SAVE SUCCESSFUL")
+
+    return chuk_with_chat_id
+    
     
     
 
@@ -76,18 +85,20 @@ def chunk_and_save_as_txt(text):
 # In[54]:
 
 
-def generate_chunks(path):
-    text = read_entire_txt_file(path)
+def generate_chunks(path, chat_id):
+    text = ""
+    for t in os.listdir(path):
+        t  = os.path.join(path , t)
+        text += read_entire_txt_file(t)
 
-    chunk_and_save_as_txt(text)
+    chunk_path = chunk_and_save_as_txt(text,chat_id)
     print("CHUNKS GENERATED SUCCESSFULLY")
-    return
+    return chunk_path
 
 
 # In[55]:
 
 
-generate_chunks(FILE_PATH)
 
 
 # In[61]:

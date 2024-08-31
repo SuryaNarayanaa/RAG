@@ -1,9 +1,0 @@
-The cytoskeleton forms a complex thread-like network throughout the cell consisting of three different kinds o
-protein-based filaments: microfilaments, intermediate filaments, and microtubules (Figure 3.18). The thickest of the three
-is the microtubule, a structural filament composed of subunits of a protein called tubulin. Microtubules maintain cell shape
-and structure, help resist compression of the cell, and play a role in positioning the organelles within the cell. Microtubules
-also make up two types of cellular appendages important for motion: cilia and flagella. Cilia are found on many cells o
-the body, including the epithelial cells that line the airways of the respiratory system. Cilia move rhythmically; they beat
-constantly, moving waste materials such as dust, mucus, and bacteria upward through the airways, away from the lungs and
-toward the mouth. Beating cilia on cells in the female fallopian tubes move egg cells from the ovary towards the uterus. A
-flagellum (plural = flagella) is an appendage larger than a cilium and specialized for cell locomotion.

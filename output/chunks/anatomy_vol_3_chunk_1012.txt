@@ -1,9 +1,0 @@
-The endocrine system uses chemical signals called hormones
-to convey information from one part of the body to a distant part of the body. Hormones are released from the endocrine cell
-into the extracellular environment, but then travel in the bloodstream to target tissues. This communication and response can
-take seconds to days. In contrast, neurons transmit electrical signals along their axons. At the axon terminal, the electrical signal
-prompts the release of a chemical signal called a neurotransmitter that carries the message across the synaptic cleft to elicit a
-response in the neighboring cell. This method of communication is nearly instantaneous, of very brief duration, and is highly
-specific. 39 Endocrine glands are ductless. They release their secretion into the surrounding fluid, from which it enters the
-bloodstream or lymph to travel to distant cells. Moreover, the secretions of endocrine glands are hormones. Exocrine glands
-release their secretions through a duct that delivers the secretion to the target location.

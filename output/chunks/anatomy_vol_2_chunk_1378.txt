@@ -1,9 +1,0 @@
-Antigens from different classes of pathogens,
-however, use different MHC classes and take different routes through the cell to get to the surface for presentation. The
-basic mechanism, though, is the same. Antigens are processed by digestion, are brought into the endomembrane system of
-the cell, and then are expressed on the surface of the antigen-presenting cell for antigen recognition by a T cell. Intracellular
-antigens are typical of viruses, which replicate inside the cell, and certain other intracellular parasites and bacteria. These
-antigens are processed in the cytosol by an enzyme complex known as the proteasome and are then brought into the
-endoplasmic reticulum by the transporter associated with antigen processing (TAP) system, where they interact with class I
-MHC molecules and are eventually transported to the cell surface by a transport vesicle.
-

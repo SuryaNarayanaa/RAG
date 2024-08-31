@@ -1,9 +1,0 @@
-A superficial reflex is
-elicited through gentle stimulation of the skin and causes contraction of the associated muscles.
- For the arm, the common reflexes to test are of the biceps, brachioradialis, triceps, and flexors for the digits. For the leg,
-the knee-jerk reflex of the quadriceps is common, as is the ankle reflex for the gastrocnemius and soleus. The tendon at the
-insertion for each of these muscles is struck with a rubber mallet. The muscle is quickly stretched, resulting in activation of
-the muscle spindle that sends a signal into the spinal cord through the dorsal root. The fiber synapses directly on the ventral
-horn motor neuron that activates the muscle, causing contraction. The reflexes are physiologically useful for stability. If a
-muscle is stretched, it reflexively contracts to return the muscle to compensate for the change in length. In the context of the
-neurological exam, reflexes indicate that the LMN is functioning properly.

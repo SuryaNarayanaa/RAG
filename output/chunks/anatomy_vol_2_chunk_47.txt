@@ -1,7 +1,0 @@
-The first major function of the nervous system is sensation—receiving information about the environment to
-gain input about what is happening outside the body (or, sometimes, within the body). The sensory functions of the nervous
-system register the presence of a change from homeostasis or a particular event in the environment, known as a stimulus.
- The senses we think of most are the “big five”: taste, smell, touch, sight, and hearing. The stimuli for taste and smell are
-both chemical substances (molecules, compounds, ions, etc.), touch is physical or mechanical stimuli that interact with the
-skin, sight is light stimuli, and hearing is the perception of sound, which is a physical stimulus similar to some aspects of
-touch.

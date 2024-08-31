@@ -1,9 +1,0 @@
-Remember that gases travel from an area of higher partial pressure
-to an area of lower partial pressure. In addition, the affinity of an oxygen molecule for heme increases as more oxygen
-molecules are bound. Therefore, in the oxygen—hemoglobin saturation curve, as the partial pressure of oxygen increases,
-a proportionately greater number of oxygen molecules are bound by heme. Not surprisingly, the oxygen—hemoglobin
-saturation/dissociation curve also shows that the lower the partial pressure of oxygen, the fewer oxygen molecules are bound
-to heme. As a result, the partial pressure of oxygen plays a major role in determining the degree of binding of oxygen to
-heme at the site of the respiratory membrane, as well as the degree of dissociation of oxygen from heme at the site of body
-tissues.
-

@@ -1,9 +1,0 @@
-This creates what is known as a vascular
-shunt. In addition, an arteriovenous anastomosis may bypass the capillary bed and lead directly to the venous system.
-
- Although you might expect blood flow through a capillary bed to be smooth, in reality, it moves with an irregular,
-pulsating flow. This pattern is called vasomotion and is regulated by chemical signals that are triggered in response to
-changes in internal conditions, such as oxygen, carbon dioxide, hydrogen ion, and lactic acid levels. For example, during
-strenuous exercise when oxygen levels decrease and carbon dioxide, hydrogen ion, and lactic acid levels all increase, the
-capillary beds in skeletal muscle are open, as they would be in the digestive system when nutrients are present in the
-digestive tract.

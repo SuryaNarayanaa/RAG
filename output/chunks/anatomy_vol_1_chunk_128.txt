@@ -1,9 +1,0 @@
-One proton is the same as another, whether it is found
-in an atom of carbon, sodium (Na), or iron (Fe). The same is true for neutrons and electrons. So, what gives an element its
-distinctive properties—what makes carbon so different from sodium or iron? The answer is the unique quantity of protons
-each contains. Carbon by definition is an element whose atoms contain six protons. No other element has exactly six protons
-in its atoms. Moreover, all atoms of carbon, whether found in your liver or in a lump of coal, contain six protons. Thus, the
-atomic number, which is the number of protons in the nucleus of the atom, identifies the element. Because an atom usually
-has the same number of electrons as protons, the atomic number identifies the usual number of electrons as well.
-
- In their most common form, many elements also contain the same number of neutrons as protons.

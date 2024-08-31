@@ -1,9 +1,0 @@
-If that graded potential is strong enough to reach threshold, the second neuron generates
-an action potential at its axon hillock. The target of this neuron is another neuron in the thalamus of the brain, the part
-of the CNS that acts as a relay for sensory information. At another synapse, neurotransmitter is released and binds to its
-receptor. The thalamus then sends the sensory information to the cerebral cortex, the outermost layer of gray matter in the
-brain, where conscious perception of that water temperature begins.
-
- Within the cerebral cortex, information is processed among many neurons, integrating the stimulus of the water
-temperature with other sensory stimuli, with your emotional state (you just aren't ready to wake up; the bed is calling to
-you), memories (perhaps of the lab notes you have to study before a quiz).

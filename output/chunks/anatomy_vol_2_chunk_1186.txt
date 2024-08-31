@@ -1,8 +1,0 @@
-NFP changes at different points in a capillary bed (Figure 20.16). Close to the arterial end of the capillary, it is
-approximately 10 mm Hg, because the CHP of 35 mm Hg minus the BCOP of 25 mm Hg equals 10 mm Hg. Recall that the
-hydrostatic and osmotic pressures of the interstitial fluid are essentially negligible. Thus, the NFP of 10 mm Hg drives a net
-movement of fluid out of the capillary at the arterial end. At approximately the middle of the capillary, the CHP is about the
-same as the BCOP of 25 mm Hg, so the NFP drops to zero. At this point, there is no net change of volume: Fluid moves out
-of the capillary at the same rate as it moves into the capillary. Near the venous end of the capillary, the CHP has dwindled
-to about 18 mm Hg due to loss of fluid. Because the BCOP remains steady at 25 mm Hg, water is drawn into the capillary,
-that is, reabsorption occurs.

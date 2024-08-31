@@ -1,9 +1,0 @@
-As in men, the hypothalamus produces GnRH, a hormone that signals the anterior pituitary gland to produce the
-gonadotropins FSH and LH (Figure 27.13). These gonadotropins leave the pituitary and travel through the bloodstream to
-the ovaries, where they bind to receptors on the granulosa and theca cells of the follicles. FSH stimulates the follicles to
-grow (hence its name of follicle-stimulating hormone), and the five or six tertiary follicles expand in diameter. The release
-of LH also stimulates the granulosa and theca cells of the follicles to produce the sex steroid hormone estradiol, a type of
-estrogen. This phase of the ovarian cycle, when the tertiary follicles are growing and secreting estrogen, is known as the
-ollicular phase.
- The more granulosa and theca cells a follicle has (that is, the larger and more developed it is), the more estrogen it will
-produce in response to LH stimulation.

@@ -1,9 +1,0 @@
-Neurons are cells and
-therefore have a soma, or cell body, but they also have extensions of the cell; each extension is generally referred to as a
-process. There is one important process that every neuron has called an axon, which is the fiber that connects a neuron with
-its target. Another type of process that branches off from the soma is the dendrite. Dendrites are responsible for receiving
-most of the input from other neurons. Looking at nervous tissue, there are regions that predominantly contain cell bodies
-and regions that are largely composed of just axons. These two regions within nervous system structures are often referred
-to as gray matter (the regions with many cell bodies and dendrites) or white matter (the regions with many axons). Figure
-12.3 demonstrates the appearance of these regions in the brain and spinal cord. The colors ascribed to these regions are
-what would be seen in “fresh,” or unstained, nervous tissue.

@@ -1,8 +1,0 @@
-The ovaries produce oocytes, the female gametes, in a process called oogenesis. As with spermatogenesis, meiosis
-produces the haploid gamete (in this case, an ovum); however, it is completed only in an oocyte that has been penetrated by
-a sperm. In the ovary, an oocyte surrounded by supporting cells is called a follicle. In folliculogenesis, primordial follicles
-develop into primary, secondary, and tertiary follicles. Early tertiary follicles with their fluid-filled antrum will be stimulated
-by an increase in FSH, a gonadotropin produced by the anterior pituitary, to grow in the 28-day ovarian cycle. Supporting
-granulosa and theca cells in the growing follicles produce estrogens, until the level of estrogen in the bloodstream is high
-enough that it triggers negative feedback at the hypothalamus and pituitary. This results in a reduction of FSH and LH, and
-most tertiary follicles in the ovary undergo atresia (they die).

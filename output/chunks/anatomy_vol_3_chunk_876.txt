@@ -1,9 +1,0 @@
-Mendel performed thousands of crosses in pea plants with differing traits for a variety of characteristics. And he
-repeatedly came up with the same results—among the traits he studied, one was always dominant, and the other was always
-recessive. (Remember, however, that this dominant—recessive relationship between alleles is not always the case; some
-alleles are codominant, and sometimes dominance is incomplete.)
-
- Using his understanding of dominant and recessive traits, Mendel tested whether a recessive trait could be lost
-altogether in a pea lineage or whether it would resurface in a later generation. By crossing the second-generation offspring
-of purebred parents with each other, he showed that the latter was true: recessive traits reappeared in third-generation plants
-in a ratio of 3:1 (three offspring having the dominant trait and one having the recessive trait).

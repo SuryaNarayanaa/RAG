@@ -1,9 +1,0 @@
-(a) In phagocytosis, which is relatively nonselective, the cell takes ina
-large particle. (b) In pinocytosis, the cell takes in small particles in fluid. (c) In contrast, receptor-mediated endocytosis
-is quite selective. When external receptors bind a specific ligand, the cell responds by endocytosing the ligand.
-
- Phagocytosis and pinocytosis take in large portions of extracellular material, and they are typically not highly selective
-in the substances they bring in. Cells regulate the endocytosis of specific substances via receptor-mediated endocytosis.
- Receptor-mediated endocytosis is endocytosis by a portion of the cell membrane that contains many receptors that are
-specific for a certain substance. Once the surface receptors have bound sufficient amounts of the specific substance (the
-receptor’s ligand), the cell will endocytose the part of the cell membrane containing the receptor-ligand complexes.

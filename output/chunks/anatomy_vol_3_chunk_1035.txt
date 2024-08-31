@@ -1,9 +1,0 @@
-MHC molecules. These are taken to the cell surface by transport vesicles. 43
-Antigen-specific clones are stimulated as their antigen receptor binds to antigen. They are then activated and proliferate, expanding
-their numbers. The result is a large number of antigen-specific lymphocytes. 44 B cells activated during a primary response
-differentiate either into terminally differentiated plasma cells or into memory B cells. These memory B cells are what respond
-during a secondary or memory antibody response. 45 IgM is an antigen receptor on naive B cells. Upon activation, naive B cells
-make IgM first. IgM is good at binding complement and thus has good antibacterial effects. IgM is replaced with other classes
-of antibodies later on in the primary response due to class switching. 46 Seroconversion is the clearance of virus in the serum
-due to the increase in specific serum antibody levels. Seroconversion happens in the early stages of HIV disease. Unfortunately,
-the antibody cannot completely clear the virus from the body and thus it most often progresses to AIDS.

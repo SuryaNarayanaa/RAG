@@ -1,7 +1,0 @@
-The basal nuclei in the cerebrum are connected with a few more nuclei in the brain stem that together act as a functional
-group that forms a motor pathway. Two streams of information processing take place in the basal nuclei. All input to the
-basal nuclei is from the cortex into the striatum (Figure 13.10). The direct pathway is the projection of axons from the
-striatum to the globus pallidus internal segment (GPi) and the substantia nigra pars reticulata (SNr). The GPi/SNr then
-projects to the thalamus, which projects back to the cortex. The indirect pathway is the projection of axons from the
-striatum to the globus pallidus external segment (GPe), then to the subthalamic nucleus (STN), and finally to GPi/SNr. The
-two streams both target the GPi/SNr, but one has a direct projection and the other goes through a few intervening nuclei.

@@ -1,9 +1,0 @@
-These charges are often referred to as “partial
-charges” because the strength of the charge is less than one full electron, as would occur in an ionic bond. As shown in
-Figure 2.10, regions of weak polarity are indicated with the Greek letter delta (0) and a plus (+) or minus (-) sign.
-
- Even though a single water molecule is unimaginably tiny, it has mass, and the opposing electrical charges on the
-molecule pull that mass in such a way that it creates a shape somewhat like a triangular tent (see Figure 2.10b). This dipole,
-with the positive charges at one end formed by the hydrogen atoms at the “bottom” of the tent and the negative charge
-at the opposite end (the oxygen atom at the “top” of the tent) makes the charged regions highly likely to interact with
-charged regions of other polar molecules.

@@ -1,9 +1,0 @@
-When vision is fixed on an object in space, closer objects
-will fall on the lateral retina of each eye, and more distant objects will fall on the medial retina of either eye (Figure
-14.25). This is easily observed by holding a finger up in front of your face as you look at a more distant object. You
-will see two images of your finger that represent the two disparate images that are falling on either retina.
-
- These depth cues, both monocular and binocular, can be exploited to make the brain think there are three
-dimensions in two-dimensional information. This is the basis of 3-D movies. The projected image on the screen is two
-dimensional, but it has disparate information embedded in it. The 3-D glasses that are available at the theater filter the
-information so that only one eye sees one version of what is on the screen, and the other eye sees the other version.

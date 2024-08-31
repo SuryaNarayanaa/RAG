@@ -1,8 +1,0 @@
-This starts with a channel opening for Na’ in the membrane. Because the concentration of Na’ is higher outside the cell
-than inside the cell by a factor of 10, ions will rush into the cell that are driven largely by the concentration gradient. Because
-sodium is a positively charged ion, it will change the relative voltage immediately inside the cell relative to immediately
-outside. The resting potential is the state of the membrane at a voltage of -70 mV, so the sodium cation entering the cell will
-cause it to become less negative. This is known as depolarization, meaning the membrane potential moves toward zero.
-
- The concentration gradient for Na’ is so strong that it will continue to enter the cell even after the membrane potential
-has become zero, so that the voltage immediately around the pore begins to become positive.

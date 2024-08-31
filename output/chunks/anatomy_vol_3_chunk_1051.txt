@@ -1,9 +1,0 @@
-25C 26C 27A 28C 29B 30 An increase or decrease in lean muscle mass will result in an increase or
-decrease in metabolism. 31 Addison’s disease is characterized by low cortisol levels. One way to treat the disease is by giving
-cortisol to the patient. 32 Glucose is oxidized during glycolysis, creating pyruvate, which is processed through the Krebs cycle
-to produce NADH, FADH2, ATP, and CO2. The FADH2 and NADH yield ATP. 33 Upon entry into the cell, hexokinase or
-glucokinase phosphorylates glucose, converting it into glucose-6-phosphate. In this form, glucose-6-phosphate is trapped in the
-cell. Because all of the glucose has been phosphorylated, new glucose molecules can be transported into the cell according to its
-concentration gradient. 34 Carbohydrates are converted into pyruvate during glycolysis. This pyruvate is converted into acetyl
-CoA and proceeds through the Krebs cycle. When excess acetyl CoA is produced that cannot be processed through the Krebs
-cycle, the acetyl CoA is converted into triglycerides and fatty acids to be stored in the liver and adipose tissue.

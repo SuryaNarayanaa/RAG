@@ -1,9 +1,0 @@
-The stratum basale is a single layer of cells primarily made of basal cells. A basal cell is a cuboidal-shaped stem
-cell that is a precursor of the keratinocytes of the epidermis. All of the keratinocytes are produced from this single layer
-of cells, which are constantly going through mitosis to produce new cells. As new cells are formed, the existing cells are
-pushed superficially away from the stratum basale. Two other cell types are found dispersed among the basal cells in the
-stratum basale. The first is a Merkel cell, which functions as a receptor and is responsible for stimulating sensory nerves
-that the brain perceives as touch. These cells are especially abundant on the surfaces of the hands and feet. The second is
-a melanocyte, a cell that produces the pigment melanin. Melanin gives hair and skin its color, and also helps protect the
-living cells of the epidermis from ultraviolet (UV) radiation damage.
-

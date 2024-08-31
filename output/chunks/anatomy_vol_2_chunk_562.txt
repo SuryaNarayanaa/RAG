@@ -1,9 +1,0 @@
-Furthermore, each defect on its own may not be a problem, but when several are added together, they
-can disrupt growth processes that are not well understand in the first place. For instance, it is possible for a stroke to damage
-a specific region of the brain and lead to the loss of the ability to recognize faces (prosopagnosia). The link between cell
-death in the fusiform gyrus and the symptom is relatively easy to understand. In contrast, similar deficits can be seen in
-children with the developmental disorder, autism spectrum disorder (ASD). However, these children do not lack a fusiform
-gyrus, nor is there any damage or defect visible to this brain region. We conclude, rather poorly, that this brain region is not
-connected properly to other brain regions.
-
- Infection, trauma, and congenital disorders can all lead to significant signs, as identified through the neurological exam.

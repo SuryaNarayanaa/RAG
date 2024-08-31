@@ -1,9 +1,0 @@
-Those K* channels are slightly delayed in closing, accounting for
-this short overshoot.
-
- What has been described here is the action potential, which is presented as a graph of voltage over time in Figure
-12.23. It is the electrical signal that nervous tissue generates for communication. The change in the membrane voltage from
--70 mV at rest to +30 mV at the end of depolarization is a 100-mV change. That can also be written as a 0.1-V change. To
-put that value in perspective, think about a battery. An AA battery that you might find in a television remote has a voltage of
-1.5 V, or a 9-V battery (the rectangular battery with two posts on one end) is, obviously, 9 V. The change seen in the action
-potential is one or two orders of magnitude less than the charge in these batteries.

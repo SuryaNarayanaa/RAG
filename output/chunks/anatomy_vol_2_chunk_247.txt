@@ -1,9 +1,0 @@
-The common name for a disruption of blood supply to the brain is a stroke. It is caused by a blockage to an artery
-in the brain. The blockage is from some type of embolus: a blood clot, a fat embolus, or an air bubble. When the blood
-cannot travel through the artery, the surrounding tissue that is deprived starves and dies. Strokes will often result in the
-loss of very specific functions. A stroke in the lateral medulla, for example, can cause a loss in the ability to swallow.
- Sometimes, seemingly unrelated functions will be lost because they are dependent on structures in the same region.
- Along with the swallowing in the previous example, a stroke in that region could affect sensory functions from the
-face or extremities because important white matter pathways also pass through the lateral medulla. Loss of blood flow
-to specific regions of the cortex can lead to the loss of specific higher functions, from the ability to recognize faces to
-the ability to move a particular region of the body.

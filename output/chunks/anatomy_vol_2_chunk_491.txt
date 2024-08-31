@@ -1,9 +1,0 @@
-The afferent branch responds to light hitting the
-retina. Photoreceptors are activated, and the signal is transferred to the retinal ganglion cells that send an action potential
-along the optic nerve into the diencephalon. If light levels are low, the sympathetic system sends a signal out through the
-upper thoracic spinal cord to the superior cervical ganglion of the sympathetic chain. The postganglionic fiber then projects
-to the iris, where it releases norepinephrine onto the radial fibers of the iris (a smooth muscle). When those fibers contract,
-the pupil dilates—increasing the amount of light hitting the retina. If light levels are too high, the parasympathetic system
-sends a signal out from the Eddinger—Westphal nucleus through the oculomotor nerve. This fiber synapses in the ciliary
-ganglion in the posterior orbit. The postganglionic fiber then projects to the iris, where it releases ACh onto the circular
-fibers of the iris—another smooth muscle.

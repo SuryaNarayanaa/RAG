@@ -1,9 +1,0 @@
-As we have seen, the depolarization and repolarization of an action potential are dependent on two types of channels
-(the voltage-gated Na* channel and the voltage-gated K* channel). The voltage-gated Na® channel actually has two gates.
- One is the activation gate, which opens when the membrane potential crosses -55 mV. The other gate is the inactivation
-gate, which closes after a specific period of time—on the order of a fraction of a millisecond. When a cell is at rest, the
-activation gate is closed and the inactivation gate is open. However, when the threshold is reached, the activation gate opens,
-allowing Na’ to rush into the cell. Timed with the peak of depolarization, the inactivation gate closes. During repolarization,
-no more sodium can enter the cell. When the membrane potential passes -55 mV again, the activation gate closes. After
-that, the inactivation gate re-opens, making the channel ready to start the whole process over again.
-

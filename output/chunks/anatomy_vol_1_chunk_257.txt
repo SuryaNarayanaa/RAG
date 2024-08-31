@@ -1,8 +1,0 @@
-A single phospholipid molecule has a phosphate group on one end, called the “head,” and two side-by-side chains of
-atty acids that make up the lipid tails (Figure 3.2). The phosphate group is negatively charged, making the head polar and
-hydrophilic—or “water loving.” A hydrophilic molecule (or region of a molecule) is one that is attracted to water. The
-phosphate heads are thus attracted to the water molecules of both the extracellular and intracellular environments. The lipid
-tails, on the other hand, are uncharged, or nonpolar, and are hydrophobic—or “water fearing.” A hydrophobic molecule
-(or region of a molecule) repels and is repelled by water. Some lipid tails consist of saturated fatty acids and some contain
-unsaturated fatty acids. This combination adds to the fluidity of the tails that are constantly in motion. Phospholipids are
-thus amphipathic molecules. An amphipathic molecule is one that contains both a hydrophilic and a hydrophobic region.

@@ -1,9 +1,0 @@
-A division of the nervous system that is related to the autonomic nervous system is the enteric nervous system. The
-word enteric refers to the digestive organs, so this represents the nervous tissue that is part of the digestive system. There
-are a few myenteric plexuses in which the nervous tissue in the wall of the digestive tract organs can directly influence
-digestive function. If stretch receptors in the stomach are activated by the filling and distension of the stomach, a short
-reflex will directly activate the smooth muscle fibers of the stomach wall to increase motility to digest the excessive food
-in the stomach. No CNS involvement is needed because the stretch receptor is directly activating a neuron in the wall of
-the stomach that causes the smooth muscle to contract. That neuron, connected to the smooth muscle, is a postganglionic
-parasympathetic neuron that can be controlled by a fiber found in the vagus nerve.
-

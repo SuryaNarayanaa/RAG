@@ -1,8 +1,0 @@
-The receptors are named for, and differentiated by, other
-molecules that bind to them. Whereas nicotine will bind to the nicotinic receptor, and muscarine will bind to the muscarinic
-receptor, there is no cross-reactivity between the receptors. The situation is similar to locks and keys. Imagine two
-locks—one for a classroom and the other for an office—that are opened by two separate keys. The classroom key will
-not open the office door and the office key will not open the classroom door. This is similar to the specificity of nicotine
-and muscarine for their receptors. However, a master key can open multiple locks, such as a master key for the Biology
-Department that opens both the classroom and the office doors. This is similar to ACh that binds to both types of receptors.
- The molecules that define these receptors are not crucial—they are simply tools for researchers to use in the laboratory.

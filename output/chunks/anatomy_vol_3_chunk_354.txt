@@ -1,9 +1,0 @@
-The electron transport chain consists of a series of four enzyme complexes (Complex I —
-Complex IV) and two coenzymes (ubiquinone and Cytochrome c), which act as electron carriers and proton pumps used to
-
-transfer H" ions into the space between the inner and outer mitochondrial membranes (Figure 24.8). The ETC couples the
-transfer of electrons between a donor (like NADH) and an electron acceptor (like Oz) with the transfer of protons (H* ions)
-across the inner mitochondrial membrane, enabling the process of oxidative phosphorylation. In the presence of oxygen,
-energy is passed, stepwise, through the electron carriers to collect gradually the energy needed to attach a phosphate to ADP
-and produce ATP. The role of molecular oxygen, Og, is as the terminal electron acceptor for the ETC. This means that once
-the electrons have passed through the entire ETC, they must be passed to another, separate molecule.

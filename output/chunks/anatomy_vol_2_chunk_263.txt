@@ -1,9 +1,0 @@
-The three eye-movement nerves are all motor: the oculomotor (CNIII), trochlear (CNIV), and abducens (CNVI). The spinal
-accessory (CNXI) and hypoglossal (CNXII) nerves are also strictly motor. The remainder of the nerves contain both sensory
-and motor fibers. They are the trigeminal (CNV), facial (CNVID), glossopharyngeal (CNIX), and vagus (CNX) nerves. The
-nerves that convey both are often related to each other. The trigeminal and facial nerves both concern the face; one concerns
-the sensations and the other concerns the muscle movements. The facial and glossopharyngeal nerves are both responsible
-for conveying gustatory, or taste, sensations as well as controlling salivary glands. The vagus nerve is involved in visceral
-responses to taste, namely the gag reflex. This is not an exhaustive list of what these combination nerves do, but there is a
-thread of relation between them.
-

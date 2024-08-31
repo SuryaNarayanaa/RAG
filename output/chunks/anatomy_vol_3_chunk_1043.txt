@@ -1,9 +1,0 @@
-Henry’s law states that gas molecules dissolve in a liquid proportional to their partial pressure. 45 The damaged alveoli
-will have insufficient ventilation, causing the partial pressure of oxygen in the alveoli to decrease. As a result, the pulmonary
-capillaries serving these alveoli will constrict, redirecting blood flow to other alveoli that are receiving sufficient ventilation. 46
-Both adult and fetal hemoglobin transport oxygen via iron molecules. However, fetal hemoglobin has about a 20-fold greater
-affinity for oxygen than does adult hemoglobin. This is due to a difference in structure; fetal hemoglobin has two subunits that
-have a slightly different structure than the subunits of adult hemoglobin. 47 The relationship between the partial pressure of
-oxygen and the binding of hemoglobin to oxygen is described by the oxygen—hemoglobin saturation/dissociation curve. As the
-partial pressure of oxygen increases, the number of oxygen molecules bound by hemoglobin increases, thereby increasing the
-saturation of hemoglobin.

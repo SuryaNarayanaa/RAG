@@ -1,9 +1,0 @@
-At high altitude, barometric pressure
-is much less than on Earth’s surface because pressure is produced by the weight of the column of air above the body
-pressing down on the body. The very great pressures on divers in deep water are likewise from the weight of a column
-of water pressing down on the body. For divers, DCS occurs at normal barometric pressure (at sea level), but it is
-brought on by the relatively rapid decrease of pressure as divers rise from the high pressure conditions of deep water to
-the now low, by comparison, pressure at sea level. Not surprisingly, diving in deep mountain lakes, where barometric
-pressure at the surface of the lake is less than that at sea level is more likely to result in DCS than diving in water at
-sea level.
-

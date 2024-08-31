@@ -1,7 +1,0 @@
-The major segments and intervals of an ECG tracing are indicated in Figure 19.23. Segments are defined as the regions
-between two waves. Intervals include one segment plus one or more waves. For example, the PR segment begins at the end
-of the P wave and ends at the beginning of the QRS complex. The PR interval starts at the beginning of the P wave and
-ends with the beginning of the QRS complex. The PR interval is more clinically relevant, as it measures the duration from
-the beginning of atrial depolarization (the P wave) to the initiation of the QRS complex. Since the Q wave may be difficult
-to view in some tracings, the measurement is often extended to the R that is more easily visible. Should there be a delay
-in passage of the impulse from the SA node to the AV node, it would be visible in the PR interval.
